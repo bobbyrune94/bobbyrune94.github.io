@@ -276,23 +276,6 @@
 
     	document.getElementById("bestInvestRatingText").innerHTML += neighborhoods[maxIncomeIndex];
     	document.getElementById("breakEvenText").innerHTML += 100000000/maxPossibleIncome + " " + "years";
-
-    	var table_data = '<table class="table table-bordered table-striped">';
-
-		table_data += '<tr>';
-		table_data += '<th>' + "Neighborhood" + '</th>';
-		table_data += '<td>' + "Total Income" + '</td>';
-
-		for(var count = 0; count<neighborhoods.length; count++)
-		{
-			table_data += '<tr>';
-			table_data += '<th>' + neighborhoods[count] + '</th>';
-			table_data += '<td>' + totalNeighborhoodIncome[count] + '</td>';
-			table_data += '</tr>';
-		}
-
-		table_data += '</table>';
-    	$('#employee_table').html(table_data);
 	}
 
 	//generates the array of neighborhoods
@@ -520,29 +503,6 @@
 
 		weeklyAvgText.innerHTML = weeklyAvgIncomeTextDefault + " " + nearbyAvgWeekly/numNearby;
 		idealPriceText.innerHTML = idealPriceTextDefault + " " + maxWeeklyPrice;
-
-		// var table_data = '<table class="table table-bordered table-striped">';
-
-		// table_data += '<tr>';
-		// table_data += '<th>' + "Listing ID" + '</th>';
-		// table_data += '<td>' + "Latitude" + '</td>';
-		// table_data += '<td>' + "Longitude" + '</td>';
-		// table_data += '<td>' + "Price" + '</td>';
-		// table_data += '<td>' + "Average Weekly Income" + '</td>';
-
-		// for(var count = 0; count<nearbyIDs.length; count++)
-		// {
-		// 	table_data += '<tr>';
-		// 	table_data += '<th>' + nearbyIDs[count] + '</th>';
-		// 	table_data += '<td>' + nearbyLats[count] + '</td>';
-		// 	table_data += '<td>' + nearbyLongs[count] + '</td>';
-		// 	table_data += '<td>' + nearbyPrices[count] + '</td>';
-		// 	table_data += '<td>' + nearbyAvgWeeklyIncomes[count] + '</td>';
-		// 	table_data += '</tr>';
-		// }
-
-		// table_data += '</table>';
-  //   	$('#employee_table').html(table_data);
 	}
 
 	//parses the neighbourhoods.csv file and generates an array
