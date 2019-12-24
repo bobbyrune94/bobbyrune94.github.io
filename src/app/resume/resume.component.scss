@@ -1,0 +1,129 @@
+.Resume {
+	padding-top: 1%;
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-bottom: 60px;
+}
+
+.Resume-header {
+	display: flex;
+	flex-direction: row; 
+}
+
+.Resume-sectionHeader {
+	border-bottom: solid;
+}
+
+.Resume-entryTime,
+.Resume-schoolName,
+.Resume-employerName,
+.Resume-projectName,
+.Resume-email,
+.Resume-education > h3,
+.Resume-work > h3,
+.Resume-projects > h3{
+	margin-bottom: 0;
+}
+
+.Resume-schoolAddress,
+.Resume-title,
+.Resume-homeAddress {
+	text-align: center;
+	width: calc(100% / 3);
+}
+
+.Address-line1 {
+	margin-bottom: 0;
+}
+
+.Address-line2 {
+	margin-top: 0;
+}
+
+.Resume-entry {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin-left: 30px;
+	margin-bottom: 10px;
+}
+
+.Resume-schoolName,
+.Resume-entryName {
+	font-weight: bold;
+	width: 80%;
+}
+
+.Resume-GPA,
+.Resume-jobTitle,
+.Resume-activityPosition {
+	font-weight: normal;
+}
+
+.Resume-jobTitle,
+.Resume-activityName {
+	margin-bottom: 5px;
+}
+
+.Resume-entryTime {
+	width: 20%;
+}
+
+.Resume-majors {
+	margin-bottom: 0;
+}
+
+.Resume-majors,
+.Resume-classes {
+	margin-top: 0;
+	width: 100%;
+}
+
+.Resume-skills,
+.Resume-activityEntry {
+	margin-left: 30px;
+}
+
+.Resume-skillTitle,
+.Resume-skillsUsed,
+.Resume-activityName {
+	font-weight: bold;
+}
+
+.Resume-activityDescription {
+	white-space: pre-wrap;
+}
+
+@media(max-width: 768px) {
+	.Resume-header {
+		flex-wrap: wrap;
+	}
+
+	.Resume-title {
+		order: -1;
+		width: 100%;
+	}
+
+	.Address {
+		width: 50%;
+	}
+
+	.Resume-schoolName,
+	.Resume-entryName {
+		font-weight: 800;
+		width: 100%;
+	}
+
+	.Resume-GPA {
+		display: inline-block;
+	}
+
+	.Resume-jobTitle {
+		font-weight: 600;
+	}
+
+	.Resume-entryTime {
+		font-weight: 450;
+		width: 100%;
+	}
+}

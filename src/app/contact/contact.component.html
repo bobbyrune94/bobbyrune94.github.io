@@ -1,0 +1,38 @@
+<div class="jumbotron">
+    <div class="container">
+        <div class="Banner">
+            <div class="Banner-image">
+                <img src="assets/images/contactImage.jpg" alt="Contact Image" height="140" width="140">
+            </div>
+            <div class="Banner-description">
+                <h1>
+                    Contact Me
+                </h1>
+                <p>
+                    Please let me know if you have any thoughts on the content or design of my website. Please make any criticisms constructive so that I know where I need to improve and change.
+               </p>
+            </div>
+        </div>  
+    </div>
+</div>
+  
+<div class="PageContent container">
+    <form novalidate (ngSubmit)="sendEmail()" #contactForm="ngForm" class="Form">
+        <div class="form-group">
+            <label for="name">Name</label>
+            <input type="text" class="form-control" name="name" placeholder="Enter name" [(ngModel)]="email.name" required>
+        </div>
+
+        <div class="form-group">
+            <label for="email">Email Address</label>
+            <input type="email" class="form-control" name="email" placeholder="Enter email" [(ngModel)]="email.address" required>
+        </div>
+
+        <div class="form-group">
+            <label for="message">Message</label>
+            <textarea rows="10" cols="75" class="form-control" name="message" [(ngModel)]="email.message" required></textarea>
+        </div>
+        
+        <button type="submit" class="btn btn-primary btn-block">Submit</button>
+    </form>
+</div>

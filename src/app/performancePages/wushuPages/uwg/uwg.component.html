@@ -1,0 +1,93 @@
+<div class="jumbotron">
+    <div class="container">
+        <div class="Banner">
+            <div class="Banner-image">
+                <img src="assets/images/wushu.jpg" alt="Wushu Image" height="140" width="140">
+            </div>
+            <div class="Banner-description">
+                <h1>
+                    Performances
+                </h1>
+                <p>
+                    See my performances and competitions from cheerleading and martial arts
+                </p>
+            </div>
+        </div>  
+    </div>
+</div>
+  
+<div class="PageContent container">
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item" aria-current="page"><a routerLink="/performances">Home</a></li>
+            <li class="breadcrumb-item" aria-current="page"><a routerLink="/performances/wushu">Wushu</a></li>
+            <li class="breadcrumb-item active" aria-current="page">University Wushu Games</li>
+        </ol>
+    </nav>
+
+    <ul class="nav nav-tabs">
+        <li class="nav-item">
+            <a class="nav-link" routerLink="/performances">
+                Home
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link active" routerLink="/performances/wushu">
+                Wushu
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" routerLink="/performances/cheerleading">
+                Cheerleading
+            </a>
+        </li>
+    </ul>
+
+    <div class="UWG">
+		<h2>University Wushu Games</h2>
+		<p>The University Wushu Games (UWG) is an annual competition held at the University of Maryland College Park at the end of the Fall semester hosted by their Wushu club. Practitioners from around the DMV (DC-Maryland-Virginia) area and those from colleges along the East Coast come and compete in different barehand and weapon forms. Our club has made it an annual tradition to go and compete and it's often the first competition that many of our beginners attend.</p>
+		<p>Here's a Youtube playlist of some of my UWG competition videos: <a href="https://www.youtube.com/playlist?list=PL1otiq-z8nID4JblaAao7k8KokeybzNSo">https://www.youtube.com/playlist?list=PL1otiq-z8nID4JblaAao7k8KokeybzNSo</a></p>
+		<p>Check out some of the pictures my dad took during my last three competitions.</p>
+		<div class="Slideshow">
+			<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+			  	<div class="carousel-inner">
+				    <div class="carousel-item active">
+				      	<img class="d-block" src="assets/images/uwgPhotos/uwg2018-1.jpg" alt="First slide">
+				      	<div class="carousel-caption d-none d-md-block">
+						    <h5>UWG 2018</h5>
+						</div>
+                    </div>
+                    
+                    <div class="carousel-item" *ngFor="let i of photos2018">
+                        <img class="d-block" src="assets/images/uwgPhotos/uwg2018-{{ i }}.jpg" alt="slide">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h5>UWG 2018</h5>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item" *ngFor="let i of photos2017">
+                        <img class="d-block" src="assets/images/uwgPhotos/uwg2017-{{ i }}.jpg" alt="slide">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h5>UWG 2017</h5>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item" *ngFor="let i of photos2016">
+                        <img class="d-block" src="assets/images/uwgPhotos/uwg2016-{{ i }}.jpg" alt="slide">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h5>UWG 2016</h5>
+                        </div>
+                    </div>
+			    </div>
+			 	<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+			    	<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+			    	<span class="sr-only">Previous</span>
+			  	</a>
+			  	<a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+			    	<span class="carousel-control-next-icon" aria-hidden="true"></span>
+			    	<span class="sr-only">Next</span>
+			  	</a>
+			</div>
+		</div>
+	</div>
+</div>

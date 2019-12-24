@@ -1,0 +1,80 @@
+<div class="jumbotron">
+    <div class="container">
+        <div class="Banner">
+            <div class="Banner-image">
+                <img src="assets/images/wushu.jpg" alt="Wushu Image" height="140" width="140">
+            </div>
+            <div class="Banner-description">
+                <h1>
+                    Performances
+                </h1>
+                <p>
+                    See my performances and competitions from cheerleading and martial arts
+                </p>
+            </div>
+        </div>  
+    </div>
+</div>
+  
+<div class="PageContent container">
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a routerLink="/performances">Home</a></li>
+            <li class="breadcrumb-item"><a routerLink="/performances/cheerleading">Cheerleading</a></li>
+            <li class="breadcrumb-item active" aria-current="page">2014 Season</li>
+        </ol>
+    </nav>
+
+    <ul class="nav nav-tabs">
+        <li class="nav-item">
+            <a class="nav-link" routerLink="/performances">
+                Home
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" routerLink="/performances/wushu">
+                Wushu
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link active" routerLink="/performances/cheerleading">
+                Cheerleading
+            </a>
+        </li>
+    </ul>
+
+    <div class="Performances">
+		<div class="Performances">
+            <h2>Cheer 2014</h2>
+            <p>My second year on the team (my junior year of high school), our coach appointed me and another junior as captains, much to the dismay and ire of the seniors. While I had a good relationship with the coach, she was often very abrasive and condescending toward other teammates, adding to the team's distaste of her. Eventually, our team split between those who hated our coach and those who were willing to tolerate her for the season. I and my co-captain desparately tried to keep the team together and, thankfully, we all stayed together and did fairly well at our district's competition. We placed 4th of 8, just shy of qualifying for Regionals, but luckily our team was still together.</p>
+            <p>This year, my dad also became somewhat of an unofficial photographer for our team. He enjoys taking photos, so he came with us to football games, competitions, and even our rehearsals to take action photos that I, of course, shared with the team. Check them out below.</p>
+            <div class="Slideshow">
+                <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img class="d-block" src="assets/images/cheer2014/cheer2014-0.jpg" alt="First slide">
+                        </div>
+
+                        <div class="carousel-item" *ngFor="let i of pictureNums">
+                            <img class="d-block" src="assets/images/cheer2014/cheer2014-{{ i }}.jpg" alt="slide">
+                        </div>
+                    </div>
+                    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </div>
+            <div class="Video-videoGroup">
+                <h3 class="Video-videoTitle">District Finals Competition</h3>
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe width="1519" height="554" src="https://www.youtube.com/embed/mlysZCCA-q4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
