@@ -1,136 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+@import "app/stylesheets/imageButton.scss";
+@import "app/stylesheets/banner.scss";
+@import "app/stylesheets/video.scss";
+@import "app/stylesheets/slideshow.scss";
+@import "app/stylesheets/categories.scss";
+
 .PageContent {
 	margin-bottom: 30px;
 }
 
-@media(min-width: 768px) {
-	.ImageButton {
-		width: 25%;
-		height: auto;
-
-		margin-left: 1%;
-		margin-right: 1%;
-	}
-}
-
-.ImageButton-home > img,
-.ImageButton > img {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-
-	width: 75%;
-	height: auto;
-}
-
-.ImageButton-home {
-	width: 80%;
-	min-height: 100px;
-	height: auto !important;
-}
-
-@media(max-width: 768px) {
-	.Banner {
-		display: flex;
-		flex-direction: column;
-		align-items: center;
-	}
-
-	.Banner-image {
-		margin-right: 5%;
-	}
-
-	.Banner-description {
-		text-align: center;
-	}
-}
-
-@media(min-width: 768px) {
-	.Banner {
-		display: flex;
-		flex-direction: row;
-	}
-
-	.Banner-image {
-		align-self: center;
-		margin-right: 5%;
-	}
-
-	.Banner-description > h1 {
-		margin-top: 0;
-	}
-}
-
-@media(max-width: 768px) {
-	.Performances-categories {
-		display: flex;
-		flex-direction: column;
-	}
-
-	.Performances-categories > a {
-		margin-bottom: 15px;
-	}
-}
-
-@media(min-width: 768px) {
-	.Performances-categories {
-		display: flex;
-		justify-content: space-around;
-		flex-direction: row;
-	}
-}
-
-.Performances > h2 {
-	text-align: center;
-}
-
-.Slideshow {
-	height: 500px;
-	width: 100%;
-
-	background: black;
-
-	margin-bottom: 20px;
-}
-
-.carousel-item-next > img,
-.carousel-item-prev > img,
-.carousel-item.active > img {
-	height: 500px;
-	width: auto;
-
-	margin-left: auto;
-	margin-right: auto;
-}
-
-.Video-videoGroup {
-	margin-bottom: 20px;
-}
-
-.Video-video {
-	width: 100%;
-	height: auto;
-}
-
-@media(max-width: 768px) {
-	.Projects-categories {
-		display: flex;
-		flex-direction: column;
-	}
-
-	.Projects-categories > a {
-		margin-bottom: 15px;
-	}
-}
-
-@media(min-width: 768px) {
-	.Projects-categories {
-		display: flex;
-		justify-content: space-around;
-		flex-direction: row;
-	}
-}
-
-.Projects > h2 {
+.Title {
 	text-align: center;
 }

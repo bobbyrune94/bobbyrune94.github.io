@@ -1,18 +1,22 @@
 @media(max-width: 768px) {
-	.Home-column {
-		margin-top: 30px;
-		margin-bottom: 30px;
+	.Home {
+		&-column {
+			margin-top: 30px;
+			margin-bottom: 30px;
+		}
 	}
 }
 
-.Home-column {
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-}
+.Home {
+	&-column {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
 
-.Home-column > p {
-	text-align: center;
-	overflow: auto;
-	width: 100%;
+		p {
+			text-align: center;
+			overflow: auto;
+			width: 100%;
+		}
+	}
 }
