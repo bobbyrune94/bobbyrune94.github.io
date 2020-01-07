@@ -7,7 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class UwgComponent implements OnInit {
 
-  photos2018 = Array(6).fill(0).map((x, i) => i+2)
+  photos2019 = Array(7).fill(0).map((x, i) => i+2)
+  photos2018 = Array(7).fill(0).map((x, i) => i+1)
   photos2017 = Array(6).fill(0).map((x, i) => i+1)
   photos2016 = Array(6).fill(0).map((x, i) => i+1)
 

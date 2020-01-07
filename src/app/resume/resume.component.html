@@ -18,7 +18,7 @@
 </div>
   
 <div class="PageContent container">
-    <div class="Resume">
+    <div class="Resume" itemscope itemtype="http://schema.org/Person">
         <div class="Resume-header">
             <div class="Resume-schoolAddress Address">
                 <h3>School Address:</h3>
@@ -26,20 +26,24 @@
                 <p class="Address-line2">Charlottesville, VA 22903</p>
             </div>
             <div class="Resume-title">
-                <h1>Kenneth Chen</h1>
-                <p class="Resume-email">kchen.mail@icloud.com</p>
-                <p>571-267-1911</p>
+                <h1 itemprop="name">Kenneth Chen</h1>
+                <p class="Resume-email" itemprop="email">kchen.mail@icloud.com</p>
+                <p itemprop="telephone">571-267-1911</p>
             </div>
-            <div class="Resume-homeAddress Address">
+            <div class="Resume-homeAddress Address" itemscope itemtype="http://schema.org/PostalAddress">
                 <h3>Permanent Address:</h3>
-                <p class="Address-line1">951 Preserve Ct.</p>
-                <p class="Address-line2">Great Falls, VA 22066</p>
+                <p class="Address-line1" itemprop="streetAddress">951 Preserve Ct.</p>
+                <p class="Address-line2">
+                    <span itemprop="addressLocality">Great Falls</span>,
+                    <span itemprop="addressRegion">VA</span>
+                    <span itemprop="postalCode">22066</span>
+                </p>
             </div>
         </div>
         <div class="Resume-education">
             <h3 class="Resume-sectionHeader">Education</h3>
             <div class="Resume-entry">
-                <p class="Resume-schoolName">University of Virginia School of Engineering and Applied Science <span class="Resume-GPA">(Current GPA: 3.899)</span></p>
+                <p class="Resume-schoolName">University of Virginia School of Engineering and Applied Science <span class="Resume-GPA">(Current GPA: 3.872)</span></p>
                 <p class="Resume-entryTime">May 2020 Grad</p>
                 <p class="Resume-majors">Computer Science and Psychology Double Major, Applied Mathematics Minor</p>
                 <p class="Resume-classes"><i>Relevant Classwork:</i> Intro to Cybersecurity, Machine Learning, Database Systems</p>
@@ -139,7 +143,7 @@
                 <p class="Resume-entryTime">Sept. 2016 - May 2019</p>
                 <ul class="Resume-entryDescription">
                     <li>Designed and implemented game systems including enemy movements, spell casting, and time travel.</li>
-                    <li>Skills Used: Unity, C#. Link: <a href="{% url 'sgd' %}">here</a>.</li>
+                    <li>Skills Used: Unity, C#. Link: <a routerLink="/projects/sgd">here</a>.</li>
                 </ul>
             </div>
         </div>
@@ -150,18 +154,18 @@
                     <p class="Resume-projectName">Virginia Wushu Club: <span class="Resume-activityPosition">President</span></p>
                 </div>
                 <p class="Resume-entryTime">Sept. 2016 - Present</p>
-                <p class="Resume-activityDescription">Learn and teach others Chinese martial arts by leading practices and helping to choreograph performances. Check out our performances <a href="{% url 'wushu' %}">here</a>.</p>
+                <p class="Resume-activityDescription">Learn and teach others Chinese martial arts by leading practices and helping to choreograph performances. Check out our performances <a routerLink="/performances/wushu">here</a>.</p>
             </div>
             <div class="Resume-entry">
                 <div class="Resume-entryName">
                     <p class="Resume-projectName">Student Game Developers: <span class="Resume-activityPosition">Senior Programmer</span></p>
                 </div>
                 <p class="Resume-entryTime">Sept. 2016 - Present</p>
-                <p class="Resume-activityDescription">Programmed the artificial intelligence behaviors for NPCs and enemies and implemented general features in games. For list of games I've worked on, click <a href="{% url 'sgd' %}">here</a>.</p>
+                <p class="Resume-activityDescription">Programmed the artificial intelligence behaviors for NPCs and enemies and implemented general features in games. For list of games I've worked on, click <a routerLink="/projects/sgd">here</a>.</p>
             </div>
             <div class="Resume-activityEntry">
                 <p class="Resume-activityName">HackUVA: <span class="Resume-activityPosition">Participant</span></p>
-                <p class="Resume-activityDescription">Worked on projects including Face Normalizer to reduce bias and Simplisci to make scientific papers easier to read. For more details, click <a href="{% url 'hoohacks' %}">here</a>.</p>
+                <p class="Resume-activityDescription">Worked on projects including Face Normalizer to reduce bias and Simplisci to make scientific papers easier to read. For more details, click <a routerLink="/projects/hoohacks">here</a>.</p>
             </div>
         </div>
     </div>

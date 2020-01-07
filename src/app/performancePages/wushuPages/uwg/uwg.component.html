@@ -52,10 +52,17 @@
 			<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
 			  	<div class="carousel-inner">
 				    <div class="carousel-item active">
-				      	<img class="d-block" src="assets/images/uwgPhotos/uwg2018-1.jpg" alt="First slide">
+				      	<img class="d-block" src="assets/images/uwgPhotos/uwg2019-1.jpg" alt="First slide">
 				      	<div class="carousel-caption d-none d-md-block">
-						    <h5>UWG 2018</h5>
+						    <h5>UWG 2019</h5>
 						</div>
+                    </div>
+
+                    <div class="carousel-item" *ngFor="let i of photos2019">
+                        <img class="d-block" src="assets/images/uwgPhotos/uwg2019-{{ i }}.jpg" alt="slide">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h5>UWG 2019</h5>
+                        </div>
                     </div>
                     
                     <div class="carousel-item" *ngFor="let i of photos2018">

@@ -2,6 +2,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
+import { RouterModule, Routes } from '@angular/router';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -64,6 +65,9 @@ import { BardsTaleComponent } from './projectPages/sgdGames/bards-tale/bards-tal
     KinComponent
   ],
   imports: [
+    RouterModule.forRoot([
+        { path: "", component: HomeComponent}
+    ]),
     BrowserModule,
     AppRoutingModule,
     FormsModule,

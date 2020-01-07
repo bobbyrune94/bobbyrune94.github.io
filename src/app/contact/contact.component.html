@@ -17,20 +17,26 @@
 </div>
   
 <div class="PageContent container">
-    <form novalidate (ngSubmit)="sendEmail()" #contactForm="ngForm" class="Form">
+    <div *ngIf="success == true; else elseBlock" style="background-color: lime; text-align: center;">
+        <p>Email Successfully Sent!</p>
+    </div>
+    <div #elseBlock *ngIf="success == false" style="background-color: red; text-align: center;">
+        <p>Error Sending Email. Please email me at kchen.mail@icloud.com to let me know of the problem. Thanks!</p>
+    </div>
+    <form novalidate (ngSubmit)="sendEmail($event)" #contactForm="ngForm" class="Form">
         <div class="form-group">
             <label for="name">Name</label>
-            <input type="text" class="form-control" name="name" placeholder="Enter name" [(ngModel)]="email.name" required>
+            <input type="text" class="form-control" name="name" placeholder="Enter name" required>
         </div>
 
         <div class="form-group">
             <label for="email">Email Address</label>
-            <input type="email" class="form-control" name="email" placeholder="Enter email" [(ngModel)]="email.address" required>
+            <input type="email" class="form-control" name="email" placeholder="Enter email" required>
         </div>
 
         <div class="form-group">
             <label for="message">Message</label>
-            <textarea rows="10" cols="75" class="form-control" name="message" [(ngModel)]="email.message" required></textarea>
+            <textarea rows="10" cols="75" class="form-control" name="message" required></textarea>
         </div>
         
         <button type="submit" class="btn btn-primary btn-block">Submit</button>

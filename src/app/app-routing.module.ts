@@ -36,6 +36,7 @@ const routes: Routes = [
   { path: 'about', component: AboutComponent },
   { path: 'resume', component: ResumeComponent },
   { path: 'contact', component: ContactComponent },
+  { path: 'contact', component: ContactComponent },
   { path: 'projects', component: ProjectsComponent },
   { path: 'performances', component: PerformancesComponent },
   { path: 'performances/wushu', component: WushuComponent },

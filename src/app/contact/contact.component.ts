@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
-import { HttpClient } from '@angular/common/http';
-import { HttpHeaders } from '@angular/common/http';
+import emailjs, { EmailJSResponseStatus } from 'emailjs-com';
+import { Router } from '@angular/router';
+import { ActivatedRoute } from '@angular/router';
 
 @Component({
   selector: 'app-contact',
@@ -9,64 +10,23 @@ import { HttpHeaders } from '@angular/common/http';
 })
 export class ContactComponent implements OnInit {
 
-    email = new EmailData('', '', '');
-    proxyUrl = 'https://cors-anywhere.herokuapp.com/'; //to fix the CORS preflight request issue
-    apiUrl = 'https://api.sendgrid.com/v3/mail/send';
-    apiKey = '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'
-    httpOptions = {
-        headers: new HttpHeaders({
-            'Content-Type':  'application/json',
-            'Access-Control-Allow-Origin': '*',
-            'Authorization': 'Bearer ' + this.apiKey,
-        })
-    }
+    success = null;
 
-    constructor(private http: HttpClient) { }
+    constructor(
+        private router: Router, 
+        private route: ActivatedRoute
+    ) {}
 
-    ngOnInit() {
-    }
+    ngOnInit() {}
 
-    sendEmail(): void {
-        var emailData = {
-            "personalizations": [
-                {
-                    "to": [
-                        {
-                            "email": "bobbyrune94@gmail.com"
-                        }
-                    ],
-                    "subject": "[Website] Message from " + this.email.name + " at " + this.email.address
-                }
-            ],
-            "from": {
-                "email": "kenchenpersonalsite@gmail.com"
-            },
-            "content": [
-                {
-                    "type": "text/plain",
-                    "value": this.email.message
-                }
-            ]
-        }
-        this.http.post(this.proxyUrl + this.apiUrl, emailData, this.httpOptions).subscribe(
-            (val) => {
-                console.log("POST call successful value returned in body", val);
-            },
-            response => {
-                console.log("POST call in error", response);
-            },
-            () => {
-                console.log("The POST observable is now completed.");
-            }
-        );
-        alert("Sent Email");
-    }
-}
-
-class EmailData {
-  constructor(
-    public name: string,
-    public address: string,
-    public message: string,
-  ) {}
+    public sendEmail(e: Event) {
+        emailjs.sendForm('kenny_email', 'template_K2pl1K6A', e.target as HTMLFormElement, 'user_q8iH1h8XehfXwHcnmh3dd')
+          .then((result: EmailJSResponseStatus) => {
+            this.router.navigate(['contact']);
+            this.success = true;
+          }, (error) => {
+            this.router.navigate(['contact']);
+            this.success = false;
+          });
+      }
 }
