@@ -1,1 +1,2 @@
 ng build --prod --base-href="https://bobbyrune94.github.io"
+git subtree push --prefix dist/personalsite origin master
