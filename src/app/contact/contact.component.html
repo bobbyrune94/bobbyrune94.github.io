@@ -17,10 +17,10 @@
 </div>
   
 <div class="PageContent container">
-    <div *ngIf="success == true; else elseBlock" style="background-color: lime; text-align: center;">
+    <div *ngIf="success == true" style="background-color: lime; text-align: center;">
         <p>Email Successfully Sent!</p>
     </div>
-    <div #elseBlock *ngIf="success == false" style="background-color: red; text-align: center;">
+    <div *ngIf="success == false" style="background-color: red; text-align: center;">
         <p>Error Sending Email. Please email me at kchen.mail@icloud.com to let me know of the problem. Thanks!</p>
     </div>
     <form novalidate (ngSubmit)="sendEmail($event)" #contactForm="ngForm" class="Form">
