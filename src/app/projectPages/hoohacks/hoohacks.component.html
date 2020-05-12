@@ -1,0 +1,91 @@
+<div class="jumbotron">
+    <div class="container">
+        <div class="Banner">
+            <div class="Banner-image">
+                <img src="assets/images/working.jpg" alt="Working Image" height="140" width="140">
+            </div>
+            <div class="Banner-description">
+                <h1>
+                    Projects
+                </h1>
+                <p>
+                    Look at the projects and games I’ve built during school and during internships.</p>
+            </div>
+        </div>  
+    </div>
+</div>
+  
+<div class="PageContent container">
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a routerLink="/projects">Home</a></li>
+            <li class="breadcrumb-item active" aria-current="page">HooHacks</li>
+        </ol>
+    </nav>
+
+    <ul class="nav nav-tabs">
+        <li class="nav-item">
+            <a class="nav-link" routerLink="/projects">
+                Home
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" routerLink="/projects/sgd">
+                SGD Games
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link active" routerLink="/projects/hoohacks">
+                HackUVA/HooHacks
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" routerLink="/projects/internships">
+                Internships
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" routerLink="/projects/classes">
+                Classes
+            </a>
+        </li>
+    </ul>
+
+    <div class="Projects">
+		<h2 class="Title"><img src="assets/images/hoohacks.png" class="Projects-titleImage" alt="HooHacks Logo">HooHacks (formerly HackUVA)</h2>
+		<p>HackUVA is the University of Virginia's annual 24-hour hackathon organized by the student-run HackUVA committee. For those unfamiliar, hackathons are events where participants have a set time, typically 24 or 36 hours, to make something that solves a problem, whether it be an application or even some hardware. Typically hackathons will have themes or challenges for participants to base their projects around. For example, in 2018, HackUVA's themes were Safety, Equality, and Empowerment. </p>
+		<p>HackUVA 2017 was the first hackathon that I ever participated in and I've enjoyed working with friends to create something while learning new technologies and languages that they know about. Here are the projects that I've been a part of so far:</p>
+        <div class="Projects-projectGroup">
+            <h4>Cup a Noo Words (2019)</h4>
+            <h6>Teammates: Stephen Shiao, CJ Rogers</h6>
+            <h6>Skills Used: Django, HTML, CSS, Javascript</h6>
+            <div class="Projects-projectText">
+                <p>The github repository can be found <a href="https://github.com/ss2sc/CupaNooWords" target="_blank">here</a>.</p>
+                <p>For HooHacks 2019, our team chose to tackle the Education theme with our application. Cup A Noo Words would parse through an article or passage and, given a dictionary of words and definitions, highlight those words in the passage and provide a hover module so that readers can see what that particular word means.</p>
+                <p>This idea was inspired by Microstrategy's module system combined with our experience learning vocabulary words in both English and other languages. We thought that it would be nice to see what certain words mean as you read a passage so that you don't have to repeatedly stop to look them up. This app would be really useful for any language class that requires reading passages as the teacher could upload the passage and a dictionary of vocab words from that passage and students would be able to read the passage and learn the new words. And since we expect that people will learn only a couple of words at a time, we came up with the name Cup A Noo Words (also inspired by the Cup Noodles we were eating)</p>
+            </div>
+        </div>
+        <div class="Projects-projectGroup">
+            <h4>Face Normalizer (2018) - Equality Challenge Winner</h4>
+            <h6>Teammates: William Li, Jerry Lu, Rashid Lasker</h6>
+            <h6>Skills Used: NodeJS</h6>
+            <div class="Projects-projectText">
+                <p>The github repository can be found <a href="https://github.com/rashidlasker/face-normalizer" target="_blank">here</a>.</p>
+                <p>For HackUVA 2018, our team chose to tackle the Equality theme with our application. Our Face Normalizer will identify a face through the webcam video and overlay a mask that is an "average" face. Thus, anyone who views the video will know that there is a face and a person behind it, but will be unable to tell what race or gender the person is. </p>
+                <p>This idea stems from knowledge that often, in interviews where someone has to record video of themselves responding to questions or prompts, companies can use machine learning software to filter out only the best candidates. However, such software could be inherently biased against certain races based on the test data they were trained with and, thus, could unfairly discriminate against certain genders and races. With this app, we eliminate race or gender from the equation and have the software focused on what the person is saying.</p>
+                <p>Although this project is incomplete and glitchy, our pitch and real-world problem we addressed won us the Equality challenge! </p>
+            </div>
+        </div>
+        <div class="Projects-projectGroup">
+            <h4>Simplisci (2017) - Domain Name Winner</h4>
+            <h6>Teammates: Andrew Walsh, Rashid Lasker, Megan Do </h6>
+            <h6>Skills Used: NodeJS, Natural Language Processing (NLP)</h6>
+            <div class="Projects-projectText">
+                <p>The github repository can be found <a href="https://github.com/rashidlasker/simplisci" target="_blank">here</a>.</p>
+                <p>For HackUVA 2017, our team came up with Simplisci, which is a web application that uses IBM Watson's Natural Language Processing to parse through a scientific article and highlight key words, phrases, and ideas in an easy-to-understand way. This idea came from our collective frustration with reading through dense, scientific-jargon-heavy articles and having trouble understanding the procedures or the results. We wanted to make these scientific reports more accessible to people who may not have a scientific background or who don't know the specific or niche terminology. </p>
+                <p>The idea is to have someone upload a file of the article they want to understand, then application will output a set of keywords and ideas for the user to then easily read and understand. Then, if the user wants to read through the article, they will know what ideas and words to look out for. </p>
+                <p>While we were unable to finish this application in time, we did win the award for Best Domain Name.</p>
+            </div>
+        </div>
+	</div>
+</div>

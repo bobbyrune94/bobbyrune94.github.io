@@ -1,0 +1,22 @@
+@media(max-width: 768px) {
+    .Home {
+        &-column {
+            margin-bottom: 32px;
+            text-align: center;
+        }
+    }
+}
+
+.Home {
+	&-column {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+
+		p {
+			text-align: center;
+			overflow: auto;
+			width: 100%;
+		}
+	}
+}

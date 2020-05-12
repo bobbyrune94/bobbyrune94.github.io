@@ -20,18 +20,11 @@ import { CheerleadingComponent } from './performancePages/cheerPages/cheerleadin
 import { Cheer2013Component } from './performancePages/cheerPages/cheer2013/cheer2013.component';
 import { Cheer2014Component } from './performancePages/cheerPages/cheer2014/cheer2014.component';
 import { Cheer2015Component } from './performancePages/cheerPages/cheer2015/cheer2015.component';
-import { ClassesComponent } from './projectPages/classes/classes/classes.component';
-import { HoohacksComponent } from './projectPages/hackathon/hoohacks/hoohacks.component';
-import { InternshipComponent } from './projectPages/internships/internship/internship.component';
-import { SgdGamesComponent } from './projectPages/sgdGames/sgd-games/sgd-games.component';
-import { SimplisciComponent } from './projectPages/hackathon/simplisci/simplisci.component';
-import { FaceNormalizerComponent } from './projectPages/hackathon/face-normalizer/face-normalizer.component';
-import { CupanoowordsComponent } from './projectPages/hackathon/cupanoowords/cupanoowords.component';
-import { DahlgrenComponent } from './projectPages/internships/dahlgren/dahlgren.component';
-import { YextComponent } from './projectPages/internships/yext/yext.component';
-import { KinComponent } from './projectPages/sgdGames/kin/kin.component';
-import { DuskPatrolComponent } from './projectPages/sgdGames/dusk-patrol/dusk-patrol.component';
-import { BardsTaleComponent } from './projectPages/sgdGames/bards-tale/bards-tale.component';
+import { ClassesComponent } from './projectPages/classes/classes.component';
+import { HoohacksComponent } from './projectPages/hoohacks/hoohacks.component';
+import { InternshipComponent } from './projectPages/internships/internship.component';
+import { SgdGamesComponent } from './projectPages/sgdGames/sgd-games.component';
+import { BlogComponent } from './blog/blog.component';
 
 
 @NgModule({
@@ -53,16 +46,9 @@ import { BardsTaleComponent } from './projectPages/sgdGames/bards-tale/bards-tal
     Cheer2015Component,
     ClassesComponent,
     HoohacksComponent,
-    CupanoowordsComponent,
-    FaceNormalizerComponent,
-    SimplisciComponent,
     InternshipComponent,
-    DahlgrenComponent,
-    YextComponent,
     SgdGamesComponent,
-    BardsTaleComponent,
-    DuskPatrolComponent,
-    KinComponent
+    BlogComponent,
   ],
   imports: [
     RouterModule.forRoot([

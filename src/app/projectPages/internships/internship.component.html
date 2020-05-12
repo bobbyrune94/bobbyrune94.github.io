@@ -1,0 +1,91 @@
+<div class="jumbotron">
+    <div class="container">
+        <div class="Banner">
+            <div class="Banner-image">
+                <img src="assets/images/working.jpg" alt="Working Image" height="140" width="140">
+            </div>
+            <div class="Banner-description">
+                <h1>
+                    Projects
+                </h1>
+                <p>
+                    Look at the projects and games I’ve built during school and during internships.</p>
+            </div>
+        </div>  
+    </div>
+</div>
+  
+<div class="PageContent container">
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a routerLink="/projects">Home</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Internships</li>
+        </ol>
+    </nav>
+
+    <ul class="nav nav-tabs">
+        <li class="nav-item">
+            <a class="nav-link" routerLink="/projects">
+                Home
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" routerLink="/projects/sgd">
+                SGD Games
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" routerLink="/projects/hoohacks">
+                HackUVA/HooHacks
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link active" routerLink="/projects/internships">
+                Internships
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" routerLink="/projects/classes">
+                Classes
+            </a>
+        </li>
+    </ul>
+
+    <div class="Projects">
+		<h2 class="Title">Internships</h2>
+		<p>I've been fortunate enough to have been an intern during every summer so far in college and work on real projects for each employer. While I'm unable to go into specifics for some of these projects, I am able to give some details and talk about what I did.</p>
+        <div class="Projects-projectGroup">
+            <img src="assets/images/yext.jpg" class="Projects-projectImage" alt="Yext Logo">
+            <h4 class="Projects-projectTitle">Yext</h4>
+            <h6>Skills Used: Soy Templates, HTML, CSS/SCSS, Javascript, Go</h6>
+            <div class="Projects-projectText">
+                <p>For the summer of 2018, I worked as a Software Engineer Intern at the Yext office in Tysons Corner for their Consulting team. For those unfamiliar, Yext is a company that pioneered a field known as Digital Knowledge Management, or managing the information about a business that appears on Google, Yelp, Facebook, or anywhere else on the Internet. The problem Yext is trying to solve is how, with the increase in searches like "restaurants near me" or other "near me" searches, the information can be incorrect. For example, Google may say a restaurant is open but, when someone goes to the place, it's closed. With Yext's software, businesses can now simply update their information in the Yext Knowledge Manager and it will automatically update in all Yext-partnered location services. The Consulting team specifically works with building location pages and directories for the businesses. These are the pages that Google will link to in the "View Website" link, assuming the business is a Yext client. </p>
+                <p>Through the 3-week training process, I learned much more about Front-End technologies (HTML, CSS, Javascript) and applied what I learned to do work items for some of their many clients. While I never had the chance to build client's location pages from scratch, I built a full site as part of training. Link can be found <a href="http://kechen.yextdemos.com.yextpages.net/" target="_blank">here</a> (Note: username and password are both "test"). </p>
+                <p>Another project I worked on was developing a Slack command to create work items within a Slack thread. Often in specific Slack channels, people would point out an issue with a page and discuss how to fix it. With the extension I made, they can then quickly call the command within the thread and instantly create a work item to avoid having to hand-create the item on their own and fill in all the required fields. I was able to base my work off their existing slackbot models and simply copy-pasted some code to create a new listener to handle my specific command. I also utilized GitHub repositories to interface with Slack and JIRA APIs. </p>
+                <p>Most of the work I did for Yext was making quick fixes on client sites. Some notable clients I did work on included: </p>
+                <ul>
+                    <li>fixing the Denny's Canada footer to match their corporate one (seen <a href="https://locations.dennys.ca/" target="_blank">here</a>)</li>
+                    <li>removing flyouts for the Denny's side-header for both US and Canada sites</li>
+                    <li>fixing auto-escaping on the Burger King locator (seen <a href="https://locations.bk.com/search.html" target="_blank">here</a> if you input something like "&lt;asdfas&gt;")</li>
+                    <li>and adding the current-day hours above the weekly hours on the Macy's location page (seen <a href="https://l.macys.com/dulles-va" target="_blank">here</a>)</li>
+                </ul>
+                <p>I returned again the summer of 2019 for another internship at Yext, this time focusing on another aspect of our consulting team: loading client data into our Yext platform. Since clients don't want to have someone manually input thousands of lines of data, they have our team implement custom scripts to load their data from either a file they upload or an API that we call.</p>
+                <p>My side-project for this summer was to build a dashboard that display how many page views people got based on their Github contributions to our Yext Pages repositories. Through this project I learned how to use the Github API as well as dabbled into some SQL commands so that I could fetch data from a database. I also learned how to design and create my own dashboard.</p>
+                <p>Something I and another intern worked on for the last week of my internship was redesigning and updating our consulting team's family tree. Originally, all the tree had was a generic headshot icon with a name under it, which was boring. My job was to add headshots of everybody to the tree so that new people could learn people's faces as well as adding in a hover module to provide more information on each person while the other intern re-organized the tree and removed duplicates from people who came back multiple years. For fun, I also included some inside jokes as easter eggs. You can check out the updated family tree <a href="http://consultingengineering.yextdemos.com" target="_blank">here</a></p>
+                <p>Also, check out a video Yext made about their Tysons office. I make a few quick appearances.</p>
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe width="1519" height="554" src="https://www.youtube.com/embed/4hy1_iZ5s-E?list=FLY7aUisPyW-kIYfafvhtESQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+        <div class="Projects-projectGroup">
+            <img src="assets/images/dahlgren.jpg" class="Projects-projectImage" alt="NSWCDD Logo">
+            <h4 class="Projects-projectTitle">Naval Surface Warfare Center Dahlgren Division</h4>
+            <h6>Skills Used: Unity, C#</h6>
+            <div class="Projects-projectText">
+                <p>For the summer 2017, after my first year, I was a Computer Science Engineer for the Navy at the Naval Surface Warfare Center Dahlgren Division (NSWCDD) in their Software Applications & System Security Engineering Branch. There I worked on a project developing a simulation for a new laser weapon system for the Navy in Unity 3D, which I had experience working in the past year through developing for Kin. Our job was to simulate the system's internal workings as well as provide an environment for which the weapon can be tested. </p>
+                <p>I worked a lot on populating the surrounding environment with buildings, walls, and aircraft, programming weapon functionalities and movement, and ensuring our simulation environment matched data passed to it by other systems. I also got a chance to see the weapon up close when they brought it onto the base!
+            </div>
+        </div>
+	</div>
+</div>

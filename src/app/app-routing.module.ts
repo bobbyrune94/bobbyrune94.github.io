@@ -18,18 +18,12 @@ import { Cheer2013Component } from './performancePages/cheerPages/cheer2013/chee
 import { Cheer2014Component } from './performancePages/cheerPages/cheer2014/cheer2014.component';
 import { Cheer2015Component } from './performancePages/cheerPages/cheer2015/cheer2015.component';
 
-import { ClassesComponent } from './projectPages/classes/classes/classes.component';
-import { HoohacksComponent } from './projectPages/hackathon/hoohacks/hoohacks.component';
-import { InternshipComponent } from './projectPages/internships/internship/internship.component';
-import { SgdGamesComponent } from './projectPages/sgdGames/sgd-games/sgd-games.component';
-import { SimplisciComponent } from './projectPages/hackathon/simplisci/simplisci.component';
-import { FaceNormalizerComponent } from './projectPages/hackathon/face-normalizer/face-normalizer.component';
-import { CupanoowordsComponent } from './projectPages/hackathon/cupanoowords/cupanoowords.component';
-import { DahlgrenComponent } from './projectPages/internships/dahlgren/dahlgren.component';
-import { YextComponent } from './projectPages/internships/yext/yext.component';
-import { KinComponent } from './projectPages/sgdGames/kin/kin.component';
-import { DuskPatrolComponent } from './projectPages/sgdGames/dusk-patrol/dusk-patrol.component';
-import { BardsTaleComponent } from './projectPages/sgdGames/bards-tale/bards-tale.component';
+import { ClassesComponent } from './projectPages/classes/classes.component';
+import { HoohacksComponent } from './projectPages/hoohacks/hoohacks.component';
+import { InternshipComponent } from './projectPages/internships/internship.component';
+import { SgdGamesComponent } from './projectPages/sgdGames/sgd-games.component';
+
+import { BlogComponent } from './blog/blog.component';
 
 const routes: Routes = [
   { path: '', component: HomeComponent },
@@ -49,16 +43,9 @@ const routes: Routes = [
   { path: 'performances/cheerleading/cheer2015', component: Cheer2015Component },
   { path: 'projects/classes', component: ClassesComponent },
   { path: 'projects/hoohacks', component: HoohacksComponent },
-  { path: 'projects/hoohacks/simplisci', component: SimplisciComponent },
-  { path: 'projects/hoohacks/faceNormalizer', component: FaceNormalizerComponent },
-  { path: 'projects/hoohacks/cupanoowords', component: CupanoowordsComponent },
   { path: 'projects/internships', component: InternshipComponent },
-  { path: 'projects/internships/dahlgren', component: DahlgrenComponent },
-  { path: 'projects/internships/yext', component: YextComponent },
   { path: 'projects/sgd', component: SgdGamesComponent },
-  { path: 'projects/sgd/kin', component: KinComponent },
-  { path: 'projects/sgd/duskPatrol', component: DuskPatrolComponent },
-  { path: 'projects/sgd/bardsTale', component: BardsTaleComponent },
+  { path: 'blog', component: BlogComponent },
 ];
 
 @NgModule({

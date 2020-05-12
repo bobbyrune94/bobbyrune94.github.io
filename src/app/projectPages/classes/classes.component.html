@@ -1,0 +1,104 @@
+<div class="jumbotron">
+    <div class="container">
+        <div class="Banner">
+            <div class="Banner-image">
+                <img src="assets/images/working.jpg" alt="Working Image" height="140" width="140">
+            </div>
+            <div class="Banner-description">
+                <h1>
+                    Projects
+                </h1>
+                <p>
+                    Look at the projects and games I’ve built during school and during internships.</p>
+            </div>
+        </div>  
+    </div>
+</div>
+  
+<div class="PageContent container">
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a routerLink="/projects">Home</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Classes</li>
+        </ol>
+    </nav>
+
+    <ul class="nav nav-tabs">
+        <li class="nav-item">
+            <a class="nav-link" routerLink="/projects">
+                Home
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" routerLink="/projects/sgd">
+                SGD Games
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" routerLink="/projects/hoohacks">
+                HackUVA/HooHacks
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" routerLink="/projects/internships">
+                Internships
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link active" routerLink="/projects/classes">
+                Classes
+            </a>
+        </li>
+    </ul>
+
+    <div class="Projects">
+		<h2 class="Title"><img src="assets/images/classes.png" class="Projects-titleImage" alt="UVA CS Logo">Classes</h2>
+		<p>I've had the chance to work on some semester-long projects for certain classes to apply the concepts that we learned. Take a look at some of the projects I've worked on below.</p>
+        <div class="Projects-projectGroup">
+			<h4>4th Year Capstone: CS 2110 Homework Grading System</h4>
+            <h6>For CS 4980: Capstone Research</h6>
+            <h6>Skills Used: Angular, HTML, CSS/SCSS, Javascript</h6>
+            <div class="Projects-projectText">
+                <p>My year-long senior capstone project was building a new grading system for the class that I had been teaching for the previous 2 years. The previous system, known as WebCAT, was outdated and had a lot of issues that I and my partner were frustrated with, including form-submission errors when we used the “Back” button on the browsers, terrible search functionality, and distracting red and yellow highlights when viewing student code.</p>
+                <p>Our project aimed to keep the main functionality of WebCAT while removing the issues and adding some more quality-of-life features. Since many of our graders sign up for certain weekly hours to grade, we wanted our system to automatically distribute students based on the number of hours that graders sign up for. Further, we wanted to allow professors to track the progress of every grader to give everyone accountability to ensure they finish by a deadline.</p>
+                <p>Our first semester primarily focused on the planning and structure of the system. We built detailed wireframes to layout each page and described the database system we would use, applying what we learned in the Databases class we took at the same time taught by our advisor. We also started working on some basic front-end, though we quickly stopped as we realized that we couldn’t make much without a backend to supply the data. We asked UVA ITS to set up a server for us to house the database, files, and web server.</p>
+                <p>Unfortunately, with the coronavirus crisis forcing everyone away from college mid-second semester, we were unable to get a backend server to store our data as UVA ITS had more pressing matters to attend to. We were forced to only build out the front-end interface of the site and to use dummy data from JSON files to fill out the pages. </p>
+                <p>We hope that our project can be picked up and completed in future years as it would be a much-needed update for the WebCAT system currently used.</p>
+            </div>
+        </div>
+        <div class="Projects-projectGroup">
+			<h4>Open Note</h4>
+            <h6>For CS 4730: Game Design</h6>
+            <h6>Skills Used: C++</h6>
+            <div class="Projects-projectText">
+                <p>This class had us in 9-person teams split among 3 sub-teams and build a game throughout the semester. Our game was called Open Note and involves a college student falling asleep on their notebook, then waking up realizing that they had been sucked into their notebook. They then need to traverse through four notebooks, each with 8 levels and all about game-design-related topics, to return to the real world.</p>
+                <p>I was part of the level/sfx team, which was in charge of the basic effects in the game and also building out the levels that our design team created. I notably worked on tweening, which involved changing one aspect of an object through a function, and also building out two of the four areas. For some assignments, I also worked on assembling a demo of our progress for the week.</p>
+                <p>This was a really fun, though difficult project to work on. I was used to building games with the Unity framework and not worrying about transformations and mostly coding interactions, but this class exposed me to the lower-level processes that are essential for every game.</p>
+            </div>
+		</div>
+        <div class="Projects-projectGroup">
+			<h4>Traffic Volume Prediction Model</h4>
+            <h6>For CS 4501 Machine Learning</h6>
+            <h6>Skills Used: Python, Jupyter Notebook, Scikit-learn</h6>
+            <div class="Projects-projectText">
+                <p>This class taught us some basic machine learning algorithms and the theory behind them. We would also learn how to implement and use such algorithms to create models for specific data sets such as housing data and email spam data.</p>
+                <p>This was our semester-long project where we used our knowledge of the algorithms we learned to gain some insight or solve a problem related to Virginia. Since our group all grew up in the Northern Virginia area, we decided to address the issue of traffic and road conditions. We wanted to see how potentially adverse conditions could impact the flow of traffic on a road.</p>
+                <p>My work was primarily training the models using the data that my groupmates cleaned and combined. We used some simple algorithms such as Linear Regression, Stochastic Gradient Descent, and Random Forest Regression because some of our data was categorical, which restricted some algorithms we could use. After training, I ran the models on the test sets and recorded the difference measures. I also wrote much of the report as I was waiting for my groupmates to clean the data. </p>
+                <p>Although this project was fairly simple, I learned a lot about using these algorithms to solve real world problems. I hope to be able to apply this knowledge into a future project.</p>    
+            </div>
+		</div>
+		<div class="Projects-projectGroup">
+			<h4>Textbook Marketplace</h4>
+            <h6>For CS 3240 Advanced Software Development Methods</h6>
+            <h6>Skills Used: Django, HTML, CSS, Javascript, Heroku</h6>
+            <div class="Projects-projectText">
+                <p>Link to our textbook marketplace app is <a href="http://textbook-finder.herokuapp.com/" target="_blank">here</a>.</p>
+                <p>Unlike most other CS classes, the goal of this class was to expose us to real-world software development processes rather than learning coding algorithms or computer architecture. Thus, the professor had us work on a semester-long team project using the Agile process of stand-ups and weekly sprints to at least get our feet wet using these processes. We were also required to use the Django web framework, push our code to GitHub, and deploy our application using Heroku's free deployment process.</p>
+                <p>Our teams for this class were randomly assigned 6-person groups where each team member fulfilled a certain role. For example, I was the Scrum Master and my job was to ensure that our group was following the Agile methodology: having weekly stand-up meetings, noting what was finished and what was yet to be done, and assigning work for the next sprint. Other jobs included Testing Manager, who primarily wrote the tests for our app, and Software Architect, who created the design diagrams that explain what our app does.</p>
+                <p>As the name suggests, this web application is designed to be an area for students to buy and sell used textbooks to save from having to spend too much money buying new or renting textbooks. We figured that having students buying from and selling to each other would be an efficient and cheap way to circulate certain commonly used books. It would also give a much more user-friendly interface than the Student to Student Textbooks Facebook Group.</p>
+                <p>My work throughout the semester mostly revolved around the searching and filtering functionality and deploying the application to Heroku. I would also be the one to compile everyone's work at the end of the sprints to ensure we had something to demo in our lab sections. Initially, I had created some initial designs for some of the pages, but those were eventually overhauled at the end of the semester in favor of Boostrap components.</p>
+                <p>Although I didn't learn much about software development processes since I already had exposure to Agile in my two prior internships, I learned a lot about creating a web app from the ground up. I actually used the ideas learned from this project create the first iteration of my website, though I have since migrated it to Angular.</p>    
+            </div>
+		</div>
+	</div>
+</div>

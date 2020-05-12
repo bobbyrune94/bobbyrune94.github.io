@@ -2,11 +2,10 @@
 	padding-top: 1%;
 	padding-left: 5%;
 	padding-right: 5%;
-	padding-bottom: 60px;
 
 	&-header {
 		display: flex;
-		flex-direction: row; 
+		flex-direction: row;
 	}
 
 	&-sectionHeader {
@@ -36,7 +35,6 @@
 		flex-direction: row;
 		flex-wrap: wrap;
 		margin-left: 30px;
-		margin-bottom: 10px;
 	}
 	
 	&-schoolName,
@@ -84,6 +82,14 @@
 	&-activityDescription {
 		white-space: pre-wrap;
 	}
+
+	&-projectName {
+		color: black;
+
+		&:hover {
+			color: blue;
+		}
+	}
 }
 
 .Address {
@@ -97,9 +103,34 @@
 }
 
 @media(max-width: 768px) {
+	ul {
+		list-style: none;
+		padding-left: 0;
+	}
+
 	.Resume {
+		text-align: center;
+
 		&-header {
-			flex-wrap: wrap;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+		}
+
+		&-education {
+			margin-bottom: 16px;
+		}
+
+		&-skills {
+			margin-left: 0;
+		}
+
+		&-skillTitle {
+			display: block;
+		}
+
+		&-entry {
+			margin-left: 0;
 		}
 	
 		&-title {
@@ -119,6 +150,10 @@
 	
 		&-jobTitle {
 			font-weight: 600;
+		}
+
+		&-activityPosition {
+			display: block;
 		}
 	
 		&-entryTime {
