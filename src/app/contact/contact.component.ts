@@ -20,13 +20,13 @@ export class ContactComponent implements OnInit {
     ngOnInit() {}
 
     public sendEmail(e: Event) {
-        emailjs.sendForm('kenny_email', 'template_K2pl1K6A', e.target as HTMLFormElement, 'user_q8iH1h8XehfXwHcnmh3dd')
-          .then((result: EmailJSResponseStatus) => {
-            this.router.navigate(['contact']);
-            this.success = true;
-          }, (error) => {
-            this.router.navigate(['contact']);
-            this.success = false;
-          });
-      }
+      emailjs.sendForm('kenny_email', 'template_K2pl1K6A', e.target as HTMLFormElement, 'user_q8iH1h8XehfXwHcnmh3dd')
+        .then((result: EmailJSResponseStatus) => {
+          this.router.navigate(['contact']);
+          this.success = true;
+        }, (error) => {
+          this.router.navigate(['contact']);
+          this.success = false;
+        });
+    }
 }

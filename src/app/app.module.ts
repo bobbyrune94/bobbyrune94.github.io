@@ -25,6 +25,7 @@ import { HoohacksComponent } from './projectPages/hoohacks/hoohacks.component';
 import { InternshipComponent } from './projectPages/internships/internship.component';
 import { SgdGamesComponent } from './projectPages/sgdGames/sgd-games.component';
 import { BlogComponent } from './blog/blog.component';
+import { ErrorComponent } from './error/error.component';
 
 
 @NgModule({
@@ -49,6 +50,7 @@ import { BlogComponent } from './blog/blog.component';
     InternshipComponent,
     SgdGamesComponent,
     BlogComponent,
+    ErrorComponent,
   ],
   imports: [
     RouterModule.forRoot([

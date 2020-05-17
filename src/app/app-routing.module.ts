@@ -25,6 +25,8 @@ import { SgdGamesComponent } from './projectPages/sgdGames/sgd-games.component';
 
 import { BlogComponent } from './blog/blog.component';
 
+import { ErrorComponent } from './error/error.component';
+
 const routes: Routes = [
   { path: '', component: HomeComponent },
   { path: 'about', component: AboutComponent },
@@ -46,6 +48,8 @@ const routes: Routes = [
   { path: 'projects/internships', component: InternshipComponent },
   { path: 'projects/sgd', component: SgdGamesComponent },
   { path: 'blog', component: BlogComponent },
+  { path: '404', component: ErrorComponent },
+  { path: '**', redirectTo: '/404' }
 ];
 
 @NgModule({
