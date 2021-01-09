@@ -9,6 +9,10 @@
         width: 100%;
         height: auto;
     }
+
+    &-itemHeading {
+        font-weight: bold;
+    }
 }
 
 @media (max-width: 768px) {
