@@ -7,6 +7,9 @@ import { Component, OnInit } from '@angular/core';
 })
 export class BlogComponent implements OnInit {
 
+  summer2021List = Array(13).fill(0).map((x, i) => i+2)
+  christmas2021List = Array(21).fill(0).map((x, i) => i+2)
+
   constructor() { }
 
   ngOnInit() {
