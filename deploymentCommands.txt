@@ -1,5 +1,5 @@
 ng build --prod --base-href="https://bobbyrune94.github.io/"
-check for 404.html and 404.md in dist folder, add if missing
+check for 404.html and 404.md in dist folder, add if missing. Copy the contents of index.html into 404.html
 git add .
 git commit -m 'build'
 git push
