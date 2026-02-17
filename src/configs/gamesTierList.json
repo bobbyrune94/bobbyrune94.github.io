@@ -1,0 +1,37 @@
+{
+    "SS": {
+        "description": "Top 10 Favorite Games of All Time",
+        "tailwind-color": "bg-yellow-500",
+        "games": ["The Legend of Zelda: Breath of the Wild","Persona 5 Royal", "Hades", "Star Wars Jedi: Survivor", "Portal 2", "Lego Star Wars: The Complete Saga", "Valheim", "Metroid Prime Remastered", "Pokemon Sword + DLC", "Animal Crossing: New Horizons"]
+    },
+    "S": {
+        "description": "Amazing, Highly Recommend",
+        "tailwind-color": "bg-red-500",
+        "games": ["The Legend of Zelda: Tears of the Kingdom", "Mario Kart 8: Deluxe", "Mario Kart: World", "Super Mario: Odyssey", "Super Mario Bros Wonder", "Metroid Dread", "Overcooked 2", "Overcooked: All You Can Eat", "Pico Park", "Pico Park 2", "Pokemon: Colosseum", "Pokemon Legends: Arceus", "Portal 1", "Super Smash Bros Ultimate", "Star Wars Jedi: Fallen Order", "Wii Sports", "Xenoblade Chronicles Definitive Edition", "Hyrule Warriors: Age of Imprisonment", "The Legend of Zelda: Echoes of Wisdom"]
+    },
+    "A": {
+        "description": "Great, Worth Playing",
+        "tailwind-color": "bg-orange-500",
+        "games": ["Deep Rock Galactic", "Golf with Your Friends", "Halo: Master Chief Collection", "Helldivers 2", "Lego Star Wars: The Skywalker Saga", "Lego Voyagers", "Mario Kart: Wii", "Mario and Rabbids: Kingdom Battle", "Mario and Rabbids: Sparks of Hope", "Super Mario RPG", "Metroid Prime", "Party Animals", "Persona 5 Strikers", "Pokemon Legends: Z-A + DLC", "Pokemon Scarlet + DLC", "Pokemon TCG Pocket", "PokeRogue", "Super Smash Bros Brawl", "Star Wars: Republic Commando", "Suika", "Untitled Goose Game", "Wii Play", "Hyrule Warriors: Age of Calamity", "The Legend of Zelda: Ocarina of Time"]
+    },
+    "B": {
+        "description": "Good, Enjoyable",
+        "tailwind-color": "bg-green-500",
+        "games": ["Among Us", "Animal Crossing: Pocket Camp", "Brave Frontier", "Candy Crush", "Dragon Quest XI", "Fall Guys", "Halo: Infinite", "Just Dance 2020", "Just Dance 2021", "Lego Star Wars 3: The Clone Wars", "Maplestory", "Mario Party: Superstars", "Muck", "New Pokemon Snap", "Persona 5 Tactica", "Pokemon Go", "Pokemon: Let's Go Eevee", "Pokemon Shining Pearl", "Raft", "Runescape", "Super Smash Bros 4", "Super Smash Bros Melee", "Star Wars: Galaxy of Heroes", "Star Wars: The Old Republic", "Ultimate Chicken Horse", "Uno", "Hyrule Warriors: Definitive Edition", "The Legend of Zelda: Link's Awakening Remake", "The Legend of Zelda: Skyward Sword HD"]
+    },
+    "C": {
+        "description": "Ok, Decent",
+        "tailwind-color": "bg-blue-500",
+        "games": ["7 Days to Die", "Clubhouse Games", "Kirby: Super Clash", "Knockout City", "Mario Kart: Tour", "Super Mario Party - Switch", "Mario and Sonic at the Olympic Games - Beijing 2008","Phasmophobia", "Pokemon Cafe ReMix", "Pokemon Masters: EX", "Pokemon Unite", "Spaceteam", "Switch Sports", "Valorant"]
+    },
+    "F": {
+        "description": "Not Fun (for me)",
+        "tailwind-color": "bg-gray-500",
+        "games": ["Apex Legends", "Gigantic: Rampage Edition", "Lego: Fortnite", "Minecraft", "Rocket League", "Super Auto Pets"]
+    },
+    "No Idea": {
+        "description": "Don't Remember",
+        "tailwind-color": "bg-gray-500",
+        "games": ["Dr. Mario World", "Super Mario: Run", "Rhythm Doctor", "Shrek Super Slam", "Star Wars Rogue Squadron 3", "Wave Race: Blue Storm"]
+    }
+}

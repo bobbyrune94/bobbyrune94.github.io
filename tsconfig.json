@@ -1,26 +1,26 @@
+// Source - https://stackoverflow.com/a
+// Posted by NetYogi
+// Retrieved 2026-01-24, License - CC BY-SA 4.0
+
 {
-  "compileOnSave": false,
-  "compilerOptions": {
-    "baseUrl": "./",
-    "outDir": "./dist/out-tsc",
-    "sourceMap": true,
-    "declaration": false,
-    "downlevelIteration": true,
-    "experimentalDecorators": true,
-    "module": "esnext",
-    "moduleResolution": "node",
-    "importHelpers": true,
-    "target": "es2015",
-    "typeRoots": [
-      "node_modules/@types"
-    ],
-    "lib": [
-      "es2018",
-      "dom"
-    ]
-  },
-  "angularCompilerOptions": {
-    "fullTemplateTypeCheck": true,
-    "strictInjectionParameters": true
+    "compilerOptions": {
+      "target": "ESNext",
+      "useDefineForClassFields": true,
+      "lib": ["DOM", "DOM.Iterable", "ESNext"],
+      "allowJs": false,
+      "skipLibCheck": true,
+      "esModuleInterop": false,
+      "allowSyntheticDefaultImports": true,
+      "strict": true,
+      "forceConsistentCasingInFileNames": true,
+      "module": "ESNext",
+      "moduleResolution": "Node",
+      "resolveJsonModule": true,
+      "isolatedModules": true,
+      "noEmit": true,
+      "jsx": "react-jsx"
+    },
+    "include": ["src"],
+    "references": [{ "path": "./tsconfig.node.json" }]
   }
-}
+  

@@ -1,0 +1,34 @@
+{
+    "projects": [
+        {
+            "title": "Personal Website (you're looking at it!)",
+            "description": "This very website! I redesigned it from the ground up to be more visually appealing, easier to navigate, and more informative about who I am and what I do.",
+            "skills": ["React", "Tailwind CSS", "TypeScript", "Vite", "GitHub Pages", "GitHub Actions"]
+        },
+        {
+            "title": "Turbo",
+            "description": "A web-based tool that helps developers quickly and efficiently manage application and feature flag deployment pipelines.",
+            "skills": ["React", "Node.js", "AWS CloudFormation", "AWS Lambda", "AWS AppConfig", "AWS API Gateway", "GitHub Actions"]
+        },
+        {
+            "title": "Turbo Agents",
+            "description": "An AI-assisted extension of Turbo that lets AI Agents manage and execute deployment pipelines, troubleshoot oncall alerts, and more!",
+            "skills": ["LangChain", "LangGraph", "LLM", "MCP Server", "GitHub Actions"]
+        },
+        {
+            "title": "ALPHA Observability",
+            "description": "Set up detailed dashboards for developers to view application status and metrics, and configured alerting to notify developers of any issues in real time.",
+            "skills": ["Opensearch Dashboards", "Opensearch Alerting", "Dynatrace"]
+        },
+        {
+            "title": "PokeClaim Discord Bot",
+            "description": "A Discord bot that allows community members to nickname Pokemon for streamers to use in their playthrough streams. Also included a web dashboard for easy viewing.",
+            "skills": ["Javascript", "AWS Lambda", "AWS DynamoDB", "AWS API Gateway", "Python", "Angular"]
+        },
+        {
+            "title": "Head Lab Teaching Assistant",
+            "description": "Redesigned labs to be more concise and focused, created detailed lecture slides to introduce topics, and lectured to students on Java programming and data structures. Also provided mentorship and support to students during office hours and in-class.",
+            "skills": ["Java", "Public Speaking", "Mentorship", "Lecture Preparation"]
+        }
+    ]
+}
