@@ -8,7 +8,7 @@ import { ThemeProvider } from './context/ThemeContext'
 createRoot(document.getElementById('root') as HTMLElement).render(
   <StrictMode>
     <ThemeProvider>
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Router />
       </BrowserRouter>
     </ThemeProvider>
