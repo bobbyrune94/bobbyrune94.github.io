@@ -29,9 +29,6 @@ function Header() {
           <li>
             <Link to="/games">Games</Link>
           </li>
-          <li>
-            <Link to="/contact">Contact</Link>
-          </li>
         </ul>
         <div className="flex item-center gap-2">
           <a href="https://www.instagram.com/kungfu.kenny98/" className="inline:flex items:center justify-center p-1">

@@ -1,14 +1,7 @@
 import GameTier from "../components/GameTier"
 
 import gamesList from "../configs/gamesTierList.json"
-
-interface GameTierList {
-    [key: string]: {
-        description: string,
-        "tailwind-color": string,
-        games: string[]
-    }
-}
+import { GameTierList } from "../types/Games";
 
 const GamesPage = () => {
     return (
