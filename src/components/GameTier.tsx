@@ -11,8 +11,8 @@ const GameTier = (props: GameTierProps) => {
     const { theme } = useTheme();
 
     return (
-        <div className={`flex flex-row group border rounded-lg shadow-md mr-4`}>
-            <div className={`${props.color} p-4 w-1/5 flex flex-col items-center justify-center rounded-l-lg shrink-0`}>
+        <div className={`flex flex-col sm:flex-row group border rounded-lg shadow-md mr-4`}>
+            <div className={`${props.color} p-4 w-full sm:w-1/5 flex flex-col items-center justify-center rounded-l-lg shrink-0`}>
                 <h2 className="text-xl font-bold mb-4">{props.title}</h2>
                 <p className="">{props.description}</p>
             </div>

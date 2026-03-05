@@ -18,7 +18,7 @@ function Header() {
   const { theme, toggleTheme } = useTheme();
 
   return (
-    <header className={`flex justify-around border-b-4 py-4 ${theme === "light" ? "bg-white border-black" : "bg-black border-white"}`}>
+    <header className={`flex justify-around border-b-4 py-4`}>
       <div className="flex sm:hidden items-center cursor-pointer" onClick={() => setIsOpen(!isOpen)}>
         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 15 15"><path fill="currentColor" d="M13.6 11.01a.5.5 0 0 1 0 .98l-.1.01h-12a.5.5 0 0 1 0-1h12zm0-4a.5.5 0 0 1 0 .98l-.1.01h-12a.5.5 0 0 1 0-1h12zm0-4a.5.5 0 0 1 0 .98l-.1.01h-12a.5.5 0 0 1 0-1h12z"/></svg>
       </div>
@@ -47,7 +47,7 @@ function Header() {
             {theme === "light" ? (
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="1"><path d="M12 16c-2.206 0-4-1.794-4-4s1.794-4 4-4s4 1.794 4 4s-1.794 4-4 4Z"/><path stroke-linecap="round" d="M12 3.5v2m8.5 6.5h-2m-13 0h-2m8.5 6.5v2m4.5-13L18 6M6 18l1.5-1.5M6 6l1.5 1.5m9 9L18 18"/></g></svg>
             ) : (
-              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="white" fill-rule="evenodd" d="M9.528 1.718a.75.75 0 0 1 .162.819A9 9 0 0 0 9 6a9 9 0 0 0 9 9a9 9 0 0 0 3.463-.69a.75.75 0 0 1 .981.98a10.5 10.5 0 0 1-9.694 6.46c-5.799 0-10.5-4.7-10.5-10.5c0-4.368 2.667-8.112 6.46-9.694a.75.75 0 0 1 .818.162" clip-rule="evenodd"/></svg>
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="white" fillRule="evenodd" d="M9.528 1.718a.75.75 0 0 1 .162.819A9 9 0 0 0 9 6a9 9 0 0 0 9 9a9 9 0 0 0 3.463-.69a.75.75 0 0 1 .981.98a10.5 10.5 0 0 1-9.694 6.46c-5.799 0-10.5-4.7-10.5-10.5c0-4.368 2.667-8.112 6.46-9.694a.75.75 0 0 1 .818.162" clipRule="evenodd"/></svg>
             )}
           </button>
         </div>

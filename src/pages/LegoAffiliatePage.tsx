@@ -89,12 +89,12 @@ const LegoAffiliatePage = () => {
                         <form>
                             <p>Where are you from?</p>
                             <label>
-                                <input type="radio" id="USA" name="color" value="red" onClick={() => setRegion("USA")} className="mr-2"  checked={region === "USA"} />
+                                <input type="radio" id="USA" name="color" value="red" onChange={() => setRegion("USA")} className="mr-2"  checked={region === "USA"} />
                                 USA
                             </label>
                             <br />
                             <label>
-                                <input type="radio" id="Canada" name="color" value="blue" onClick={() => setRegion("Canada")} className="mr-2"  checked={region === "Canada"} />
+                                <input type="radio" id="Canada" name="color" value="blue" onChange={() => setRegion("Canada")} className="mr-2"  checked={region === "Canada"} />
                                 Canada
                             </label>
                         </form>

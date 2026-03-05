@@ -1,16 +1,19 @@
-# React + Vite
+# Welcome to My Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Check it out here!](https://bobbyrune94.github.io/)
 
-Currently, two official plugins are available:
+## Project Details:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Built using React, Typescript, and TailwindCSS
+- Deployed to GitHub Pages using GitHub Workflows
 
-## React Compiler
+## Set up instructions
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Clone the repository
+- Run `npm i` to install dependencies
+- Run `npm run dev` to start the local server. Navigate in your browser to `http://localhost:3000/`
 
-## Expanding the ESLint configuration
+## Future Improvements/TODOs
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Script to pull data from Rakuten Advertising to regularly fetch affiliate links, filter out ones I don't care to promote (Duplo, backpacks and other gear, etc.), and update the `legoAffiliateLinks.json` file with the new links
+- Cron Job using GitHub workflows to run the above script regularly
