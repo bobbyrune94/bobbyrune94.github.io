@@ -2,33 +2,38 @@ import { Link } from "react-router";
 
 import profileURL from "../assets/jolteon-profile.png"
 import { useTheme } from "../context/ThemeContext";
+import { useState } from "react";
+
+const routes = [
+    { name: "About", path: "/" },
+    { name: "Projects", path: "/projects" },
+    { name: "Lego", path: "/lego" },
+    { name: "Friend Codes", path: "/friend-codes" },
+    { name: "Games", path: "/games" },
+]
 
 
 function Header() {
+  const [isOpen, setIsOpen] = useState(false);
   const { theme, toggleTheme } = useTheme();
 
   return (
     <header className={`flex justify-around border-b-4 py-4 ${theme === "light" ? "bg-white border-black" : "bg-black border-white"}`}>
-      <a href="">
+      <div className="flex sm:hidden items-center cursor-pointer" onClick={() => setIsOpen(!isOpen)}>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 15 15"><path fill="currentColor" d="M13.6 11.01a.5.5 0 0 1 0 .98l-.1.01h-12a.5.5 0 0 1 0-1h12zm0-4a.5.5 0 0 1 0 .98l-.1.01h-12a.5.5 0 0 1 0-1h12zm0-4a.5.5 0 0 1 0 .98l-.1.01h-12a.5.5 0 0 1 0-1h12z"/></svg>
+      </div>
+      <a href="" className="">
         <img src={profileURL} alt="Jolteon Logo" className="h-10 w-10 rounded-full" />
       </a>
       <div className="flex items-center gap-8">
-        <ul className={`hidden md:flex items:center gap-6 ${theme === "light" ? "text-black" : "text-white"}`}>
-          <li>
-            <Link to="/">About</Link>
-          </li>
-          <li>
-            <Link to="/projects">Projects</Link>
-          </li>
-          <li>
-            <Link to="/lego">Lego</Link>
-          </li>
-          <li>
-            <Link to="/friend-codes">Friend Codes</Link>
-          </li>
-          <li>
-            <Link to="/games">Games</Link>
-          </li>
+        <ul className="hidden md:flex items:center gap-6">
+          {routes.map((route, index) => (
+            <li key={index}>
+              <Link to={route.path} className="hover:underline">
+                {route.name}
+              </Link>
+            </li>
+          ))}
         </ul>
         <div className="flex item-center gap-2">
           <a href="https://www.instagram.com/kungfu.kenny98/" className="inline:flex items:center justify-center p-1">
@@ -47,6 +52,17 @@ function Header() {
           </button>
         </div>
       </div>
+      {isOpen && (
+        <ul className="absolute top-16 left-0 w-full bg-gray-500 border-t border-gray-300 flex flex-col items-center gap-4 py-4 md:hidden">
+          {routes.map((route, index) => (
+            <li key={index}>
+              <Link to={route.path} className="hover:underline" onClick={() => setIsOpen(false)}>
+                {route.name}
+              </Link>
+            </li>
+          ))}
+        </ul>
+      )}
     </header>
   );
 }

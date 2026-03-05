@@ -12,7 +12,7 @@ function App() {
         <div className={`min-h-screen ${theme === "light" ? "bg-white border-black text-black" : "bg-black border-white text-white"}`}>
             <Header />
             <div className='min-h-screen'>
-                <div className="max-w-4xl mx-auto flex flex-col pt-16 pb-16">
+                <div className="max-w-4xl mx-auto flex flex-col pt-16 pb-16 px-4 sm:px-8">
                     <Outlet />
                 </div>
 

@@ -7,7 +7,7 @@ const HomePage = () => {
     return (
         <div className="flex flex-col gap-8">
             <div className="flex flex-col gap-8">
-                <div className="flex flex-row items-center gap-8">
+                <div className="flex flex-col sm:flex-row items-center gap-8">
                     <img src={profileUrl} alt="Profile" className="rounded-full w-40 h-40 mb-4" />
                     <div className="flex flex-col gap-4">
                         <p className="">Welcome to my website!</p>
@@ -15,11 +15,11 @@ const HomePage = () => {
                         <p className="text-xl text-red-500">Software Engineer | Amateur Streamer | Lego Affiliate</p>
                     </div>
                 </div>
-                <div className="flex flex-col text-lg">
+                <div className="flex flex-col text-lg ">
                     <p>By day, I'm a software engineer building web-based and AI-assisted tools for my company.</p>
                     <p>By night, I'm a gamer and amateur streamer who shares my love of games, Legos, and martial arts with my community.</p>
                 </div>
-                <div className="flex flex-row gap-4">
+                <div className="flex flex-col sm:flex-row gap-4">
                     <Link to="/projects" className="inline-flex items-center gap-2 px-6 py-3 rounded-lg border border-border hover:bg-red-500">
                         Check Out My Projects
                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4.5 12h15m0 0l-5.625-6m5.625 6l-5.625 6"/></svg>
