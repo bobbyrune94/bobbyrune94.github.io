@@ -1,5 +1,8 @@
 import { XMLParser } from 'fast-xml-parser';
 
+import legoRecommendations from "../configs/legoRecommend.json"
+import deleteKeywords from "../configs/legoDeleteKeywords.json"
+
 const fastXmlParser = new XMLParser();
 
 interface AffiliateLinks {
@@ -18,6 +21,8 @@ interface LegoLink {
     imageUrl: string;
     usProductLink: string;
     caProductLink: string;
+    kennyHas?: boolean;
+    kennyWants?: boolean;
 }
 
 const affiliateLinks: AffiliateLinks = {};
@@ -25,6 +30,27 @@ const affiliateLinks: AffiliateLinks = {};
 const RAKUTEN_CLIENT_ID = "VQU5a8F3fiYm1FWH8BYI8Dikg2inmjUd";
 const RAKUTEN_CLIENT_SECRET = "jgrsKpeKnfQP4i5Cx25gAbhHGlhnGlqV";
 const RAKUTEN_SCOPE = "4596508";
+
+
+const shouldDeleteProduct = (item: any) => {
+    for (const keyword of deleteKeywords.deleteKeyWords) {
+        if (JSON.stringify(item).toLowerCase().includes(keyword)) {
+            console.log("Deleting", item.productname, "for having", keyword);
+            return true;
+        }
+    }
+    return false;
+}
+
+const isKennyRecommend = (productName: string) => {
+    if (legoRecommendations.kennyHas.includes(productName)) {
+        return "has";
+    } else if (legoRecommendations.kennyWants.includes(productName)) {
+        return "wants";
+    } else {
+        return undefined;
+    }
+}
 
 const fetchRakutenToken = async () => {
     const base64data = Buffer.from(`${RAKUTEN_CLIENT_ID}:${RAKUTEN_CLIENT_SECRET}`).toString('base64');
@@ -72,6 +98,7 @@ const fetchRakutenLinks = async (apiKey: string, pageNumber: number) => {
 const generateAffiliateLinkData = async () => {
     let pageNumber = 1;
     let totalPages = 1; // Placeholder, update this based on the API response of the first page
+    let deletedCount = 0;
     let duplicateCount = 0;
     let doubleLinkCount = 0;
     try {
@@ -86,6 +113,10 @@ const generateAffiliateLinkData = async () => {
                 totalPages = links.result.TotalPages;
             }
             links.result.item.forEach((item: any) => {
+                if (shouldDeleteProduct(item)) {
+                    deletedCount++;
+                    return;
+                }
                 if (affiliateLinks[item.productname]) {
                     if (affiliateLinks[item.productname].mids.includes(item.mid)) {
                         duplicateCount++;
@@ -94,7 +125,7 @@ const generateAffiliateLinkData = async () => {
                     affiliateLinks[item.productname].mids.push(item.mid);
                     doubleLinkCount++;
                 }
-                affiliateLinks[item.productname] = {
+                const product: LegoLink = {
                     mids: [item.mid],
                     setNumber: "",
                     theme: "",
@@ -107,6 +138,16 @@ const generateAffiliateLinkData = async () => {
                     usProductLink: item.mid == 13923 ? item.linkurl : affiliateLinks[item.productname]?.usProductLink || "",
                     caProductLink: item.mid == 36166 ? item.linkurl : affiliateLinks[item.productname]?.caProductLink || "",
                 };
+
+                const isRecommended = isKennyRecommend(item.productname);
+
+                if (isRecommended === "has") {
+                    product.kennyHas = true
+                } else if (isRecommended === "wants") {
+                    product.kennyWants = true
+                }
+
+                affiliateLinks[item.productname] = product
             });
             pageNumber++;
         }
@@ -114,6 +155,7 @@ const generateAffiliateLinkData = async () => {
         console.log("Number of Products Found", Object.keys(affiliateLinks).length);
         console.log("Number of Duplicates Found", duplicateCount);
         console.log("Number of Double Links Found", doubleLinkCount);
+        console.log("Number of Products Deleted", deletedCount);
 
         return affiliateLinks;
     }

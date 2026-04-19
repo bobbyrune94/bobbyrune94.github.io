@@ -1,0 +1,39 @@
+name: Fetch Lego Affiliate Links
+
+on:
+  workflow_call:
+  schedule:
+    - cron: '0 12 * * *'
+      timezone: "America/New_York"
+
+jobs:
+  fetch_affiliate_links:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: 24.13.x
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Run script
+      run: npm run loadLego
+
+    - name: Commit and Push Link Config Update
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add .
+        # Only commit and push if there are staged changes
+        if ! git diff --cached --exit-code; then
+          git commit -m "Automated update"
+          git push
+        else
+          echo "No changes to commit"
+        fi
