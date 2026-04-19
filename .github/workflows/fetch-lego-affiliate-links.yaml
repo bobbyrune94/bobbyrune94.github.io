@@ -1,7 +1,7 @@
 name: Fetch Lego Affiliate Links
 
 on:
-  workflow_call:
+  workflow_dispatch:
   schedule:
     - cron: '0 12 * * *'
       timezone: "America/New_York"
