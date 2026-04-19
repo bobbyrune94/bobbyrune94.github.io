@@ -16,8 +16,8 @@ const LegoProductCard = ({ productName, productInfo, linkRegion }: LegoProductCa
 
     return (
         <a href={productLink} className="group border border-gray-300 rounded-md p-4 mb-4 flex flex-col items-center gap-4 h-120 hover:border-red-500">
-            <div className="w-full h-64 bg-gray-200 rounded-md overflow-hidden">
-                <img src={productInfo.imageUrl} alt={productName} className="w-full h-full object-cover" />
+            <div className="w-full h-64 bg-gray-200 rounded-md overflow-hidden flex justify-center">
+                <img src={productInfo.imageUrl} alt={productName} height={64} className="h-64 object-contain" />
             </div>
             <div className=" w-full flex flex-col items-start gap-2">
                 <div className="flex flex-row items-center gap-4">
