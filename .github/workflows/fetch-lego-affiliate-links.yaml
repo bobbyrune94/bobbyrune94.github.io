@@ -27,8 +27,8 @@ jobs:
 
     - name: Commit and Push Link Config Update
       run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "bobbyrune94"
+        git config --global user.email {{ secrets.GH_EMAIL }}
         git add .
         # Only commit and push if there are staged changes
         if ! git diff --cached --exit-code; then
