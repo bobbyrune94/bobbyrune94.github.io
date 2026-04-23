@@ -43,7 +43,7 @@ jobs:
         git add .
         # Only commit and push if there are staged changes
         if ! git diff --cached --exit-code; then
-          git commit -m "Automated update"
+          git commit -m "Lego Affiliate Links Update"
           git push
         else
           echo "No changes to commit"
