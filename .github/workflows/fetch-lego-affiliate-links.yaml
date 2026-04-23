@@ -6,6 +6,9 @@ on:
     - cron: '0 12 * * *'
       timezone: "America/New_York"
 
+permissions:
+  contents: write
+
 jobs:
   fetch_affiliate_links:
     runs-on: ubuntu-latest
@@ -13,6 +16,8 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.GH_PAT }}
 
     - name: Set up Node.js
       uses: actions/setup-node@v1
@@ -24,11 +29,15 @@ jobs:
 
     - name: Run script
       run: npm run loadLego
+      env:
+        RAKUTEN_CLIENT_ID: ${{ secrets.RAKUTEN_CLIENT_ID }}
+        RAKUTEN_CLIENT_SECRET: ${{ secrets.RAKUTEN_CLIENT_SECRET }}
+        RAKUTEN_SCOPE: ${{ secrets.RAKUTEN_SCOPE }}
 
     - name: Commit and Push Link Config Update
+      env:
+        GH_TOKEN: ${{ secrets.GH_PAT }}
       run: |
-        git config --global user.name "bobbyrune94"
-        git config --global user.email {{ secrets.GH_EMAIL }}
         git add .
         # Only commit and push if there are staged changes
         if ! git diff --cached --exit-code; then

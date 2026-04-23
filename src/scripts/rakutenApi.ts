@@ -27,9 +27,9 @@ interface LegoLink {
 
 const affiliateLinks: AffiliateLinks = {};
 
-const RAKUTEN_CLIENT_ID = "VQU5a8F3fiYm1FWH8BYI8Dikg2inmjUd";
-const RAKUTEN_CLIENT_SECRET = "jgrsKpeKnfQP4i5Cx25gAbhHGlhnGlqV";
-const RAKUTEN_SCOPE = "4596508";
+const RAKUTEN_CLIENT_ID = process.env.RAKUTEN_CLIENT_ID;
+const RAKUTEN_CLIENT_SECRET = process.env.RAKUTEN_CLIENT_SECRET;
+const RAKUTEN_SCOPE = process.env.RAKUTEN_SCOPE;
 
 
 const shouldDeleteProduct = (item: any) => {
