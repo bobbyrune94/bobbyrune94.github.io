@@ -363,7 +363,7 @@
   },
   "Altar of the Dead": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -2201,7 +2201,7 @@
   },
   "Creative Suitcase": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -2288,6 +2288,21 @@
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt4543815b3bdc50c4/43277_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392311397041913727835071&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fcruella-de-vils-car-43277",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666529411&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fcruella-de-vils-car-43277"
+  },
+  "Custom Garage Ford Mustang GT Car": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 139.99,
+    "pieceCount": -1,
+    "description": "Build a customizable Ford Mustang car toy",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltc500591cc79bf53c/blt6afc886561547236-42236_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666588588&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fcustom-garage-ford-mustang-gt-car-42236"
   },
   "Custom Police Car Garage": {
     "mids": [
@@ -2636,7 +2651,7 @@
   },
   "Dodge Challenger SRT Hellcat Sports Car": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -2671,12 +2686,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 19.99,
+    "usdPrice": 0,
     "cadPrice": 24.99,
     "pieceCount": -1,
     "description": "Toy donut truck vehicle playset",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltbbe0a53e836e4d2e/60452_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139231342281338436625984&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fdonut-truck-60452",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526283&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fdonut-truck-60452"
   },
   "Douglas DC-3 PAN AM Airliner": {
@@ -2801,7 +2816,7 @@
   },
   "Dungeons & Dragons: Red Dragon's Tale": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -3057,7 +3072,7 @@
   },
   "Enchanted Flying Ford Anglia": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -3102,7 +3117,7 @@
   },
   "Erlang's Celestial Mech": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -3477,7 +3492,7 @@
   },
   "Ferrari SF-24 F1 Car": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -3492,7 +3507,7 @@
   },
   "Ferrari SF-24 F1 Race Car": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -4115,12 +4130,12 @@
     "theme": "",
     "year": -1,
     "usdPrice": 39.99,
-    "cadPrice": 49.99,
+    "cadPrice": 0,
     "pieceCount": -1,
     "description": "Level up with gaming-inspired LEGO® Jibbitz™ charms",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltce6dc01c54a6fa29/10018245_001_ALT100.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392314221230345990395926&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fgaming-10-pack-5010348",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666650383&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fgaming-10-pack-5010348"
+    "caProductLink": ""
   },
   "Garden Restaurant": {
     "mids": [
@@ -4381,7 +4396,7 @@
   },
   "Hagrid & Harry's Motorcycle Ride": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -4756,7 +4771,7 @@
   },
   "Hibiscus": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -4832,7 +4847,7 @@
   },
   "Hogwarts Castle and Grounds": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -4998,7 +5013,7 @@
   },
   "Home One Starcruiser": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -5283,7 +5298,7 @@
   },
   "Iron Man MK4 Bust": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -5570,7 +5585,7 @@
   },
   "Jet vs. Car": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -5600,7 +5615,7 @@
   },
   "Joy, Sadness & Anxiety": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -5840,7 +5855,7 @@
   },
   "Koenigsegg Jesko Absolut Grey Hypercar": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -6035,7 +6050,7 @@
   },
   "LEGO Iconic 4-Piece Organizer Tote and Playmat": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -6180,7 +6195,7 @@
     "pieceCount": -1,
     "description": "Fun LEGO® brick frame for pictures, photos or display",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt1d8829635ae86d46/5006215.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139234644953792398459258&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Flego-picture-frame-5006215",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139235769255126915781502&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Flego-picture-frame-5006215",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666335693&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Flego-picture-frame-5006215"
   },
   "LEGO Red Brick Keyring": {
@@ -6320,7 +6335,7 @@
   },
   "Liann's Family House": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -6335,7 +6350,7 @@
   },
   "Light": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -6380,7 +6395,7 @@
   },
   "Lilo & Stitch: Angel": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -6407,6 +6422,21 @@
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt31388c4187d41a21/43268_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139237174945086863476288&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Flilo-and-stitch-beach-house-43268",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526251&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Flilo-and-stitch-beach-house-43268"
+  },
+  "Lionel Messi - Football Highlights": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 39.99,
+    "pieceCount": -1,
+    "description": "A collectible LEGO® football set that celebrates Lionel Messi",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blta7f780a695377c2e/blt66b06d25e176c52b-43011_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666590594&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Flionel-messi-soccer-highlights-43011"
   },
   "Lionel Messi - Football Legend": {
     "mids": [
@@ -6485,7 +6515,7 @@
   },
   "Lloyd's Jet Mech": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -6697,7 +6727,7 @@
   },
   "Lucky Cat": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -6984,7 +7014,7 @@
   },
   "Mario Kart - Piranha Plant Power-Up Pursuit": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -7269,7 +7299,7 @@
   },
   "McQueen's Visit to Doc's Garage": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -7284,7 +7314,7 @@
   },
   "Mech Battle: Spider-Man vs. Doc Ock": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -8200,7 +8230,7 @@
   },
   "Nightmare Scorpion Digger": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -8331,7 +8361,7 @@
     "description": "Keep kids warm in a Nike x LEGO® Collection jacket",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltc8d0021f31f0eb64/5009949_Prod.jpeg?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392310035686232475764787&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-jacket-5009949",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666616984&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-jacket-5009949"
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666616981&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-jacket-5009949"
   },
   "Nike x LEGO Dri-FIT Jersey": {
     "mids": [
@@ -8345,7 +8375,7 @@
     "pieceCount": -1,
     "description": "Discover a new galaxy of style with the Nike x LEGO® jersey",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blte77ed9c919232668/5010041_Prod.jpg?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392315185803251406852073&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-dri-fit-jersey-5010041",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139237030263223709634694&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-dri-fit-jersey-5010041",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666629886&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-dri-fit-jersey-5010041"
   },
   "Nine-Headed Beast": {
@@ -8410,7 +8440,7 @@
   },
   "Ninja Dragon Riyu's Battle": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8505,12 +8535,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 29.99,
     "cadPrice": 39.99,
     "pieceCount": -1,
     "description": "Fantastic brick-built model of a classic starfighter",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt2e698545667a8111/75333.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392312589896105425084664&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fobi-wan-kenobis-jedi-starfighter-75333",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666378938&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fobi-wan-kenobis-jedi-starfighter-75333"
   },
   "Ocarina of Time - The Final Battle": {
@@ -8530,7 +8560,7 @@
   },
   "Off-Road 4x4 Mountain Truck": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -9462,9 +9492,99 @@
     "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666532580&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Frecord-player-with-flowers-31172"
   },
-  "Red Double-Decker Sightseeing Bus": {
+  "Recreate Activity Cards: Castle": {
     "mids": [
       13923
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 9.99,
+    "cadPrice": 0,
+    "pieceCount": -1,
+    "description": "Cards to inspire endless creative building",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltf53b755f6a74fbc5/5010358_Prod.jpg?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139238231112206783665839&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Frecreate-activity-cards-castle-5010358",
+    "caProductLink": ""
+  },
+  "Recreate Activity Cards: Magic": {
+    "mids": [
+      13923
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 9.99,
+    "cadPrice": 0,
+    "pieceCount": -1,
+    "description": "Cards to inspire endless creative building",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blte20bb2e447f766e9/5010357_Prod.jpg?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392313912890624029198784&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Frecreate-activity-cards-magic-5010357",
+    "caProductLink": ""
+  },
+  "Recreate Activity Cards: Ninja Adventures": {
+    "mids": [
+      13923
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 9.99,
+    "cadPrice": 0,
+    "pieceCount": -1,
+    "description": "NINJAGO® cards to inspire endless creative building",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt7a704578e1c46769/NINJA_ADVENTURES_PACKSHOT.jpg?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139231921075572792919717&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Frecreate-activity-cards-ninja-adventures-5010361",
+    "caProductLink": ""
+  },
+  "Recreate Activity Cards: Pets": {
+    "mids": [
+      13923
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 9.99,
+    "cadPrice": 0,
+    "pieceCount": -1,
+    "description": "Cards to inspire endless creative building",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt0668556df0e55c34/ACP-6610_box_1080X1080_2026.jpg?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.13923779045957616112801&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Frecreate-activity-cards-pets-5010360",
+    "caProductLink": ""
+  },
+  "Recreate Activity Cards: Space": {
+    "mids": [
+      13923
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 9.99,
+    "cadPrice": 0,
+    "pieceCount": -1,
+    "description": "Cards to inspire endless creative building",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltfe209dc8d469ee4c/5010355_Prod.jpg?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139233859780699965827483&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Frecreate-activity-cards-space-5010355",
+    "caProductLink": ""
+  },
+  "Recreate Activity Cards: Tech": {
+    "mids": [
+      13923
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 9.99,
+    "cadPrice": 0,
+    "pieceCount": -1,
+    "description": "Cards to inspire endless creative building",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt41b52b4060a94500/5010359_Prod.jpg?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392313394257889754794958&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Frecreate-activity-cards-tech-5010359",
+    "caProductLink": ""
+  },
+  "Red Double-Decker Sightseeing Bus": {
+    "mids": [
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -9539,7 +9659,7 @@
   },
   "Retro Gaming Console": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -9644,7 +9764,7 @@
   },
   "Rides - Police Truck": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -9734,7 +9854,7 @@
   },
   "Roses": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -9821,21 +9941,6 @@
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltced847661ebd8839/854241.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666432294&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fscarlet-witch-keyring-854241"
-  },
-  "Scout Trooper Keyring": {
-    "mids": [
-      36166
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 0,
-    "cadPrice": 7.99,
-    "pieceCount": -1,
-    "description": "Super keyring for Star Wars™ fans",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt34a2c8c4d3ef9b5b/854246.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666432308&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fscout-trooper-keyring-854246"
   },
   "Sea Animals: Beautiful Dolphins": {
     "mids": [
@@ -9956,21 +10061,6 @@
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltab84dc271e0b2c89/10360_Prod.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139234649839756819380295&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fshuttle-carrier-aircraft-10360",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666530084&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fshuttle-carrier-aircraft-10360"
-  },
-  "Siege Encampment": {
-    "mids": [
-      36166
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 229.99,
-    "cadPrice": 299.99,
-    "pieceCount": -1,
-    "description": "",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt90597db9b5866148/910045_Front_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392312769407438528998480&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fsiege-encampment-910045",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666529828&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fsiege-encampment-910045"
   },
   "Siege of Mandalore Battle Pack": {
     "mids": [
@@ -10289,7 +10379,7 @@
   },
   "Space Robot": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -10499,7 +10589,7 @@
   },
   "Spidey on his Motorcycle vs. Rhino": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -11010,7 +11100,7 @@
   },
   "The Armadillo Mine Expedition": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -11342,7 +11432,7 @@
   },
   "The Hulk Truck vs. Thanos": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -11402,7 +11492,7 @@
   },
   "THE LORD OF THE RINGS: RIVENDELL": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -11410,14 +11500,14 @@
     "usdPrice": 499.99,
     "cadPrice": 669.99,
     "pieceCount": -1,
-    "description": "Journey into Middle-earth™ with a LEGO® THE LORD OF THE RINGS: RIVENDELL™ building set that includes iconic details and characters from the films.",
+    "description": "Journey into Middle-earth™ with a LEGO® THE LORD OF THE RINGS: RIVENDELL™ building set that includes iconic details and characters from the movies.",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltec012c948c003fba/10316_alt16.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392316307335145585560087&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fthe-lord-of-the-rings-rivendell-10316",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666426504&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fthe-lord-of-the-rings-rivendell-10316"
   },
   "The Lord of the Rings: Sauron's Helmet": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -11490,21 +11580,6 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139232212312148876911530&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fthe-mandalorian-helmet-75328",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666378933&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fthe-mandalorian-helmet-75328",
     "kennyHas": true
-  },
-  "The Mandalorian Keyring": {
-    "mids": [
-      36166
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 0,
-    "cadPrice": 7.99,
-    "pieceCount": -1,
-    "description": "Brilliant accessory for Star Wars: The Mandalorian fans",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt310b6f9e0861a838/854124_PROD.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666337416&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fthe-mandalorian-keyring-854124"
   },
   "The Mandalorian's N-1 Starfighter": {
     "mids": [
@@ -11643,7 +11718,7 @@
   },
   "The Simpsons: Krusty Burger": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -11688,7 +11763,7 @@
   },
   "The Trial Chamber": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -11718,7 +11793,7 @@
   },
   "Thermo Bottle - Blue": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -11868,7 +11943,7 @@
   },
   "Tiny Plants": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -12019,7 +12094,7 @@
   },
   "Transformers: Soundwave": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -12413,7 +12488,7 @@
   },
   "Visa Cash App RB VCARB 01 F1 Race Car": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -12518,7 +12593,7 @@
   },
   "Wicket the Ewok": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -12683,7 +12758,7 @@
   },
   "Willy Wonka & the Chocolate Factory": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -12691,7 +12766,7 @@
     "usdPrice": 219.99,
     "cadPrice": 279.99,
     "pieceCount": -1,
-    "description": "Fantastic Willy Wonka gift for movie lovers",
+    "description": "Fantastic Willy Wonka gift for film lovers",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt4a296fcbadbe75bd/21360_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139231759578096578011404&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fwilly-wonka-the-chocolate-factory-21360",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666532578&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fwilly-wonka-the-chocolate-factory-21360"
@@ -12848,7 +12923,7 @@
   },
   "Wreath": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -12878,7 +12953,7 @@
   },
   "X-Men: The X-Mansion": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -13043,7 +13118,7 @@
   },
   "Zombie Dungeon": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
