@@ -451,6 +451,21 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139233642596196853841259&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fantarctic-animals-science-kit-45201",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666471404&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fantarctic-animals-science-kit-45201"
   },
+  "Anzellan Starship": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 99.99,
+    "pieceCount": -1,
+    "description": "Awesome Star Wars™ vehicle for droid-building fun",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt8ff7e21f8488b900/75445_Prod.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666588628&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fanzellan-starship-75445"
+  },
   "APXGP Team Race Car from F1 The Movie": {
     "mids": [
       13923
@@ -876,7 +891,7 @@
   },
   "Back to the Future Time Machine": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -2516,18 +2531,18 @@
   },
   "Desk Pets - Corgi": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
     "usdPrice": 12.99,
-    "cadPrice": 16.99,
+    "cadPrice": 0,
     "pieceCount": -1,
     "description": "Craft kit for young animal lovers and LEGO® fans",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt4254c5496bcb6693/MDP-6601_accesories_1600x1600.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392313457960527645956083&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fdesk-pets-corgi-5010353",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666651342&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fdesk-pets-corgi-5010353"
+    "caProductLink": ""
   },
   "Desk Pets - Pig": {
     "mids": [
@@ -2816,7 +2831,7 @@
   },
   "Dungeons & Dragons: Red Dragon's Tale": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -2922,7 +2937,7 @@
   },
   "Eiffel tower": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -3072,7 +3087,7 @@
   },
   "Enchanted Flying Ford Anglia": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -3265,6 +3280,21 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392310821563754263062911&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fspeed-champions-77258-77258",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666588755&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fspeed-champions-77258-77258"
   },
+  "F1 Collectible Race Cars": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 4.99,
+    "cadPrice": 5.99,
+    "pieceCount": -1,
+    "description": "Kids enjoy race action with 1 of 12 LEGO® F1® mini race cars",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt44dc1d87d0c1aae7/71049_Prod.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392316282745785351185257&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Ff1-collectible-race-cars-71049",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526892&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Ff1-collectible-race-cars-71049"
+  },
   "F1 Display Truck with Audi F1 Race Car": {
     "mids": [
       36166
@@ -3327,7 +3357,7 @@
   },
   "F1 Williams Racing & Haas F1 Race Cars": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -3507,7 +3537,7 @@
   },
   "Ferrari SF-24 F1 Race Car": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -4305,17 +4335,17 @@
   },
   "Great Deku Tree 2-in-1": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 299.99,
+    "usdPrice": 0,
     "cadPrice": 389.99,
     "pieceCount": -1,
     "description": "2-in-1 rebuildable merch gift for adults, with 4 minifigures",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt6a8cb14aa4efef08/77092.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139236296610416156202657&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fgreat-deku-tree-2-in-1-77092",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666471381&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fgreat-deku-tree-2-in-1-77092",
     "kennyHas": true
   },
@@ -4348,6 +4378,21 @@
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt9232ef3bda9317b6/21361_Prod.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392316211452227318251523&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fgremlins-gizmo-21361",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666530102&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fgremlins-gizmo-21361"
+  },
+  "Grogu (Mandalorian Apprentice)": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 169.99,
+    "pieceCount": -1,
+    "description": "Cute, posable Grogu figure for playful display",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltb65ce1284755d194/blta8d62a90e62e020c-75446_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666588630&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fgrogu-mandalorian-apprentice-75446"
   },
   "Grogu Keyring": {
     "mids": [
@@ -4396,7 +4441,7 @@
   },
   "Hagrid & Harry's Motorcycle Ride": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -4516,7 +4561,7 @@
   },
   "Haunted Mansion": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -4847,7 +4892,7 @@
   },
   "Hogwarts Castle and Grounds": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -5298,7 +5343,7 @@
   },
   "Iron Man MK4 Bust": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -5418,7 +5463,7 @@
   },
   "Jango Fett Helmet": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -5615,7 +5660,7 @@
   },
   "Joy, Sadness & Anxiety": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -5675,7 +5720,7 @@
   },
   "Kai's Mech Storm Rider": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -5855,7 +5900,7 @@
   },
   "Koenigsegg Jesko Absolut Grey Hypercar": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -5885,7 +5930,7 @@
   },
   "Kylo Ren Helmet": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -6195,7 +6240,7 @@
     "pieceCount": -1,
     "description": "Fun LEGO® brick frame for pictures, photos or display",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt1d8829635ae86d46/5006215.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139235769255126915781502&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Flego-picture-frame-5006215",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139231709951761270008906&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Flego-picture-frame-5006215",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666335693&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Flego-picture-frame-5006215"
   },
   "LEGO Red Brick Keyring": {
@@ -6245,17 +6290,17 @@
   },
   "LEGO Titanic": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 679.99,
     "cadPrice": 849.99,
     "pieceCount": -1,
-    "description": "‘The world's biggest ship'",
+    "description": "LEGO® Titanic is temporarily out of stock! Don't panic, the product will be available soon.",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt6cdf0b53146b5519/10294_Prod.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139235289341889108622056&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Flego-titanic-10294",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666332961&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Flego-titanic-10294"
   },
   "LEGO USB Power Adapter": {
@@ -6515,7 +6560,7 @@
   },
   "Lloyd's Jet Mech": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -6635,7 +6680,7 @@
   },
   "Lotus Flowers": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -6743,7 +6788,7 @@
   },
   "Luke Skywalker (Rebel Pilot)": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -7014,7 +7059,7 @@
   },
   "Mario Kart - Piranha Plant Power-Up Pursuit": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -7239,7 +7284,7 @@
   },
   "McLaren MCL39 F1 Car": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -7299,7 +7344,7 @@
   },
   "McQueen's Visit to Doc's Garage": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -7344,7 +7389,7 @@
   },
   "Medieval Dragon": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -7394,12 +7439,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 219.99,
+    "usdPrice": 0,
     "cadPrice": 289.99,
     "pieceCount": -1,
     "description": "A car gift for fans of the Mercedes-AMG Petronas F1 Team",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt2d0b04908f20c4fb/42171.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392315538371653367702180&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmercedes-amg-f1-w14-e-performance-42171",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666470647&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fmercedes-amg-f1-w14-e-performance-42171"
   },
   "Mercedes-AMG F1 W15 Race Car": {
@@ -7554,7 +7599,7 @@
   },
   "Mineral Collection": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -7780,7 +7825,7 @@
   },
   "Minnie's Pet Hotel": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -8230,7 +8275,7 @@
   },
   "Nightmare Scorpion Digger": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8515,7 +8560,7 @@
   },
   "Nya vs. Mutation Monster Spinner": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8560,7 +8605,7 @@
   },
   "Off-Road 4x4 Mountain Truck": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -9764,7 +9809,7 @@
   },
   "Rides - Police Truck": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -9941,6 +9986,21 @@
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltced847661ebd8839/854241.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666432294&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fscarlet-witch-keyring-854241"
+  },
+  "Scuderia Ferrari HP Charles Leclerc Helmet": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 119.99,
+    "pieceCount": -1,
+    "description": "Buckle up and build a collectible LEGO® F1® helmet set",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blta0e51783efba6e23/43014_Prod.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666590600&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fscuderia-ferrari-hp-charles-leclerc-helmet-43014"
   },
   "Sea Animals: Beautiful Dolphins": {
     "mids": [
@@ -10379,7 +10439,7 @@
   },
   "Space Robot": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -11100,7 +11160,7 @@
   },
   "The Armadillo Mine Expedition": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -11492,17 +11552,17 @@
   },
   "THE LORD OF THE RINGS: RIVENDELL": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 499.99,
+    "usdPrice": 0,
     "cadPrice": 669.99,
     "pieceCount": -1,
-    "description": "Journey into Middle-earth™ with a LEGO® THE LORD OF THE RINGS: RIVENDELL™ building set that includes iconic details and characters from the movies.",
+    "description": "Journey into Middle-earth™ with a LEGO® THE LORD OF THE RINGS: RIVENDELL™ building set that includes iconic details and characters from the films.",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltec012c948c003fba/10316_alt16.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392316307335145585560087&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fthe-lord-of-the-rings-rivendell-10316",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666426504&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fthe-lord-of-the-rings-rivendell-10316"
   },
   "The Lord of the Rings: Sauron's Helmet": {
@@ -11716,9 +11776,24 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392318355937287582962585&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fthe-pillager-outpost-and-ravager-21278",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526797&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fthe-pillager-outpost-and-ravager-21278"
   },
-  "The Simpsons: Krusty Burger": {
+  "The Razor Crest": {
     "mids": [
       36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 189.99,
+    "pieceCount": -1,
+    "description": "Fantastic Star Wars™ building toy for battle action",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt34b27553596c6ef5/75447_Prod.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666588632&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fthe-razor-crest-75447"
+  },
+  "The Simpsons: Krusty Burger": {
+    "mids": [
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -12488,7 +12563,7 @@
   },
   "Visa Cash App RB VCARB 01 F1 Race Car": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -12593,7 +12668,7 @@
   },
   "Wicket the Ewok": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -12713,7 +12788,7 @@
   },
   "Wildflower Bouquet": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -12923,7 +12998,7 @@
   },
   "Wreath": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -13103,7 +13178,7 @@
   },
   "Zoey's Time Owl": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
