@@ -89,6 +89,21 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392317121459725182269044&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2F2022-ford-gt-42154",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666425769&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2F2022-ford-gt-42154"
   },
+  "2026 U. S. Soccer National Team Jersey": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 29.99,
+    "pieceCount": -1,
+    "description": "Create a collectible LEGO® U.S. soccer team jersey",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltc011b73e798f9683/blt6b429e8ab51c040c-43033_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666590358&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2F2026-us-soccer-national-team-jersey-43033"
+  },
   "3 in 1 Construction Site and Vehicles": {
     "mids": [
       36166
@@ -258,7 +273,7 @@
   },
   "Ahsoka's Jedi Interceptor": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -288,7 +303,7 @@
   },
   "Airplane, Service Truck & Hovercraft Remix": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -604,7 +619,7 @@
   },
   "Arin's Spinjitzu Battle Mech": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -891,7 +906,7 @@
   },
   "Back to the Future Time Machine": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -1401,21 +1416,6 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392336659493048405251&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fbrick-botanicals-1000-piece-puzzle-5007851",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666467382&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fbrick-botanicals-1000-piece-puzzle-5007851"
   },
-  "Brick Clog": {
-    "mids": [
-      13923
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 149.99,
-    "cadPrice": 0,
-    "pieceCount": -1,
-    "description": "Step into creativity with the LEGO® Brick Clog",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt681a8f2de6baa290/5010203_Prod.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392312827855110913919309&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fbrick-clog-5010203",
-    "caProductLink": ""
-  },
   "Brick Hip Pack - Navy": {
     "mids": [
       13923
@@ -1524,7 +1524,7 @@
   },
   "Bugatti Vision GT Hyper Sports Car": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -1809,7 +1809,7 @@
   },
   "Celestial Pagoda": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -1839,7 +1839,7 @@
   },
   "Central Train Station": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -2591,7 +2591,7 @@
   },
   "Dino Jet": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -2711,7 +2711,7 @@
   },
   "Donut Truck": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -3610,7 +3610,7 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392316307020194427413709&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Ffierce-shark-with-a-treasure-chest-31381",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666585553&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Ffierce-shark-with-a-treasure-chest-31381"
   },
-  "FIFA World Cup Official Trophy": {
+  "FIFA World Cup 2026 Official Emblem": {
     "mids": [
       36166
     ],
@@ -3618,12 +3618,12 @@
     "theme": "",
     "year": -1,
     "usdPrice": 0,
-    "cadPrice": 249.99,
+    "cadPrice": 29.99,
     "pieceCount": -1,
-    "description": "Create football decor with a LEGO® World Cup Trophy set",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt92b9ec933bd790fc/43020_Prod.png?format=jpg&fit=bounds&quality=80",
+    "description": "Build collectible FIFA World Cup 2026™ soccer decor",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltb4df7ffe091cfe82/blt4040f2bc95e1380d-43032_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666590612&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Ffifa-world-cup-official-trophy-43020"
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666590356&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Ffifa-world-cup-2026-official-emblem-43032"
   },
   "Fire Ladder Truck": {
     "mids": [
@@ -3762,7 +3762,7 @@
   },
   "Flower Bouquet": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -4123,7 +4123,7 @@
   },
   "Galloping Horses Canvas": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -4169,7 +4169,7 @@
   },
   "Garden Restaurant": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -4351,7 +4351,7 @@
   },
   "Great Pyramid of Giza": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -4456,7 +4456,7 @@
   },
   "Hagrid & Harry's Privet Drive Escape": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -4831,7 +4831,7 @@
   },
   "High-Speed Train": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -4982,7 +4982,7 @@
   },
   "Hogwarts Castle: The Great Hall": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -5585,7 +5585,7 @@
   },
   "Jay's Transforming Car": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -5900,7 +5900,7 @@
   },
   "Koenigsegg Jesko Absolut Grey Hypercar": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -5945,7 +5945,7 @@
   },
   "Kylo Ren's Command Shuttle": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -6530,17 +6530,17 @@
   },
   "Lloyd's Green Forest Dragon": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 19.99,
+    "usdPrice": 0,
     "cadPrice": 24.99,
     "pieceCount": -1,
     "description": "LEGO® NINJAGO® playset with 2 dragons and 2 minifigures",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt97457b5deff61b79/71829_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392315968973570178050940&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Flloyds-green-forest-dragon-71829",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526901&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Flloyds-green-forest-dragon-71829"
   },
   "Lloyd's Jet Mech": {
@@ -6695,7 +6695,7 @@
   },
   "Love Birds": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -6924,7 +6924,7 @@
   },
   "Malfoy Manor": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -6969,7 +6969,7 @@
   },
   "Mario Kart - Baby Peach & Grand Prix Set": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -7044,7 +7044,7 @@
   },
   "Mario Kart - Piranha Plant Power-Up Pursuit": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -7224,7 +7224,7 @@
   },
   "Mateo's Spray Paint Truck": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -7329,7 +7329,7 @@
   },
   "McQueen's Visit to Doc's Garage": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -7574,13 +7574,13 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 84.99,
-    "cadPrice": 109.99,
+    "usdPrice": 849.99,
+    "cadPrice": 1049.99,
     "pieceCount": -1,
-    "description": "Collectible LEGO® Star Wars™ vehicle set for adults",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltea91c53f2609bfa5/75375.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139239705644824461590189&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmillennium-falcon-75375",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666470424&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fmillennium-falcon-75375"
+    "description": "Travel the LEGO® galaxy in the ultimate Millennium Falcon!",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt3349f56c6f192e18/75192_Prod.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139239645708411708662503&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmillennium-falcon-75192",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666175771&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fmillennium-falcon-75192"
   },
   "Mineral Collection": {
     "mids": [
@@ -7704,7 +7704,7 @@
   },
   "Mini Jasmine & Rapunzel": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -7747,6 +7747,21 @@
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltcb25b9795c322d50/5006155.jpg?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392312956568543777279394&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fminifigure-display-case-16-8-knob-blue-5006155",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666326515&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fminifigure-display-case-16-8-knob-blue-5006155"
+  },
+  "Minifigure Factory": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 15.99,
+    "pieceCount": -1,
+    "description": "LEGO Minifigure Factory",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt5f8da0029f693866/Ecom_ADhoc_1HY25_MinifigConfigurator_Productcard_2400x1800.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666503751&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fminifigure-factory-3850082"
   },
   "Minifigure Shaped Cushion": {
     "mids": [
@@ -8035,7 +8050,7 @@
   },
   "Music Store & Apartment": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8215,7 +8230,7 @@
   },
   "Nightmare Scorpion Digger": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8345,8 +8360,8 @@
     "pieceCount": -1,
     "description": "Keep kids warm in a Nike x LEGO® Collection jacket",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltc8d0021f31f0eb64/5009949_Prod.jpeg?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392310035686232475764787&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-jacket-5009949",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666616983&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-jacket-5009949"
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139234880604915943541103&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-jacket-5009949",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666616984&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-jacket-5009949"
   },
   "Nike x LEGO Dri-FIT Jersey": {
     "mids": [
@@ -8361,7 +8376,7 @@
     "description": "Discover a new galaxy of style with the Nike x LEGO® jersey",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blte77ed9c919232668/5010041_Prod.jpg?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139237030263223709634694&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-dri-fit-jersey-5010041",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666629885&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-dri-fit-jersey-5010041"
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666629887&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-dri-fit-jersey-5010041"
   },
   "Nine-Headed Beast": {
     "mids": [
@@ -8440,7 +8455,7 @@
   },
   "Ninja Spinjitzu Temple": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -8711,7 +8726,7 @@
   },
   "Panda Sanctuary Animal Care": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8891,7 +8906,7 @@
   },
   "Pikachu and Poké Ball": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -9103,7 +9118,7 @@
   },
   "Police Car": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -9942,6 +9957,21 @@
     "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666590600&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fscuderia-ferrari-hp-charles-leclerc-helmet-43014"
   },
+  "Scuderia Ferrari HP Lewis Hamilton Helmet": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 119.99,
+    "pieceCount": -1,
+    "description": "Build Lewis Hamilton memorabilia with a LEGO® F1® helmet set",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt91b18dbcb302f294/43022_Prod.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666590614&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fscuderia-ferrari-hp-lewis-hamilton-helmet-43022"
+  },
   "Sea Animals: Beautiful Dolphins": {
     "mids": [
       36166
@@ -10004,7 +10034,7 @@
   },
   "Shelby Cobra 427 S/C": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -10544,7 +10574,7 @@
   },
   "Spider-Man vs. Venom Muscle Car": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -10604,7 +10634,7 @@
   },
   "Spidey: Underwater Vehicles": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -10724,7 +10754,7 @@
   },
   "Steve's Taiga Adventure": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -11205,7 +11235,7 @@
   },
   "The Creeper": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -11402,7 +11432,7 @@
   },
   "The Goonies": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -11537,7 +11567,7 @@
   },
   "The Mandalorian & Grogu's Speeder Bike": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -11643,7 +11673,7 @@
   },
   "The Old Town 15th Anniversary": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -11808,7 +11838,7 @@
   },
   "Thermo Bottle - Blue": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -12063,7 +12093,7 @@
   },
   "Traditional Chess Set": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -12214,7 +12244,7 @@
   },
   "Tuxedo Cat": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -12394,7 +12424,7 @@
   },
   "V-19 Torrent Starfighter": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -12623,7 +12653,7 @@
   },
   "Wild Animals: Colorful Hummingbird": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -12908,7 +12938,7 @@
   },
   "Wooden Wall Hanger Set - Light Oak": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -12938,7 +12968,7 @@
   },
   "Wreath": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
