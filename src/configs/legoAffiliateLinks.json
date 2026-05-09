@@ -303,7 +303,7 @@
   },
   "Aircraft: Race Plane": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -513,7 +513,7 @@
   },
   "Antarctic Animals Science Kit": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -694,7 +694,7 @@
   },
   "Arin's Spinjitzu Battle Mech": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -966,7 +966,7 @@
   },
   "Back to the Future Time Machine": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -1507,7 +1507,7 @@
   },
   "Bouquet of Roses": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -1614,7 +1614,7 @@
   },
   "Bugatti Centodieci Hyper Sports Car": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -2866,12 +2866,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 249.99,
+    "usdPrice": 0,
     "cadPrice": 329.99,
     "pieceCount": -1,
     "description": "A premium LEGO® T. rex dinosaur set full of curated details",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt490fcaeb0097ae2f/76968_Prod.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139238799859088951015417&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fdinosaur-fossils-tyrannosaurus-rex-76968",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526377&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fdinosaur-fossils-tyrannosaurus-rex-76968"
   },
   "Disney Pixar Luxo Jr.": {
@@ -3026,7 +3026,7 @@
   },
   "Dragon Spinjitzu Battle Pack": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -3312,7 +3312,7 @@
   },
   "Elsa's Ice Castle & Snow Ride Adventure": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -3882,17 +3882,17 @@
   },
   "Ferrari SF-24 F1 Car": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 229.99,
+    "usdPrice": 0,
     "cadPrice": 299.99,
     "pieceCount": -1,
     "description": "A LEGO® set for adults and fans of F1",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt1dd4e21e38b03edd/42207_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139235423498012026201261&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fferrari-sf-24-f1-car-42207",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526821&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fferrari-sf-24-f1-car-42207"
   },
   "Ferrari SF-24 F1 Race Car": {
@@ -4649,17 +4649,17 @@
   },
   "Gel Pens - 10 Pack": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 32.5,
     "cadPrice": 40.99,
     "pieceCount": -1,
     "description": "LEGO® gel pens multipack to inspire unlimited creativity",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt0c08c83a4f56a186/5008254.jpg?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139234262332547069416899&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fgel-pens-10-pack-5008254",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666501684&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fgel-pens-10-pack-5008254"
   },
   "Germany Postcard": {
@@ -4725,7 +4725,7 @@
   },
   "Glinda & Elphaba Visit Munchkinland": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -4966,7 +4966,7 @@
   },
   "Hagrid & Harry's Privet Drive Escape": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -5688,7 +5688,7 @@
   },
   "How to Train Your Dragon: Toothless": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -5748,7 +5748,7 @@
   },
   "Hydration Bottle - Wildflowers": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -5913,7 +5913,7 @@
   },
   "Iron Man's Laboratory: Hall of Armor": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -5928,7 +5928,7 @@
   },
   "Iron Spider-Man Bust": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -7130,7 +7130,7 @@
   },
   "Light": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -7400,7 +7400,7 @@
   },
   "London": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -7490,7 +7490,7 @@
   },
   "Love Birds": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -7505,7 +7505,7 @@
   },
   "Love Letters": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -7613,7 +7613,7 @@
   },
   "Lunar Outpost Moon Rover Space Vehicle": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -7659,7 +7659,7 @@
   },
   "Magical Transparent Box": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -7719,7 +7719,7 @@
   },
   "Malfoy Manor": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -7957,6 +7957,21 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139237620122631995525512&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmarvel-logo-minifigures-76313",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666527595&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fmarvel-logo-minifigures-76313"
   },
+  "Master Yoda": {
+    "mids": [
+      13923
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 8.99,
+    "cadPrice": 0,
+    "pieceCount": -1,
+    "description": "Fun creative activities for young Star Wars™ fans",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltb4c9c0c05a5551cb/5009387.jpg?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392312745796844914662884&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmaster-yoda-5009387",
+    "caProductLink": ""
+  },
   "Masterbrand Sherpa Backed Throw": {
     "mids": [
       13923
@@ -8064,7 +8079,7 @@
   },
   "McLaren MCL39 F1 Car": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8124,7 +8139,7 @@
   },
   "McQueen's Visit to Doc's Garage": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -8935,7 +8950,7 @@
   },
   "Music Store & Apartment": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -9165,12 +9180,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 39.99,
+    "usdPrice": 0,
     "cadPrice": 49.99,
     "pieceCount": -1,
     "description": "Kids become trickshot legends with this set for sports fans",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt139bc01311d3f7a8/43021_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392313225656892736372449&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-dunk-trickshot-43021",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666567951&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-dunk-trickshot-43021"
   },
   "Nike Dunk x LEGO Set": {
@@ -9216,7 +9231,7 @@
     "description": "Get cozy with Nike x LEGO® Collection Cargo Pants",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt0674dfa6aad3880f/5010042_Prod.jpg?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392313415395797473402851&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-cargo-pants-5010042",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666629888&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-cargo-pants-5010042"
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666629892&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-cargo-pants-5010042"
   },
   "Nike x LEGO Collection Dri-FIT Crossover Shorts": {
     "mids": [
@@ -9806,7 +9821,7 @@
   },
   "Pikachu and Poké Ball": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -10319,7 +10334,7 @@
   },
   "Quality Quidditch Supplies & Ice Cream Parlour": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -10439,7 +10454,7 @@
   },
   "Rechargeable Battery": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -10604,7 +10619,7 @@
   },
   "Republic Juggernaut": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -10664,7 +10679,7 @@
   },
   "Retro Roller Skate": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -10672,7 +10687,7 @@
     "usdPrice": 29.99,
     "cadPrice": 39.99,
     "pieceCount": -1,
-    "description": "Cool LEGO® Creator 3in1 set lets kids build a colourful, moving roller skate toy, then rebuild it into a mini skateboard or boom box radio.",
+    "description": "Cool LEGO® Creator 3in1 set lets kids build a colorful, moving roller skate toy, then rebuild it into a mini skateboard or boom box radio.",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt2afcd0d2c787e72f/31148.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392314185243111216137276&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fretro-roller-skate-31148",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666470623&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fretro-roller-skate-31148"
@@ -10767,6 +10782,21 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139231472383565108201802&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Friver-steamboat-21356",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666530094&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Friver-steamboat-21356"
   },
+  "Robot World Roller-Coaster Park": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 99.99,
+    "cadPrice": 129.99,
+    "pieceCount": -1,
+    "description": "Roller-coaster model that really works!",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltdddda97237b3182f/60421.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139233871678921609115923&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Frobot-world-roller-coaster-park-60421",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666470808&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Frobot-world-roller-coaster-park-60421"
+  },
   "Rocking Plants": {
     "mids": [
       36166
@@ -10774,12 +10804,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 22.99,
+    "usdPrice": 0,
     "cadPrice": 29.99,
     "pieceCount": -1,
     "description": "Let joy bloom with 2 rocking LEGO® plants in pastel pots",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt0ecef35631d68f39/blte47c9a08c6295596-11506_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392318120561893003525328&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Frocking-plants-11506",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666588546&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Frocking-plants-11506"
   },
   "Rogue vs. Drix Race Car Duel": {
@@ -10829,7 +10859,7 @@
   },
   "Roses": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -11039,7 +11069,7 @@
   },
   "Shelby Cobra 427 S/C": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -11639,7 +11669,7 @@
   },
   "Spidey: Underwater Vehicles": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -13717,7 +13747,7 @@
   },
   "Volvo FMX Truck & EC230 Electric Excavator": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -13747,18 +13777,18 @@
   },
   "Wall Clock MOC (My Own Creation) - White": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
-    "cadPrice": 79.99,
+    "usdPrice": 59.99,
+    "cadPrice": 0,
     "pieceCount": -1,
     "description": "Fun LEGO® customizable clock for kids ages 6 and up",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt77f2bf13086fb901/53771_Clock_MOC_White_1.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666646479&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fwall-clock-moc-my-own-creation-white-5010226"
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139235144050386349114253&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fwall-clock-moc-my-own-creation-white-5010226",
+    "caProductLink": ""
   },
   "WALL-E and EVE": {
     "mids": [
@@ -13927,7 +13957,7 @@
   },
   "Wild Animals: Tropical Toucan": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -13972,7 +14002,7 @@
   },
   "Williams Racing FW14B & Nigel Mansell": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -14137,7 +14167,7 @@
   },
   "Wooden Wall Hanger Set - Light Oak": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -14347,7 +14377,7 @@
   },
   "Zane's Battle Suit Mech": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
