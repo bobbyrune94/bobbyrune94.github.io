@@ -513,7 +513,7 @@
   },
   "Antarctic Animals Science Kit": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -966,7 +966,7 @@
   },
   "Back to the Future Time Machine": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -1452,12 +1452,12 @@
     "theme": "",
     "year": -1,
     "usdPrice": 249.99,
-    "cadPrice": 309.99,
+    "cadPrice": 0,
     "pieceCount": -1,
     "description": "Drive into a zone of pure joy",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt1cedf079c8ffbe5e/42130_Prod.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392316605365860410743227&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fbmw-m-1000-rr-42130",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666332762&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fbmw-m-1000-rr-42130"
+    "caProductLink": ""
   },
   "BMW M4 GT3 EVO Race Car": {
     "mids": [
@@ -2981,7 +2981,7 @@
   },
   "Donut Truck": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -4107,7 +4107,7 @@
   },
   "Floating Sea Otters": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -4634,7 +4634,7 @@
   },
   "Garden Restaurant": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -4966,7 +4966,7 @@
   },
   "Hagrid & Harry's Privet Drive Escape": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -6573,6 +6573,21 @@
     "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666590598&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fkylian-mbappe-soccer-highlights-43013"
   },
+  "Kylian Mbappé - Soccer Highlights": {
+    "mids": [
+      13923
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 29.99,
+    "cadPrice": 0,
+    "pieceCount": -1,
+    "description": "A collectible LEGO® soccer set that celebrates Kylian Mbappé",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt9587955051aae5c7/bltf6552fb7f6f1f8af-43013_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392313070415191958392891&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fkylian-mbappe-soccer-highlights-43013",
+    "caProductLink": ""
+  },
   "Kylo Ren Helmet": {
     "mids": [
       36166
@@ -7130,7 +7145,7 @@
   },
   "Light": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -7247,6 +7262,21 @@
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt71a2da536acd2460/blt4b2691e217fb0bc0-43015_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666590602&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Flionel-messi-soccer-legend-43015"
+  },
+  "Lionel Messi - Soccer Highlights": {
+    "mids": [
+      13923
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 29.99,
+    "cadPrice": 0,
+    "pieceCount": -1,
+    "description": "A collectible LEGO® soccer set that celebrates Lionel Messi",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blta7f780a695377c2e/blt66b06d25e176c52b-43011_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139234112408581358056046&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Flionel-messi-soccer-highlights-43011",
+    "caProductLink": ""
   },
   "Little Eatie: T. rex": {
     "mids": [
@@ -7490,7 +7520,7 @@
   },
   "Love Birds": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -7719,7 +7749,7 @@
   },
   "Malfoy Manor": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -8079,7 +8109,7 @@
   },
   "McLaren MCL39 F1 Car": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -8362,21 +8392,6 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392310434397979347752282&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmickey-minnie-birthday-train-10941",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666332160&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fmickey-minnie-birthday-train-10941"
   },
-  "Mickey Mouse Clubhouse & Car": {
-    "mids": [
-      13923
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 19.99,
-    "cadPrice": 0,
-    "pieceCount": -1,
-    "description": "Mickey Mouse construction toy for kids with buildable car",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt2af6423b55afe88f/10454_Prod.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139238972617461979922211&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmickey-mouse-clubhouse-car-10454",
-    "caProductLink": ""
-  },
   "Mighty Machines": {
     "mids": [
       36166
@@ -8589,7 +8604,7 @@
   },
   "Mini Jasmine & Rapunzel": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -8950,7 +8965,7 @@
   },
   "Music Store & Apartment": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -9130,7 +9145,7 @@
   },
   "Nightmare Scorpion Digger": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -9295,7 +9310,7 @@
   },
   "Ninja Character Display 15th Anniversary": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -9355,7 +9370,7 @@
   },
   "Ninja Spinjitzu Temple": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -9821,7 +9836,7 @@
   },
   "Pikachu and Poké Ball": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -10604,22 +10619,22 @@
   },
   "Remote Control": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 22.99,
     "cadPrice": 29.99,
     "pieceCount": -1,
     "description": "Take control of LEGO® Powered Up creations into your own hands!",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltca78c0a24c1b3a79/88010.jpg?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.13923175399251882256703&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fremote-control-88010",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666593312&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fremote-control-88010"
   },
   "Republic Juggernaut": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -10679,7 +10694,7 @@
   },
   "Retro Roller Skate": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -10687,7 +10702,7 @@
     "usdPrice": 29.99,
     "cadPrice": 39.99,
     "pieceCount": -1,
-    "description": "Cool LEGO® Creator 3in1 set lets kids build a colorful, moving roller skate toy, then rebuild it into a mini skateboard or boom box radio.",
+    "description": "Cool LEGO® Creator 3in1 set lets kids build a colourful, moving roller skate toy, then rebuild it into a mini skateboard or boom box radio.",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt2afcd0d2c787e72f/31148.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392314185243111216137276&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fretro-roller-skate-31148",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666470623&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fretro-roller-skate-31148"
@@ -10804,12 +10819,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 22.99,
     "cadPrice": 29.99,
     "pieceCount": -1,
     "description": "Let joy bloom with 2 rocking LEGO® plants in pastel pots",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt0ecef35631d68f39/blte47c9a08c6295596-11506_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392318120561893003525328&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Frocking-plants-11506",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666588546&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Frocking-plants-11506"
   },
   "Rogue vs. Drix Race Car Duel": {
@@ -10859,7 +10874,7 @@
   },
   "Roses": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -11014,12 +11029,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 4.99,
     "cadPrice": 5.99,
     "pieceCount": -1,
     "description": "Kids can collect 1 of 12 LEGO® minifigure characters",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltd96c757178715939/bltb0549d82daa2d4ff-71052_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139239568607071303365254&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fseries-29-71052",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666589464&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fseries-29-71052"
   },
   "Series 29 6 Pack": {
@@ -11069,7 +11084,7 @@
   },
   "Shelby Cobra 427 S/C": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -11144,7 +11159,7 @@
   },
   "Silver's Car vs. Knuckles' Monster Truck": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -12015,7 +12030,7 @@
   },
   "Sweetheart Tweety Bird": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -12591,12 +12606,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 499.99,
     "cadPrice": 669.99,
     "pieceCount": -1,
     "description": "Journey into Middle-earth™ with a LEGO® THE LORD OF THE RINGS: RIVENDELL™ building set that includes iconic details and characters from the films.",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltec012c948c003fba/10316_alt16.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392316307335145585560087&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fthe-lord-of-the-rings-rivendell-10316",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666426504&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fthe-lord-of-the-rings-rivendell-10316"
   },
   "The Lord of the Rings: Sauron's Helmet": {
@@ -12737,7 +12752,7 @@
   },
   "The Old Town 15th Anniversary": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -13353,7 +13368,7 @@
   },
   "Twilight The Cullen House": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -13548,7 +13563,7 @@
   },
   "USB Power Adapter": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -13774,21 +13789,6 @@
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blte0550cc3ef3afc1f/42209_Prod.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139233500670406670727838&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fvolvo-l120-electric-wheel-loader-42209",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526825&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fvolvo-l120-electric-wheel-loader-42209"
-  },
-  "Wall Clock MOC (My Own Creation) - White": {
-    "mids": [
-      13923
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 59.99,
-    "cadPrice": 0,
-    "pieceCount": -1,
-    "description": "Fun LEGO® customizable clock for kids ages 6 and up",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt77f2bf13086fb901/53771_Clock_MOC_White_1.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139235144050386349114253&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fwall-clock-moc-my-own-creation-white-5010226",
-    "caProductLink": ""
   },
   "WALL-E and EVE": {
     "mids": [
@@ -14362,7 +14362,7 @@
   },
   "Young Simba the Lion King": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
