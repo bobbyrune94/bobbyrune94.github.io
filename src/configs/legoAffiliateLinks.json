@@ -303,7 +303,7 @@
   },
   "Aircraft: Race Plane": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -513,7 +513,7 @@
   },
   "Antarctic Animals Science Kit": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -1507,7 +1507,7 @@
   },
   "Bouquet of Roses": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -2559,6 +2559,36 @@
     "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666590604&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fcristiano-ronaldo-soccer-legend-43016"
   },
+  "Cristiano Ronaldo - Soccer Highlights": {
+    "mids": [
+      13923
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 29.99,
+    "cadPrice": 0,
+    "pieceCount": -1,
+    "description": "A collectible LEGO® set that celebrates Cristiano Ronaldo",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt6a8b4a052e9b26ae/bltfc4b335f7772a5b7-43012_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392314814031904237277749&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fcristiano-ronaldo-soccer-highlights-43012",
+    "caProductLink": ""
+  },
+  "Cristiano Ronaldo - Soccer Legend": {
+    "mids": [
+      13923
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 79.99,
+    "cadPrice": 0,
+    "pieceCount": -1,
+    "description": "Create a soccer icon with a LEGO® Cristiano Ronaldo figure",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt00b0bf72c7a4574e/blt0b68962f07cf2e51-43016_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139234378996866829164249&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fcristiano-ronaldo-soccer-legend-43016",
+    "caProductLink": ""
+  },
   "Crocodile Submarine": {
     "mids": [
       13923
@@ -2981,7 +3011,7 @@
   },
   "Donut Truck": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -3312,7 +3342,7 @@
   },
   "Elsa's Ice Castle & Snow Ride Adventure": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -4951,7 +4981,7 @@
   },
   "Hagrid & Harry's Motorcycle Ride": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -6650,7 +6680,7 @@
   },
   "Lamborghini Huracán Tecnica": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -7145,7 +7175,7 @@
   },
   "Light": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -7276,6 +7306,21 @@
     "description": "A collectible LEGO® soccer set that celebrates Lionel Messi",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blta7f780a695377c2e/blt66b06d25e176c52b-43011_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139234112408581358056046&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Flionel-messi-soccer-highlights-43011",
+    "caProductLink": ""
+  },
+  "Lionel Messi - Soccer Legend": {
+    "mids": [
+      13923
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 79.99,
+    "cadPrice": 0,
+    "pieceCount": -1,
+    "description": "Build a soccer icon with a collectible LEGO® Messi figure",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt71a2da536acd2460/blt4b2691e217fb0bc0-43015_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392312939307511527858353&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Flionel-messi-soccer-legend-43015",
     "caProductLink": ""
   },
   "Little Eatie: T. rex": {
@@ -7520,7 +7565,7 @@
   },
   "Love Birds": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -7749,7 +7794,7 @@
   },
   "Malfoy Manor": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8109,7 +8154,7 @@
   },
   "McLaren MCL39 F1 Car": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8604,7 +8649,7 @@
   },
   "Mini Jasmine & Rapunzel": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8965,7 +9010,7 @@
   },
   "Music Store & Apartment": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -9370,7 +9415,7 @@
   },
   "Ninja Spinjitzu Temple": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -9836,7 +9881,7 @@
   },
   "Pikachu and Poké Ball": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -10634,7 +10679,7 @@
   },
   "Republic Juggernaut": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -10874,7 +10919,7 @@
   },
   "Roses": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -10904,7 +10949,7 @@
   },
   "Sally's Flowerpot": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -11684,7 +11729,7 @@
   },
   "Spidey: Underwater Vehicles": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -12030,7 +12075,7 @@
   },
   "Sweetheart Tweety Bird": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -12290,12 +12335,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 259.99,
+    "usdPrice": 0,
     "cadPrice": 339.99,
     "pieceCount": -1,
     "description": "Cool Harry Potter™ gift idea for adult fans",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltf77db79fda588d75/76437_Prod.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392311810192526521104122&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fthe-burrow-collectors-edition-76437",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666471383&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fthe-burrow-collectors-edition-76437"
   },
   "The City Tower": {
@@ -13700,6 +13745,21 @@
     "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666590624&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fvini-jr-soccer-highlights-43027"
   },
+  "Vini Jr. - Soccer Highlights": {
+    "mids": [
+      13923
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 29.99,
+    "cadPrice": 0,
+    "pieceCount": -1,
+    "description": "A collectible LEGO® soccer set that celebrates Vini Jr.",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltcfbdce29a4cd3332/blt154d36ee16842b9a-43027_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392310743232834207972547&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fvini-jr-soccer-highlights-43027",
+    "caProductLink": ""
+  },
   "Vintage Steam Train": {
     "mids": [
       36166
@@ -13957,7 +14017,7 @@
   },
   "Wild Animals: Tropical Toucan": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -14377,7 +14437,7 @@
   },
   "Zane's Battle Suit Mech": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -14452,7 +14512,7 @@
   },
   "Zombie Dungeon": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
