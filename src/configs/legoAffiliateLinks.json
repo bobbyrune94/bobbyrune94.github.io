@@ -256,6 +256,21 @@
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666527523&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Facclamator-class-assault-ship-75404",
     "kennyWants": true
   },
+  "Advent Calendar 2026": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 62.99,
+    "pieceCount": -1,
+    "description": "Gift for kids who love Star Wars: The Mandalorian™ stories",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltc5633fee6fa8abc1/blt691e598d84db744d-75456_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666588648&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fadvent-calendar-2026-75456"
+  },
   "Adventures with Interactive LEGO Luigi": {
     "mids": [
       36166
@@ -303,7 +318,7 @@
   },
   "Aircraft: Race Plane": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -513,7 +528,7 @@
   },
   "Antarctic Animals Science Kit": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -694,7 +709,7 @@
   },
   "Arin's Spinjitzu Battle Mech": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -866,12 +881,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 499.99,
     "cadPrice": 669.99,
     "pieceCount": -1,
     "description": "The 5,201-piece Avengers Tower, with action on every floor",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blta1716ca226f20cab/76269.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392314276413507406997448&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Favengers-tower-76269",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666427770&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Favengers-tower-76269"
   },
   "Avengers: Age of Ultron Quinjet": {
@@ -1629,7 +1644,7 @@
   },
   "Bugatti Vision GT Hyper Sports Car": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -1754,12 +1769,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 139.99,
     "cadPrice": 179.99,
     "pieceCount": -1,
     "description": "Nostalgic gift idea for fans of the classic Star Wars™ saga",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt1d21181b67dcb8a5/75398_Prod.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139233929082617135699294&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fc-3po-75398",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666470458&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fc-3po-75398"
   },
   "Camping Trip": {
@@ -1914,7 +1929,7 @@
   },
   "Cauldron: Secret Potions Classroom": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -2246,17 +2261,17 @@
   },
   "Cobb Vanth's Speeder": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 34.99,
     "cadPrice": 44.99,
     "pieceCount": -1,
     "description": "Cool Star Wars™ vehicle for kids' fantasy adventures",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt74204d585275936e/75437_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392316649727683231473773&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fcobb-vanths-speeder-75437",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666588613&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fcobb-vanths-speeder-75437"
   },
   "Cole's Mission Mech & Dragon Zane": {
@@ -2306,7 +2321,7 @@
   },
   "Cool Creative Box": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -3011,7 +3026,7 @@
   },
   "Donut Truck": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -3282,7 +3297,7 @@
   },
   "Eiffel tower": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -3357,7 +3372,7 @@
   },
   "Elsa's Ice Palace": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -3432,7 +3447,7 @@
   },
   "Enchanted Flying Ford Anglia": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -4137,7 +4152,7 @@
   },
   "Floating Sea Otters": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -5738,12 +5753,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 49.99,
     "cadPrice": 69.99,
     "pieceCount": -1,
     "description": "Take control with the LEGO® Powered Up Hub!",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltaf2734723652468a/88009.jpg?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392316974888531105510021&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fhub-88009",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666488957&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fhub-88009"
   },
   "Hutt Palace Sentry Droid Showdown": {
@@ -5883,7 +5898,7 @@
   },
   "Iron Man & War Machine vs. Hammer Drones": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -6078,7 +6093,7 @@
   },
   "Japan Postcard": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -6680,7 +6695,7 @@
   },
   "Lamborghini Huracán Tecnica": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -7007,21 +7022,6 @@
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltd48e68f410b55e81/5005353.jpg?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139237849955114071786201&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Flego-cinch-bucket-red-5005353",
     "caProductLink": ""
-  },
-  "LEGO Star Wars Advent Calendar 2026": {
-    "mids": [
-      36166
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 0,
-    "cadPrice": 62.99,
-    "pieceCount": -1,
-    "description": "Gift for kids who love Star Wars: The Mandalorian™ stories",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltc5633fee6fa8abc1/blt691e598d84db744d-75456_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666588648&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fadvent-calendar-2026-75456"
   },
   "LEGO Star Wars Yoda Keyring": {
     "mids": [
@@ -7565,7 +7565,7 @@
   },
   "Love Birds": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8154,7 +8154,7 @@
   },
   "McLaren MCL39 F1 Car": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8444,12 +8444,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 19.99,
     "cadPrice": 24.99,
     "pieceCount": -1,
     "description": "Mickey Mouse construction toy for kids with buildable car",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt2af6423b55afe88f/10454_Prod.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139238972617461979922211&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmickey-mouse-clubhouse-car-10454",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526197&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fmickey-mouse-clubhouse-car-10454"
   },
   "Mighty Machines": {
@@ -8664,7 +8664,7 @@
   },
   "Mini Jasmine & Rapunzel": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8684,12 +8684,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 29.99,
     "cadPrice": 39.99,
     "pieceCount": -1,
     "description": "Plant creativity with a gorgeous LEGO® flower",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltade30768c791af76/10343_Prod.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392316119843095790560010&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmini-orchid-10343",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526161&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fmini-orchid-10343",
     "kennyHas": true
   },
@@ -9025,7 +9025,7 @@
   },
   "Music Store & Apartment": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -9370,7 +9370,7 @@
   },
   "Ninja Character Display 15th Anniversary": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -9430,7 +9430,7 @@
   },
   "Ninja Spinjitzu Temple": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -9736,12 +9736,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 29.99,
+    "usdPrice": 0,
     "cadPrice": 39.99,
     "pieceCount": -1,
     "description": "Fun-packed role-play toy for kids",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt176c2437d10b5192/72041_Prod.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139239892213695584727760&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fparty-at-toads-house-72041",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526966&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fparty-at-toads-house-72041"
   },
   "Passenger Jet": {
@@ -10409,7 +10409,7 @@
   },
   "Quality Quidditch Supplies & Ice Cream Parlour": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -10429,12 +10429,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 99.99,
     "cadPrice": 129.99,
     "pieceCount": -1,
     "description": "Collectible, buildable R2-D2 toy LEGO® figure for play and display",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt1dbcc5584e0e1f47/75379_alt2.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392312216254357850263955&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fr2-d2-75379",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666470430&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fr2-d2-75379"
   },
   "Raptor & Titanosaurus Tracking Mission": {
@@ -10529,7 +10529,7 @@
   },
   "Rechargeable Battery": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -10879,12 +10879,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 22.99,
+    "usdPrice": 0,
     "cadPrice": 29.99,
     "pieceCount": -1,
     "description": "Let joy bloom with 2 rocking LEGO® plants in pastel pots",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt0ecef35631d68f39/blte47c9a08c6295596-11506_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392318120561893003525328&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Frocking-plants-11506",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666588546&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Frocking-plants-11506"
   },
   "Rogue vs. Drix Race Car Duel": {
@@ -10934,7 +10934,7 @@
   },
   "Roses": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -11609,7 +11609,7 @@
   },
   "Spider-Man vs. Doc Ock Subway Train Scene": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -12435,17 +12435,17 @@
   },
   "The Endurance": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 269.99,
     "cadPrice": 349.99,
     "pieceCount": -1,
     "description": "Collectible model building project for fans of famous ships",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt3d163abce4f7ba5f/10335_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392314681010637953828425&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fthe-endurance-10335",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666470468&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fthe-endurance-10335"
   },
   "The Evolution of STEM": {
@@ -12672,7 +12672,7 @@
     "description": "Collectable The Lord of the Rings Minas Tirith™ set",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt5e6d5f93a1811e3b/bltfbf117028d65c7c2-11377_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666589563&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Ficons-11377-11377"
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666589563&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fthe-lord-of-the-rings-minas-tirith-11377"
   },
   "THE LORD OF THE RINGS: RIVENDELL": {
     "mids": [
@@ -14137,7 +14137,7 @@
   },
   "Windmill Village Hut": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -14467,7 +14467,7 @@
   },
   "Zane's Battle Suit Mech": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -14542,7 +14542,7 @@
   },
   "Zombie Dungeon": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
