@@ -212,7 +212,7 @@
   },
   "8-Minifigure Display Case - Red": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -528,7 +528,7 @@
   },
   "Antarctic Animals Science Kit": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -558,7 +558,7 @@
   },
   "APXGP Team Race Car from F1 The Movie": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -1191,7 +1191,7 @@
   },
   "Battle Bus": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -1769,12 +1769,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 139.99,
+    "usdPrice": 0,
     "cadPrice": 179.99,
     "pieceCount": -1,
     "description": "Nostalgic gift idea for fans of the classic Star Wars™ saga",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt1d21181b67dcb8a5/75398_Prod.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139233929082617135699294&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fc-3po-75398",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666470458&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fc-3po-75398"
   },
   "Camping Trip": {
@@ -2216,7 +2216,7 @@
   },
   "Clone Trooper & Battle Droid Battle Pack": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -2711,7 +2711,7 @@
   },
   "Cyclone vs. Metal Sonic": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -2936,7 +2936,7 @@
   },
   "Disney Tim Burton's The Nightmare Before Christmas": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -3507,7 +3507,7 @@
   },
   "EV Supercar": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -4152,7 +4152,7 @@
   },
   "Floating Sea Otters": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -4633,7 +4633,7 @@
   },
   "Galloping Horses Canvas": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -4679,7 +4679,7 @@
   },
   "Garden Restaurant": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -4759,12 +4759,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 59.99,
     "cadPrice": 79.99,
     "pieceCount": -1,
     "description": "Fun LEGO® Star Wars™ Christmas gift for kids",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt6d4c85ec676b3157/40806_Prod.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139239742528138961320669&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fgingerbread-at-at-walker-40806",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666530329&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fgingerbread-at-at-walker-40806",
     "kennyHas": true
   },
@@ -5011,7 +5011,7 @@
   },
   "Hagrid & Harry's Privet Drive Escape": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -5462,7 +5462,7 @@
   },
   "Hogwarts Castle": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -5776,6 +5776,36 @@
     "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666588638&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fstar-wars-75451-75451"
   },
+  "Hydration Bottle - Blue": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 13.99,
+    "pieceCount": -1,
+    "description": "Stay refreshed with the LEGO® Hydration Bottle",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltbc1217b9d9554b3e/5006605.jpg?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666365985&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fhydration-bottle-blue-5006605"
+  },
+  "Hydration Bottle - Lavender": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 13.99,
+    "pieceCount": -1,
+    "description": "Stay refreshed with the LEGO® Hydration Bottle",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt4e95a50f9d928de3/5007272.jpg?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666416251&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fhydration-bottle-lavender-5007272"
+  },
   "Hydration Bottle - Red": {
     "mids": [
       36166
@@ -5898,7 +5928,7 @@
   },
   "Iron Man & War Machine vs. Hammer Drones": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -5910,6 +5940,21 @@
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt432d46fc27e0198a/76320_Prod.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392310994215629320963428&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Firon-man-war-machine-vs-hammer-drones-76320",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666527607&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Firon-man-war-machine-vs-hammer-drones-76320"
+  },
+  "Iron Man Keyring": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 7.99,
+    "pieceCount": -1,
+    "description": "Attachable Iron Man minifigure",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt7b25b8db57509b21/854240.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666432290&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Firon-man-keyring-854240"
   },
   "Iron Man Mark 3 Collectors' Edition": {
     "mids": [
@@ -6108,7 +6153,7 @@
   },
   "Japanese Cherry Blossom Landscape": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -6160,12 +6205,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 149.99,
+    "usdPrice": 0,
     "cadPrice": 199.99,
     "pieceCount": -1,
     "description": "Cool, collectible, LEGO® brick-built Jaws film memorabilia",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltf51319e5e0f94542/21350.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139234327604517512238469&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fjaws-21350",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666474652&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fjaws-21350"
   },
   "Jay's Dragon Mech Fight": {
@@ -6470,7 +6515,7 @@
   },
   "Kevin & Dug": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -6798,6 +6843,21 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392316131586190404345270&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Flego-cinch-bucket-blue-5005352",
     "caProductLink": ""
   },
+  "LEGO CINCH BUCKET- BLUE": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 19.99,
+    "pieceCount": -1,
+    "description": "Store and transport your everyday items in style!",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt6f4646b75e492bbb/5005352.jpg?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666214546&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Flego-cinch-bucket-blue-5005352"
+  },
   "LEGO City Advent Calendar 2026": {
     "mids": [
       36166
@@ -6991,7 +7051,7 @@
     "description": "Fun LEGO® brick frame for pictures, photos or display",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt1d8829635ae86d46/5006215.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392310190841813107190807&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Flego-picture-frame-5006215",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666340348&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Flego-picture-frame-5006215"
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666335689&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Flego-picture-frame-5006215"
   },
   "LEGO Red Brick Keyring": {
     "mids": [
@@ -7160,7 +7220,7 @@
   },
   "Liann's Family House": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -7475,7 +7535,7 @@
   },
   "London": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -7565,7 +7625,7 @@
   },
   "Love Birds": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -7688,7 +7748,7 @@
   },
   "Lunar Outpost Moon Rover Space Vehicle": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -7794,7 +7854,7 @@
   },
   "Malfoy Manor": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -8214,7 +8274,7 @@
   },
   "McQueen's Visit to Doc's Garage": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -8529,17 +8589,17 @@
   },
   "Millennium Falcon": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 84.99,
+    "usdPrice": 849.99,
     "cadPrice": 1049.99,
     "pieceCount": -1,
-    "description": "Collectible LEGO® Star Wars™ vehicle set for adults",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltea91c53f2609bfa5/75375.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139239705644824461590189&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmillennium-falcon-75375",
+    "description": "Travel the LEGO® galaxy in the ultimate Millennium Falcon!",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt3349f56c6f192e18/75192_Prod.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139239645708411708662503&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmillennium-falcon-75192",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666175771&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fmillennium-falcon-75192"
   },
   "Mineral Collection": {
@@ -8740,7 +8800,7 @@
   },
   "Minifigure Vending Machine": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -9025,7 +9085,7 @@
   },
   "Music Store & Apartment": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -9066,6 +9126,21 @@
     "description": "Fun Christmas Minifigures Puzzle for LEGO® fans",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt3614bf5a97fc8892/5009522_Prod.jpg?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392313672430244858775097&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmystery-minifigure-mini-puzzle-christmas-edition-2-5009522",
+    "caProductLink": ""
+  },
+  "Mystery Minifigure Mini Puzzle - Space Edition": {
+    "mids": [
+      13923
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 8.95,
+    "cadPrice": 0,
+    "pieceCount": -1,
+    "description": "Collectible LEGO® puzzles for space fans",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt83573ec92f4af587/5008890.jpg?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139238765043901513458496&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmystery-minifigure-mini-puzzle-space-edition-5008890",
     "caProductLink": ""
   },
   "Mythical Creature Qilin": {
@@ -9205,7 +9280,7 @@
   },
   "Nightmare Scorpion Digger": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -9306,7 +9381,7 @@
     "description": "Get cozy with Nike x LEGO® Collection Cargo Pants",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt0674dfa6aad3880f/5010042_Prod.jpg?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392313415395797473402851&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-cargo-pants-5010042",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666629892&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-cargo-pants-5010042"
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666629888&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-cargo-pants-5010042"
   },
   "Nike x LEGO Collection Dri-FIT Crossover Shorts": {
     "mids": [
@@ -9430,7 +9505,7 @@
   },
   "Ninja Spinjitzu Temple": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -9535,7 +9610,7 @@
   },
   "Off-Road 4x4 Mountain Truck": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -10168,7 +10243,7 @@
   },
   "Police Motorcycle Chase": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -10409,7 +10484,7 @@
   },
   "Quality Quidditch Supplies & Ice Cream Parlour": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -10529,7 +10604,7 @@
   },
   "Rechargeable Battery": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -10934,7 +11009,7 @@
   },
   "Roses": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -10964,7 +11039,7 @@
   },
   "Sally's Flowerpot": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -11609,7 +11684,7 @@
   },
   "Spider-Man vs. Doc Ock Subway Train Scene": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -12952,12 +13027,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 199.99,
+    "usdPrice": 0,
     "cadPrice": 259.99,
     "pieceCount": -1,
     "description": "LEGO® NINJAGO® The Temple Bounty ship toy with 6 minifigures",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt776fdbca75d2632e/71848_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139236590589145480832600&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fthe-temple-bounty-71848",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526935&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fthe-temple-bounty-71848"
   },
   "The TNT Jungle House": {
@@ -13067,7 +13142,7 @@
   },
   "Thing's Apartment": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -13335,6 +13410,21 @@
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltf513a3746b8267e9/10358_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392314975446553806423599&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Ftransformers-soundwave-10358",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666530082&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Ftransformers-soundwave-10358"
+  },
+  "Transparent Red Sorting Case To Go": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 7.99,
+    "pieceCount": -1,
+    "description": "Kids can carry LEGO® bricks and more in this portable case!",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt1172aad41e8c764f/5005769.jpg?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666279781&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Ftransparent-red-sorting-case-to-go-5005769"
   },
   "Travel Boat Adventure": {
     "mids": [
@@ -13852,7 +13942,7 @@
   },
   "Volvo FMX Truck & EC230 Electric Excavator": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -14047,7 +14137,7 @@
   },
   "Wild Animals: Tropical Toucan": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -14142,12 +14232,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 29.99,
+    "usdPrice": 0,
     "cadPrice": 39.99,
     "pieceCount": -1,
     "description": "LEGO® ONE PIECE beachside store and pirate boat toy",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt0feb85637d359729/75636_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392314623213005444519329&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fwindmill-village-hut-75636",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666527563&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fwindmill-village-hut-75636"
   },
   "Winnie the Pooh": {
@@ -14257,7 +14347,7 @@
   },
   "Wooden Wall Hanger Set - Light Oak": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -14287,7 +14377,7 @@
   },
   "Wreath": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
