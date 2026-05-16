@@ -318,7 +318,7 @@
   },
   "Aircraft: Race Plane": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -348,7 +348,7 @@
   },
   "Airport Fire Truck": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -558,7 +558,7 @@
   },
   "APXGP Team Race Car from F1 The Movie": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -664,7 +664,7 @@
   },
   "Arendelle Frozen Castle": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -709,7 +709,7 @@
   },
   "Arin's Spinjitzu Battle Mech": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -754,7 +754,7 @@
   },
   "Aston Martin Valkyrie": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -812,6 +812,21 @@
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt043955a8ee1e2706/blt1a085f1ef4d5c931-75444_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392315189149030117995046&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fat-rt-attack-75444",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666588626&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fat-rt-attack-75444"
+  },
+  "AT-ST Walker": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 259.99,
+    "pieceCount": -1,
+    "description": "An impressive LEGO® Star Wars™ gift for adults",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt98568413538e8f35/75417_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666527543&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fat-st-walker-75417"
   },
   "AT-TE Walker": {
     "mids": [
@@ -1401,7 +1416,7 @@
   },
   "Blaze's Horse Ranch": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -1507,7 +1522,7 @@
   },
   "Bouquet of Roses": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -1839,17 +1854,17 @@
   },
   "Captain Jack Sparrow's Pirate Ship": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 379.99,
+    "usdPrice": 0,
     "cadPrice": 449.99,
     "pieceCount": -1,
     "description": "Pirates of the Caribbean building set for adults",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltcf20096d15e25f4c/10365_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392314769212009641990674&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fcaptain-jack-sparrows-pirate-ship-10365",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666530088&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fcaptain-jack-sparrows-pirate-ship-10365"
   },
   "Captain Rex Helmet": {
@@ -1899,7 +1914,7 @@
   },
   "Carl, Russell & Kevin": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -1929,7 +1944,7 @@
   },
   "Cauldron: Secret Potions Classroom": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -2516,7 +2531,7 @@
   },
   "Creative Suitcase": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -2756,7 +2771,7 @@
   },
   "Darth Maul Mech": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -3011,7 +3026,7 @@
   },
   "Dog Treats Bakery": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -3026,7 +3041,7 @@
   },
   "Donut Truck": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -3372,7 +3387,7 @@
   },
   "Elsa's Ice Palace": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -3432,7 +3447,7 @@
   },
   "Emergency Ambulance": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -4137,7 +4152,7 @@
   },
   "Flatbed Truck with Helicopter": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -4664,22 +4679,22 @@
   },
   "Gaming 10 Pack": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
     "usdPrice": 39.99,
-    "cadPrice": 0,
+    "cadPrice": 49.99,
     "pieceCount": -1,
     "description": "Level up with gaming-inspired LEGO® Jibbitz™ charms",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltce6dc01c54a6fa29/10018245_001_ALT100.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392314221230345990395926&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fgaming-10-pack-5010348",
-    "caProductLink": ""
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666650383&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fgaming-10-pack-5010348"
   },
   "Garden Restaurant": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -4875,17 +4890,17 @@
   },
   "Great Deku Tree 2-in-1": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 299.99,
+    "usdPrice": 0,
     "cadPrice": 389.99,
     "pieceCount": -1,
     "description": "2-in-1 rebuildable merch gift for adults, with 4 minifigures",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt6a8cb14aa4efef08/77092.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139236296610416156202657&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fgreat-deku-tree-2-in-1-77092",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666471381&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fgreat-deku-tree-2-in-1-77092",
     "kennyHas": true
   },
@@ -5011,7 +5026,7 @@
   },
   "Hagrid & Harry's Privet Drive Escape": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -5416,7 +5431,7 @@
   },
   "High-Speed Train": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -5778,17 +5793,17 @@
   },
   "Hydration Bottle - Blue": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 11.99,
     "cadPrice": 13.99,
     "pieceCount": -1,
     "description": "Stay refreshed with the LEGO® Hydration Bottle",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltbc1217b9d9554b3e/5006605.jpg?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392311958026856076324128&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fhydration-bottle-blue-5006605",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666365985&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fhydration-bottle-blue-5006605"
   },
   "Hydration Bottle - Lavender": {
@@ -5798,12 +5813,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 14.99,
     "cadPrice": 13.99,
     "pieceCount": -1,
     "description": "Stay refreshed with the LEGO® Hydration Bottle",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt4e95a50f9d928de3/5007272.jpg?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392316600772309203059044&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fhydration-bottle-lavender-5007272",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666416251&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fhydration-bottle-lavender-5007272"
   },
   "Hydration Bottle - Red": {
@@ -5896,6 +5911,21 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139232430682309924085000&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fidentity-and-landscape-kit-2000430",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666037809&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fidentity-and-landscape-kit-2000430"
   },
+  "Imperial Star Destroyer": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 209.99,
+    "pieceCount": -1,
+    "description": "Kids' buildable starship toy for playful adventures",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltb6f5dfaf01195072/75394_Prod.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666474670&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fimperial-star-destroyer-75394"
+  },
   "Imperium Sword": {
     "mids": [
       13923
@@ -5928,7 +5958,7 @@
   },
   "Iron Man & War Machine vs. Hammer Drones": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -6153,7 +6183,7 @@
   },
   "Japanese Cherry Blossom Landscape": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -7051,7 +7081,7 @@
     "description": "Fun LEGO® brick frame for pictures, photos or display",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt1d8829635ae86d46/5006215.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392310190841813107190807&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Flego-picture-frame-5006215",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666335689&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Flego-picture-frame-5006215"
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666340348&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Flego-picture-frame-5006215"
   },
   "LEGO Red Brick Keyring": {
     "mids": [
@@ -7640,7 +7670,7 @@
   },
   "Love Letters": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -7748,7 +7778,7 @@
   },
   "Lunar Outpost Moon Rover Space Vehicle": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -7794,7 +7824,7 @@
   },
   "Magical Transparent Box": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -8589,22 +8619,22 @@
   },
   "Millennium Falcon": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 849.99,
-    "cadPrice": 1049.99,
+    "usdPrice": 84.99,
+    "cadPrice": 109.99,
     "pieceCount": -1,
-    "description": "Travel the LEGO® galaxy in the ultimate Millennium Falcon!",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt3349f56c6f192e18/75192_Prod.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139239645708411708662503&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmillennium-falcon-75192",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666175771&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fmillennium-falcon-75192"
+    "description": "Collectible LEGO® Star Wars™ vehicle set for adults",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltea91c53f2609bfa5/75375.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139239705644824461590189&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmillennium-falcon-75375",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666470424&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fmillennium-falcon-75375"
   },
   "Mineral Collection": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -8664,7 +8694,7 @@
   },
   "Mini Biomes": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8770,7 +8800,7 @@
   },
   "Minifigure Factory": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8778,7 +8808,7 @@
     "usdPrice": 11.99,
     "cadPrice": 15.99,
     "pieceCount": -1,
-    "description": "LEGO Minifigure Factory",
+    "description": "",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt5f8da0029f693866/Ecom_ADhoc_1HY25_MinifigConfigurator_Productcard_2400x1800.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139238266549585749162679&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fminifigure-factory-3850082",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666503751&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fminifigure-factory-3850082"
@@ -8830,7 +8860,7 @@
   },
   "Moana's Adventure Canoe": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -9025,7 +9055,7 @@
   },
   "Morticia's Cottage": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -9126,21 +9156,6 @@
     "description": "Fun Christmas Minifigures Puzzle for LEGO® fans",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt3614bf5a97fc8892/5009522_Prod.jpg?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392313672430244858775097&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmystery-minifigure-mini-puzzle-christmas-edition-2-5009522",
-    "caProductLink": ""
-  },
-  "Mystery Minifigure Mini Puzzle - Space Edition": {
-    "mids": [
-      13923
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 8.95,
-    "cadPrice": 0,
-    "pieceCount": -1,
-    "description": "Collectible LEGO® puzzles for space fans",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt83573ec92f4af587/5008890.jpg?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139238765043901513458496&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmystery-minifigure-mini-puzzle-space-edition-5008890",
     "caProductLink": ""
   },
   "Mythical Creature Qilin": {
@@ -9248,6 +9263,21 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139236905220402861199334&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fneuschwanstein-castle-21063",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526221&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fneuschwanstein-castle-21063"
   },
+  "New Republic X-Wing Starfighter": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 89.99,
+    "pieceCount": -1,
+    "description": "Cool Star Wars™ X-wing building toy for play and display",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt3c7b337dee009946/75460_Prod.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666590364&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnew-republic-x-wing-starfighter-75460"
+  },
   "New York Postcard": {
     "mids": [
       13923
@@ -9280,7 +9310,7 @@
   },
   "Nightmare Scorpion Digger": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -9971,7 +10001,7 @@
   },
   "Pikachu and Poké Ball": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -10243,7 +10273,7 @@
   },
   "Police Motorcycle Chase": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -12165,7 +12195,7 @@
   },
   "Sweetheart Tweety Bird": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -12270,7 +12300,7 @@
   },
   "Team Spidey Pirate Ship": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -12375,7 +12405,7 @@
   },
   "The Baratie Floating Restaurant": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -12463,6 +12493,22 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139239614516913802939818&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fthe-creeper-21276",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526793&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fthe-creeper-21276"
   },
+  "The Dark Falcon": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 239.99,
+    "pieceCount": -1,
+    "description": "Cool LEGO® Star Wars™ set to rebuild the galaxy!",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt9045e5d9071ed23b/75389_Prod.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666470446&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fthe-dark-falcon-75389",
+    "kennyHas": true
+  },
   "The Dragon of Life": {
     "mids": [
       36166
@@ -12540,7 +12586,7 @@
   },
   "The Fauna Collection - Tiger": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -12646,7 +12692,7 @@
   },
   "The Goonies": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -12751,7 +12797,7 @@
   },
   "THE LORD OF THE RINGS: RIVENDELL": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -12759,7 +12805,7 @@
     "usdPrice": 499.99,
     "cadPrice": 669.99,
     "pieceCount": -1,
-    "description": "Journey into Middle-earth™ with a LEGO® THE LORD OF THE RINGS: RIVENDELL™ building set that includes iconic details and characters from the films.",
+    "description": "Journey into Middle-earth™ with a LEGO® THE LORD OF THE RINGS: RIVENDELL™ building set that includes iconic details and characters from the movies.",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltec012c948c003fba/10316_alt16.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392316307335145585560087&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fthe-lord-of-the-rings-rivendell-10316",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666426504&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fthe-lord-of-the-rings-rivendell-10316"
@@ -13027,12 +13073,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 199.99,
     "cadPrice": 259.99,
     "pieceCount": -1,
     "description": "LEGO® NINJAGO® The Temple Bounty ship toy with 6 minifigures",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt776fdbca75d2632e/71848_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139236590589145480832600&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fthe-temple-bounty-71848",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526935&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fthe-temple-bounty-71848"
   },
   "The TNT Jungle House": {
@@ -13142,7 +13188,7 @@
   },
   "Thing's Apartment": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -13170,9 +13216,24 @@
     "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666427680&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Ftie-bomber-75347"
   },
-  "Tiger Shark Tank": {
+  "TIE Interceptor": {
     "mids": [
       36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 299.99,
+    "pieceCount": -1,
+    "description": "The ultimate LEGO® Star Wars™ gift set for adults",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt42c7adf188ed2eb8/75382.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666471486&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Ftie-interceptor-75382"
+  },
+  "Tiger Shark Tank": {
+    "mids": [
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -13292,7 +13353,7 @@
   },
   "Toy Story Celebration Train & RC Car": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -13322,7 +13383,7 @@
   },
   "Tractor": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -13367,7 +13428,7 @@
   },
   "Train Motor": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -13413,17 +13474,17 @@
   },
   "Transparent Red Sorting Case To Go": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 6.99,
     "cadPrice": 7.99,
     "pieceCount": -1,
     "description": "Kids can carry LEGO® bricks and more in this portable case!",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt1172aad41e8c764f/5005769.jpg?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392310663269254044590460&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Ftransparent-red-sorting-case-to-go-5005769",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666279781&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Ftransparent-red-sorting-case-to-go-5005769"
   },
   "Travel Boat Adventure": {
@@ -14182,7 +14243,7 @@
   },
   "Williams Racing FW14B & Nigel Mansell": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -14347,7 +14408,7 @@
   },
   "Wooden Wall Hanger Set - Light Oak": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
