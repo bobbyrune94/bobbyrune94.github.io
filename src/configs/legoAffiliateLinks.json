@@ -911,12 +911,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 499.99,
+    "usdPrice": 0,
     "cadPrice": 669.99,
     "pieceCount": -1,
     "description": "The 5,201-piece Avengers Tower, with action on every floor",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blta1716ca226f20cab/76269.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392314276413507406997448&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Favengers-tower-76269",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666427770&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Favengers-tower-76269"
   },
   "Avengers: Age of Ultron Quinjet": {
@@ -1221,7 +1221,7 @@
   },
   "Battle Bus": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -2351,7 +2351,7 @@
   },
   "Cool Creative Box": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -2636,7 +2636,7 @@
   },
   "Crocodile Submarine": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -2919,6 +2919,21 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392312963275693041324384&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fdino-jet-71514",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666588603&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fdino-jet-71514"
   },
+  "Dinosaur Fossils: Triceratops": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 154.99,
+    "pieceCount": -1,
+    "description": "Accurately detailed brick-built LEGO® Triceratops model kit",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltc702354f2004d613/blt7dfb23345a86bf30-77985_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666588779&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fdinosaur-fossils-triceratops-77985"
+  },
   "Dinosaur Fossils: Triceratops Skull": {
     "mids": [
       13923
@@ -2941,12 +2956,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 249.99,
     "cadPrice": 329.99,
     "pieceCount": -1,
     "description": "A premium LEGO® T. rex dinosaur set full of curated details",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt490fcaeb0097ae2f/76968_Prod.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139238799859088951015417&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fdinosaur-fossils-tyrannosaurus-rex-76968",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526377&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fdinosaur-fossils-tyrannosaurus-rex-76968"
   },
   "Disney Pixar Luxo Jr.": {
@@ -3537,7 +3552,7 @@
   },
   "EV Supercar": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -4906,17 +4921,17 @@
   },
   "Great Pyramid of Giza": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 129.99,
     "cadPrice": 169.99,
     "pieceCount": -1,
     "description": "Recreate the oldest of the ancient wonders of the world",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt29a9be6d41806916/21058.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392313999693229545431191&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fgreat-pyramid-of-giza-21058",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666379809&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fgreat-pyramid-of-giza-21058"
   },
   "Green Bugatti Chiron Pur Sport Hypercar": {
@@ -5866,6 +5881,21 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392310812570083711980699&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fhydration-bottle-05-l-discovery-5007788",
     "caProductLink": ""
   },
+  "Hydration Bottle 0.5 L - New York": {
+    "mids": [
+      13923
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 12.99,
+    "cadPrice": 0,
+    "pieceCount": -1,
+    "description": "Keep LEGO® fans hydrated with this supercool bottle",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt8c59d2f0ab139fb1/5007787.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392312201094746694592929&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fhydration-bottle-05-l-new-york-5007787",
+    "caProductLink": ""
+  },
   "Ice Cream & Balloon Stand": {
     "mids": [
       36166
@@ -6018,7 +6048,7 @@
   },
   "Iron Man's Laboratory: Hall of Armor": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -6153,7 +6183,7 @@
   },
   "Japan Postcard": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -6843,6 +6873,21 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392317860059983986798725&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Flego-2024-wall-calendar-5008141",
     "caProductLink": ""
   },
+  "LEGO Batman: Legacy of the Dark Knight - Xbox Series XǀS": {
+    "mids": [
+      13923
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 69.99,
+    "cadPrice": 0,
+    "pieceCount": -1,
+    "description": "Open-world video game for LEGO® Batman™ fans",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt62d7afdaa8be1dc8/US_STANDARD_Xbox_Packshot_2D.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139235660212171328674044&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Flego-batman-legacy-of-the-dark-knight-xbox-series-xs-5010378",
+    "caProductLink": ""
+  },
   "LEGO Blue Cinch Bucket": {
     "mids": [
       13923
@@ -7445,17 +7490,17 @@
   },
   "Lloyd's Green Forest Dragon": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 19.99,
     "cadPrice": 24.99,
     "pieceCount": -1,
     "description": "LEGO® NINJAGO® playset with 2 dragons and 2 minifigures",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt97457b5deff61b79/71829_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392315968973570178050940&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Flloyds-green-forest-dragon-71829",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526901&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Flloyds-green-forest-dragon-71829"
   },
   "Lloyd's Jet Mech": {
@@ -7490,7 +7535,7 @@
   },
   "Lloyd's Sword with Sheath": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -7869,7 +7914,7 @@
   },
   "Malfoy Manor": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -7989,7 +8034,7 @@
   },
   "Mario Kart - Piranha Plant Power-Up Pursuit": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -8154,7 +8199,7 @@
   },
   "Mateo vs. Cyber Brain Mech": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8289,7 +8334,7 @@
   },
   "McQueen's Visit to Doc's Garage": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -8424,7 +8469,7 @@
   },
   "Mercedes-AMG G 63 & Mercedes-AMG SL 63": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8664,7 +8709,7 @@
   },
   "Mini Belle & Tiana with Castle": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -9143,21 +9188,6 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392313672430244858775097&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmystery-minifigure-mini-puzzle-christmas-edition-2-5009522",
     "caProductLink": ""
   },
-  "Mystery Minifigure Mini Puzzle - Space Edition": {
-    "mids": [
-      13923
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 8.95,
-    "cadPrice": 0,
-    "pieceCount": -1,
-    "description": "Collectible LEGO® puzzles for space fans",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt83573ec92f4af587/5008890.jpg?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139238765043901513458496&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmystery-minifigure-mini-puzzle-space-edition-5008890",
-    "caProductLink": ""
-  },
   "Mythical Creature Qilin": {
     "mids": [
       36166
@@ -9550,7 +9580,7 @@
   },
   "Ninja Spinjitzu Temple": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -9856,12 +9886,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 29.99,
     "cadPrice": 39.99,
     "pieceCount": -1,
     "description": "Fun-packed role-play toy for kids",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt176c2437d10b5192/72041_Prod.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139239892213695584727760&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fparty-at-toads-house-72041",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526966&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fparty-at-toads-house-72041"
   },
   "Passenger Jet": {
@@ -11054,7 +11084,7 @@
   },
   "Roses": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -11339,7 +11369,7 @@
   },
   "Silver's Car vs. Knuckles' Monster Truck": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -11654,17 +11684,17 @@
   },
   "Space Shuttle": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 9.99,
     "cadPrice": 13.99,
     "pieceCount": -1,
     "description": "All-action space play with a rebuildable Space Shuttle toy",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt35eb893e7b4c6280/31134.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392313420726773317051156&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fspace-shuttle-31134",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666425609&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fspace-shuttle-31134"
   },
   "Spider-Man Car vs. Venomized Wolverine": {
@@ -12510,7 +12540,7 @@
   },
   "The Dark Falcon": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -13223,12 +13253,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 69.99,
     "cadPrice": 89.99,
     "pieceCount": -1,
     "description": "LEGO® NINJAGO® dragon toy playset with 6 minifigures",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt041c82c8fa1d4cb4/71832_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139235965515826053223700&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fthunderfang-dragon-of-chaos-71832",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526907&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fthunderfang-dragon-of-chaos-71832"
   },
   "TIE Bomber": {
@@ -13263,7 +13293,7 @@
   },
   "Tiger Shark Tank": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -13383,7 +13413,7 @@
   },
   "Toy Story Celebration Train & RC Car": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -13413,7 +13443,7 @@
   },
   "Tractor": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -14273,7 +14303,7 @@
   },
   "Williams Racing FW14B & Nigel Mansell": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -14468,7 +14498,7 @@
   },
   "Wreath": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
