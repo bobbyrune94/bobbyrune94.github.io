@@ -1086,17 +1086,17 @@
   },
   "Batman Tumbler vs. Two-Face & The Joker": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 59.99,
+    "usdPrice": 0,
     "cadPrice": 79.99,
     "pieceCount": -1,
     "description": "Batman™ toy for kids, with the iconic Tumbler Batmobile™",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt6f3ee52e95ff88f6/76303_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392316557955544342280863&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fbatman-tumbler-vs-two-face-the-joker-76303",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666527577&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fbatman-tumbler-vs-two-face-the-joker-76303"
   },
   "Batman v Superman Batmobile": {
@@ -3447,7 +3447,7 @@
   },
   "Emergency Ambulance": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -7428,21 +7428,6 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392313303952854574798535&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Flightsaber-gel-pen-black-5008816",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666523684&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Flightsaber-gel-pen-black-5008816"
   },
-  "Lightsaber Gel Pens - 10 Pack": {
-    "mids": [
-      13923
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 32.5,
-    "cadPrice": 0,
-    "pieceCount": -1,
-    "description": "Awesome lightsaber pens multipack",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltfb92d73cd472998e/5008815.jpg?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139239573416746552997824&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Flightsaber-gel-pens-10-pack-5008815",
-    "caProductLink": ""
-  },
   "Lilo & Stitch: Angel": {
     "mids": [
       13923
@@ -7790,7 +7775,7 @@
   },
   "Love Birds": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -8169,7 +8154,7 @@
   },
   "Mario Kart - Shy Guy & P-Wing": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8392,6 +8377,36 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139239708913943786609039&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmclaren-f1-team-mcl38-race-car-77251",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666527012&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fmclaren-f1-team-mcl38-race-car-77251"
   },
+  "McLaren Mastercard F1 Team Lando Norris Helmet": {
+    "mids": [
+      13923
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 89.99,
+    "cadPrice": 119.99,
+    "pieceCount": -1,
+    "description": "Build a LEGO® McLaren F1® helmet co-designed by Lando Norris",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blte8da17d05f13f3d1/bltb96d0e886d1b1e2e-43023_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392311288305137744269199&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Feditions-v-43023-43023",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666590616&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Feditions-v-43023-43023"
+  },
+  "McLaren Mastercard F1 Team Oscar Piastri Helmet": {
+    "mids": [
+      13923
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 89.99,
+    "cadPrice": 119.99,
+    "pieceCount": -1,
+    "description": "Build a LEGO® McLaren F1® helmet inspired by Oscar Piastri",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt4fcb71893af17e2a/bltab4a10ed7b29fa28-43017_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392314429924789666070146&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Feditions-v-43017-43017",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666590606&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Feditions-v-43017-43017"
+  },
   "McLaren MCL39 F1 Car": {
     "mids": [
       13923
@@ -8609,12 +8624,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 249.99,
+    "usdPrice": 0,
     "cadPrice": 329.99,
     "pieceCount": -1,
     "description": "A 4x4 car model for adults who love Mercedes-Benz gifts",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltcbe6394b9677d5bd/42177_Prod.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139239460403805426013097&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmercedes-benz-g-500-professional-line-42177",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666470657&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fmercedes-benz-g-500-professional-line-42177"
   },
   "Mercedes-Benz Unimog U 5023 with Crane": {
@@ -8919,7 +8934,7 @@
   },
   "Mini Orchid": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -9055,7 +9070,7 @@
   },
   "MoneyGram Haas F1 Team VF-24 Race Car": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -9325,7 +9340,7 @@
   },
   "Mythical Creature Qilin": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -9635,8 +9650,8 @@
     "pieceCount": -1,
     "description": "Keep kids warm in a Nike x LEGO® Collection jacket",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltc8d0021f31f0eb64/5009949_Prod.jpeg?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139234880604915943541103&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-jacket-5009949",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666616984&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-jacket-5009949"
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392310035686232475764787&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-jacket-5009949",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666616983&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-jacket-5009949"
   },
   "Nike x LEGO Dri-FIT Jersey": {
     "mids": [
@@ -10724,7 +10739,7 @@
   },
   "Quality Quidditch Supplies & Ice Cream Parlour": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -10859,7 +10874,7 @@
   },
   "Rechargeable Battery": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -11144,7 +11159,7 @@
   },
   "Rides - Gaming Race Car": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -11239,12 +11254,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 74.99,
+    "usdPrice": 0,
     "cadPrice": 89.99,
     "pieceCount": -1,
     "description": "LEGO® NINJAGO® playset with a dragon, mech and 4 minifigures",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltd03c050dee0096b3/71843_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139231125618958271960917&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Frogues-mech-dragon-rider-71843",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526925&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Frogues-mech-dragon-rider-71843"
   },
   "Rontu the Master Dragon": {
@@ -11954,7 +11969,7 @@
   },
   "Spider-Man vs. Doc Ock Subway Train Scene": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -13037,17 +13052,17 @@
   },
   "The Lord of the Rings: Barad-dûr": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 459.99,
     "cadPrice": 599.99,
     "pieceCount": -1,
-    "description": "Film-themed home and office decor building set for adults",
+    "description": "Movie-themed home and office decor building set for adults",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt370b7e8cc1fcceb2/10333.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392311584255335285484231&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fthe-lord-of-the-rings-barad-dur-10333",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666471389&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fthe-lord-of-the-rings-barad-dur-10333"
   },
   "The Lord of the Rings: Minas Tirith": {
@@ -13789,7 +13804,7 @@
   },
   "Travel Boat Adventure": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -13879,7 +13894,7 @@
   },
   "Tuxedo Cat": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -13894,7 +13909,7 @@
   },
   "Twilight The Cullen House": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -14150,17 +14165,17 @@
   },
   "Venator-Class Republic Attack Cruiser": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 649.99,
     "cadPrice": 849.99,
     "pieceCount": -1,
     "description": "Celebrate 20 years of Clone Wars adventures with this Ultimate Collector Series version of the Venator-Class Republic Attack Cruiser™.",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt06c6593d8e8d1c13/75367.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392315375143663306162512&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fvenator-class-republic-attack-cruiser-75367",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666427714&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fvenator-class-republic-attack-cruiser-75367",
     "kennyHas": true
   },
@@ -14483,7 +14498,7 @@
   },
   "Wild Animals: Pink Flamingo": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -14573,7 +14588,7 @@
   },
   "Williams Racing FW46 F1 Race Car": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
