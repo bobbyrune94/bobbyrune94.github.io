@@ -8691,18 +8691,18 @@
   },
   "Millennium Falcon": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 849.99,
-    "cadPrice": 109.99,
+    "usdPrice": 84.99,
+    "cadPrice": 1049.99,
     "pieceCount": -1,
     "description": "Collectible LEGO® Star Wars™ vehicle set for adults",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltea91c53f2609bfa5/75375.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139239645708411708662503&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmillennium-falcon-75192",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666470424&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fmillennium-falcon-75375"
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139239705644824461590189&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmillennium-falcon-75375",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666175771&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fmillennium-falcon-75192"
   },
   "Mineral Collection": {
     "mids": [
@@ -8826,7 +8826,7 @@
   },
   "Mini Jasmine & Rapunzel": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -11126,7 +11126,7 @@
   },
   "Republic Juggernaut": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -12552,7 +12552,7 @@
   },
   "Sweetheart Tweety Bird": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
