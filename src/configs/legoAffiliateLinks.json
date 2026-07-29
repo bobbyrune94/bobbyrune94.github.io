@@ -466,7 +466,7 @@
   },
   "Antarctic Animals Science Kit": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -647,7 +647,7 @@
   },
   "Arin's Spinjitzu Battle Mech": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -993,7 +993,7 @@
   },
   "Batman & Robin Batmobile": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -1158,7 +1158,7 @@
   },
   "Battle of Felucia Separatist MTT": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -1444,7 +1444,7 @@
   },
   "Bouquet of Roses": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -1656,7 +1656,7 @@
   },
   "Butterflies & Blooms 1,000-Piece Puzzle": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -2078,7 +2078,7 @@
   },
   "Clone Shock Trooper Mech": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -3264,7 +3264,7 @@
   },
   "Elsa's Ice Castle & Snow Ride Adventure": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -3684,7 +3684,7 @@
   },
   "Family Vacation Beach Resort": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -4601,18 +4601,18 @@
   },
   "Gaming 10 Pack": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
     "usdPrice": 39.99,
-    "cadPrice": 49.99,
+    "cadPrice": 0,
     "pieceCount": -1,
     "description": "Level up with gaming-inspired LEGO® Jibbitz™ charms",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltce6dc01c54a6fa29/10018245_001_ALT100.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392314221230345990395926&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fgaming-10-pack-5010348",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666650383&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fgaming-10-pack-5010348"
+    "caProductLink": ""
   },
   "Garden Restaurant": {
     "mids": [
@@ -5337,7 +5337,7 @@
   },
   "High-Speed Train": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -6014,7 +6014,7 @@
   },
   "Iron Man's Laboratory: Hall of Armor": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -6029,18 +6029,18 @@
   },
   "Iron Spider-Man Bust": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
     "usdPrice": 59.99,
-    "cadPrice": 79.99,
+    "cadPrice": 0,
     "pieceCount": -1,
     "description": "Collectible LEGO® ǀ Marvel Iron Spider Man gift for adults",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltd55cc28920623ef5/76326_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392313010696556015842919&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Firon-spider-man-bust-76326",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666527619&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Firon-spider-man-bust-76326"
+    "caProductLink": ""
   },
   "Italian Riviera": {
     "mids": [
@@ -6847,12 +6847,12 @@
     "theme": "",
     "year": -1,
     "usdPrice": 189.99,
-    "cadPrice": 229.99,
+    "cadPrice": 0,
     "pieceCount": -1,
     "description": "A STEM toy for kids who love remote controlled cars",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt569d545d0a7c06c7/42214_Prod.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139237241111599002700691&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Flamborghini-revuelto-super-sports-car-42214",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526835&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Flamborghini-revuelto-super-sports-car-42214"
+    "caProductLink": ""
   },
   "Land Bounty": {
     "mids": [
@@ -6897,6 +6897,36 @@
     "description": "2024 LEGO® calendar for 12 months of building dreams",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blteb9ed1835af1a202/5008141.jpg?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392317860059983986798725&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Flego-2024-wall-calendar-5008141",
+    "caProductLink": ""
+  },
+  "LEGO Batman: Legacy of the Dark Knight - PlayStation 5": {
+    "mids": [
+      13923
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 69.99,
+    "cadPrice": 0,
+    "pieceCount": -1,
+    "description": "Open-world video game for LEGO® Batman™ fans",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt3aef6174107eb0af/LBM_STD_PS5_Packshot_US_FINAL_2D.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139239607904924458632605&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Flego-batman-legacy-of-the-dark-knight-playstation-5-5010377",
+    "caProductLink": ""
+  },
+  "LEGO Batman: Legacy of the Dark Knight - Xbox Series XǀS": {
+    "mids": [
+      13923
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 69.99,
+    "cadPrice": 0,
+    "pieceCount": -1,
+    "description": "Open-world video game for LEGO® Batman™ fans",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt62d7afdaa8be1dc8/US_STANDARD_Xbox_Packshot_2D.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139235660212171328674044&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Flego-batman-legacy-of-the-dark-knight-xbox-series-xs-5010378",
     "caProductLink": ""
   },
   "LEGO Blue Cinch Bucket": {
@@ -7261,7 +7291,7 @@
   },
   "Leif's Caravan & Garden Shop": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -7291,7 +7321,7 @@
   },
   "Light": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -7651,7 +7681,7 @@
   },
   "Love Birds": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -7876,21 +7906,6 @@
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt605215e6d74ef935/43262_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139233998069575412250445&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmaleficents-and-cruella-de-vils-dresses-43262",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526241&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fmaleficents-and-cruella-de-vils-dresses-43262"
-  },
-  "Malfoy Manor": {
-    "mids": [
-      13923
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 149.99,
-    "cadPrice": 0,
-    "pieceCount": -1,
-    "description": "Magical LEGO® Harry Potter™ toy for boys, girls and any fans",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt0bce093fb75787c1/76453_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139236135832477609318599&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmalfoy-manor-76453",
-    "caProductLink": ""
   },
   "Mando and Grogu's N-1 Starfighter": {
     "mids": [
@@ -8209,7 +8224,7 @@
   },
   "McLaren MCL39 F1 Car": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8269,7 +8284,7 @@
   },
   "McQueen's Visit to Doc's Garage": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -8327,21 +8342,6 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.13923180051359518940381&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmedieval-dragon-31161",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666527846&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fmedieval-dragon-31161"
   },
-  "Medieval Horse Knight Castle": {
-    "mids": [
-      36166
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 0,
-    "cadPrice": 149.99,
-    "pieceCount": -1,
-    "description": "LEGO® Creator medieval castle 3in1 rebuildable toy playset",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt704380e8e257025f/31168_Prod.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666527860&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fmedieval-horse-knight-castle-31168"
-  },
   "Megapolis City 5th Anniversary": {
     "mids": [
       13923
@@ -8374,18 +8374,18 @@
   },
   "Mercedes-AMG F1 W14 E Performance": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
     "usdPrice": 219.99,
-    "cadPrice": 289.99,
+    "cadPrice": 0,
     "pieceCount": -1,
     "description": "A car gift for fans of the Mercedes-AMG Petronas F1 Team",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt2d0b04908f20c4fb/42171.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392315538371653367702180&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmercedes-amg-f1-w14-e-performance-42171",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666470647&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fmercedes-amg-f1-w14-e-performance-42171"
+    "caProductLink": ""
   },
   "Mercedes-AMG F1 W15 Race Car": {
     "mids": [
@@ -9305,7 +9305,7 @@
   },
   "Nightmare Scorpion Digger": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -9406,7 +9406,7 @@
     "description": "Play sports in style with the Nike x LEGO® Aero-FIT Shorts",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt6fe382488a83aa17/IO3126-010_470956925_D_B_4X5.PNG?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139231834714509370756486&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-big-kids-aero-fit-shorts-5010084",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666633308&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-big-kids-aero-fit-shorts-5010084"
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666633315&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-big-kids-aero-fit-shorts-5010086"
   },
   "Nike x LEGO Collection Big Kids' Aero-FIT Soccer Jersey": {
     "mids": [
@@ -9465,7 +9465,7 @@
     "pieceCount": -1,
     "description": "Get cozy and comfy with this Nike x LEGO® Hoodie",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt279457901094e35f/AURORA_IO3116-360_PHSFM002-2000.jpeg?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139234844819627490966345&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-big-kids-hoodie-lime-green-5010255",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139234308030674878675271&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-big-kids-hoodie-lime-green-5010255",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666647525&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-big-kids-hoodie-lime-green-5010255"
   },
   "Nike x LEGO Collection Big Kids' Hoodie - White": {
@@ -9480,7 +9480,7 @@
     "pieceCount": -1,
     "description": "Get cozy and comfy with this Nike x LEGO® Hoodie",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blta6232283f54ebc74/AURORA_IO3116-100_PHSFM001-2000.jpeg?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392313014777033596520239&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-big-kids-hoodie-white-5010254",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.13923554939460346288192&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-big-kids-hoodie-white-5010254",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666647523&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-big-kids-hoodie-white-5010254"
   },
   "Nike x LEGO Collection Big Kids' Jacket": {
@@ -9496,7 +9496,7 @@
     "description": "Stay cool and comfortable in this Nike x LEGO® Jacket",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt949175d350e2802c/AURORA_IO3111-010_PHSFM001-2000.jpeg?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392316173762528801601058&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-big-kids-jacket-5010256",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666647531&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-big-kids-jacket-5010256"
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666647529&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-big-kids-jacket-5010256"
   },
   "Nike x LEGO Collection Big Kids' Shorts - Black": {
     "mids": [
@@ -9526,7 +9526,7 @@
     "description": "Play soccer in style with the Nike x LEGO® Big Kids' Shorts",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt0fc4abfb5f79e036/AURORA_IQ7149-310_PHSFM001-2000.jpeg?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139235307013286416340024&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-big-kids-shorts-lucky-green-5010252",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666647512&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-big-kids-shorts-lucky-green-5010252"
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666647510&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-big-kids-shorts-lucky-green-5010252"
   },
   "Nike x LEGO Collection Cargo Pants": {
     "mids": [
@@ -9695,7 +9695,7 @@
   },
   "Ninja Spinjitzu Temple": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -10658,7 +10658,7 @@
   },
   "Porsche GT4 e-Performance Race Car": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -11334,7 +11334,7 @@
   },
   "Roses": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -11379,7 +11379,7 @@
   },
   "Sally's Flowerpot": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -12204,18 +12204,18 @@
   },
   "Spidey: Underwater Vehicles": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
     "usdPrice": 34.99,
-    "cadPrice": 44.99,
+    "cadPrice": 0,
     "pieceCount": -1,
     "description": "Spidey, Ghost-Spider and Doc Ock minifigures in submarines",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt5248d18912342de2/11207_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139234823655026648474735&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fspidey-underwater-vehicles-11207",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666588508&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fspidey-underwater-vehicles-11207"
+    "caProductLink": ""
   },
   "Spin and Electro Dinosaur Vehicle Chase": {
     "mids": [
@@ -12369,7 +12369,7 @@
   },
   "Stitch & Scrump": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -13452,7 +13452,7 @@
   },
   "The Warden Encounter": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -13948,7 +13948,7 @@
   },
   "Tuxedo Cat": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -13963,7 +13963,7 @@
   },
   "Twilight The Cullen House": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -14173,7 +14173,7 @@
   },
   "USB Power Adapter": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
