@@ -254,21 +254,6 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392316568134892385719267&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fadventures-with-interactive-lego-peach-71441",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666472796&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fadventures-with-interactive-lego-peach-71441"
   },
-  "Aircraft: Race Plane": {
-    "mids": [
-      36166
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 0,
-    "cadPrice": 17.99,
-    "pieceCount": -1,
-    "description": "LEGO® Creator 3in1 rebuildable vehicle toy playset",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt704072efd4f1211f/31160_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666527844&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Faircraft-race-plane-31160"
-  },
   "Airplane, Service Truck & Hovercraft Remix": {
     "mids": [
       36166
@@ -841,36 +826,6 @@
     "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666590891&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Favengers-doomsday-heroes-villain-40880"
   },
-  "Avengers: Doomsday New Avengers Tower": {
-    "mids": [
-      36166
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 0,
-    "cadPrice": 154.99,
-    "pieceCount": -1,
-    "description": "4 levels of Super Hero action in the New Avengers Tower",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltf041c34546857793/76352_Prod.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666588694&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Favengers-doomsday-new-avengers-tower-76352"
-  },
-  "Avengers: Doomsday Quinjet": {
-    "mids": [
-      36166
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 0,
-    "cadPrice": 84.99,
-    "pieceCount": -1,
-    "description": "Marvel Avengers Quinjet building toy and 4 LEGO® minifigures",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltbfa25eafbbe050a9/blt0b01e7e47f3494e9-76347_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666588685&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Favengers-doomsday-quinjet-76347"
-  },
   "Avengers: Endgame Final Battle": {
     "mids": [
       13923
@@ -1128,7 +1083,7 @@
   },
   "Battle Bus": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -1536,7 +1491,7 @@
   },
   "Bugatti Centodieci Hyper Sports Car": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -1911,7 +1866,7 @@
   },
   "Chicken Farm": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -2153,7 +2108,7 @@
   },
   "Cole's Mission Mech & Dragon Zane": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -3367,21 +3322,6 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139231223529312179555578&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fenchanted-flying-ford-anglia-76470",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666588716&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fenchanted-flying-ford-anglia-76470"
   },
-  "Epic Battle: Avengers: Doomsday": {
-    "mids": [
-      36166
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 0,
-    "cadPrice": 139.99,
-    "pieceCount": -1,
-    "description": "Large, fully jointed Sentinel vs. a team of Super Heroes",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt2de82c4e5e80b0d9/blte08480224b17a8b6-76348_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666588687&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fepic-battle-avengers-doomsday-76348"
-  },
   "Epic Battle: Hulkbuster vs. The Hulk": {
     "mids": [
       36166
@@ -3939,7 +3879,7 @@
   },
   "FIFA World Cup Official Trophy": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -3947,7 +3887,7 @@
     "usdPrice": 199.99,
     "cadPrice": 249.99,
     "pieceCount": -1,
-    "description": "Create football decor with a LEGO® World Cup Trophy set",
+    "description": "Create soccer decor with a LEGO® World Cup Trophy set",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt92b9ec933bd790fc/43020_Prod.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392316679325526379827644&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Ffifa-world-cup-official-trophy-43020",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666590612&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Ffifa-world-cup-official-trophy-43020"
@@ -4707,7 +4647,7 @@
   },
   "Glinda & Elphaba Visit Munchkinland": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -5383,7 +5323,7 @@
   },
   "Hogwarts Castle": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8930,7 +8870,7 @@
   },
   "Monster Jam DIGatron Pull-Back": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -9305,7 +9245,7 @@
   },
   "Nightmare Scorpion Digger": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -9365,7 +9305,7 @@
   },
   "Nike Dunk x LEGO Set": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -9406,7 +9346,7 @@
     "description": "Play sports in style with the Nike x LEGO® Aero-FIT Shorts",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt6fe382488a83aa17/IO3126-010_470956925_D_B_4X5.PNG?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139231834714509370756486&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-big-kids-aero-fit-shorts-5010084",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666633315&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-big-kids-aero-fit-shorts-5010086"
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666633308&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-big-kids-aero-fit-shorts-5010084"
   },
   "Nike x LEGO Collection Big Kids' Aero-FIT Soccer Jersey": {
     "mids": [
@@ -9450,7 +9390,7 @@
     "pieceCount": -1,
     "description": "Get cozy and comfy with this Nike x LEGO® Hoodie",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltc0a6759370d2c14f/AURORA_IO3116-010_PHSYM001-2000.jpeg?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392314335724678114454096&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-big-kids-hoodie-black-5010253",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139238492932489591354687&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-big-kids-hoodie-black-5010253",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666647516&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-big-kids-hoodie-black-5010253"
   },
   "Nike x LEGO Collection Big Kids' Hoodie - Lime Green": {
@@ -9480,7 +9420,7 @@
     "pieceCount": -1,
     "description": "Get cozy and comfy with this Nike x LEGO® Hoodie",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blta6232283f54ebc74/AURORA_IO3116-100_PHSFM001-2000.jpeg?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.13923554939460346288192&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-big-kids-hoodie-white-5010254",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139234618987420253054836&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-big-kids-hoodie-white-5010254",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666647523&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-big-kids-hoodie-white-5010254"
   },
   "Nike x LEGO Collection Big Kids' Jacket": {
@@ -10161,7 +10101,7 @@
   },
   "Pet Accessories Van": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -10596,21 +10536,6 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139237067058708975493248&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fpolice-train-heist-60508",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666585664&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fpolice-train-heist-60508"
   },
-  "Pony Ranch & Stable": {
-    "mids": [
-      13923
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 69.99,
-    "cadPrice": 0,
-    "pieceCount": -1,
-    "description": "Gallop into creative play with this pony ranch gift",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt66f068f8f02ebe94/42654_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392317894512930853540707&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fpony-ranch-stable-42654",
-    "caProductLink": ""
-  },
   "Porsche 911": {
     "mids": [
       13923
@@ -10658,7 +10583,7 @@
   },
   "Porsche GT4 e-Performance Race Car": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -11454,7 +11379,7 @@
   },
   "Scuderia Ferrari HP Charles Leclerc Helmet": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -12204,18 +12129,18 @@
   },
   "Spidey: Underwater Vehicles": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
     "usdPrice": 34.99,
-    "cadPrice": 0,
+    "cadPrice": 44.99,
     "pieceCount": -1,
     "description": "Spidey, Ghost-Spider and Doc Ock minifigures in submarines",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt5248d18912342de2/11207_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139234823655026648474735&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fspidey-underwater-vehicles-11207",
-    "caProductLink": ""
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666588508&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fspidey-underwater-vehicles-11207"
   },
   "Spin and Electro Dinosaur Vehicle Chase": {
     "mids": [
@@ -12490,18 +12415,18 @@
   },
   "Super Mario World: Mario & Yoshi": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
     "usdPrice": 129.99,
-    "cadPrice": 169.99,
+    "cadPrice": 0,
     "pieceCount": -1,
     "description": "Nostalgic Super Mario™ gift for adult fans",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt3c5134be133cf18b/71438_Prod.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392316120831277975323688&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fsuper-mario-world-mario-yoshi-71438",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666471557&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fsuper-mario-world-mario-yoshi-71438"
+    "caProductLink": ""
   },
   "Super Shadow vs. Biolizard": {
     "mids": [
@@ -13046,7 +12971,7 @@
   },
   "The Goonies": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -13181,7 +13106,7 @@
   },
   "The Mandalorian & Grogu's Speeder Bike": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -14357,7 +14282,7 @@
   },
   "Visa Cash App RB VCARB 01 F1 Race Car": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
