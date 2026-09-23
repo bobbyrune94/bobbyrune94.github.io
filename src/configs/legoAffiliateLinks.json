@@ -843,7 +843,7 @@
   },
   "Back to the Future Time Machine": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -2519,12 +2519,12 @@
     "theme": "",
     "year": -1,
     "usdPrice": 39.99,
-    "cadPrice": 49.99,
+    "cadPrice": 0,
     "pieceCount": -1,
     "description": "A science toy for kids who love submarines",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt26518ff52eac988e/42201_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139231528785816739166929&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fdeep-sea-research-submarine-42201",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526809&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fdeep-sea-research-submarine-42201"
+    "caProductLink": ""
   },
   "Derpy Tiger and Sussie Bird": {
     "mids": [
@@ -2654,12 +2654,12 @@
     "theme": "",
     "year": -1,
     "usdPrice": 19.99,
-    "cadPrice": 22.99,
+    "cadPrice": 0,
     "pieceCount": -1,
     "description": "Give LEGO® fans a showcase for their minifigure collection",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt4a91b9019b5c6b16/5006152.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139234593600137020420087&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fdisplay-case-8-black-5006152",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666326519&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fdisplay-case-8-black-5006152"
+    "caProductLink": ""
   },
   "Dobby the Free Elf": {
     "mids": [
@@ -4316,7 +4316,7 @@
   },
   "Garden Restaurant": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -4422,7 +4422,7 @@
   },
   "Glinda & Elphaba Visit Munchkinland": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -4752,18 +4752,18 @@
   },
   "Haunted Mansion": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
     "usdPrice": 89.99,
-    "cadPrice": 0,
+    "cadPrice": 119.99,
     "pieceCount": -1,
     "description": "LEGO® Creator Haunted Mansion 3in1 rebuildable toy playset",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt61735fb0922b35cc/31167_Prod.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139233342691859136933854&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fhaunted-mansion-31167",
-    "caProductLink": ""
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666527858&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fhaunted-mansion-31167"
   },
   "Heart Ornament": {
     "mids": [
@@ -4947,7 +4947,7 @@
   },
   "High-Speed Train": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -5020,6 +5020,21 @@
     "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666588720&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fhogwarts-castle-east-wing-76473"
   },
+  "Hogwarts Castle: Herbology Class": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 59.99,
+    "pieceCount": -1,
+    "description": "Magical Harry Potter™ treat toy for kids",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt5322eaada5ab9de3/76445_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526347&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fhogwarts-castle-herbology-class-76445"
+  },
   "Hogwarts Castle: Hospital Wing": {
     "mids": [
       13923
@@ -5052,18 +5067,18 @@
   },
   "Hogwarts Castle: The Main Tower": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
     "usdPrice": 259.99,
-    "cadPrice": 329.99,
+    "cadPrice": 0,
     "pieceCount": -1,
     "description": "Fun, collectible LEGO® Harry Potter™ toy for fans",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt69cd6053c5e32973/76454_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392315740695265788208815&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fhogwarts-castle-the-main-tower-76454",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526365&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fhogwarts-castle-the-main-tower-76454"
+    "caProductLink": ""
   },
   "Hogwarts Herbology Plants": {
     "mids": [
@@ -5343,12 +5358,12 @@
     "theme": "",
     "year": -1,
     "usdPrice": 14.99,
-    "cadPrice": 0,
+    "cadPrice": 15.99,
     "pieceCount": -1,
     "description": "Cool LEGO® drinks bottle for flower lovers",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt4d7cdac5878e2463/40420802%20LEGO%20Hydration%20Bottle%20Wild%20Flowers.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139233248553922772467715&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fhydration-bottle-floral-5009866",
-    "caProductLink": ""
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666611967&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fhydration-bottle-floral-5009866"
   },
   "Hydration Bottle 0.5 L - Discovery": {
     "mids": [
@@ -5562,7 +5577,7 @@
   },
   "Iron Man's Laboratory: Hall of Armor": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -6026,6 +6041,21 @@
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt245955053948ef0b/43258_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392318426771011413352112&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fkakamora-barge-43258",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526233&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fkakamora-barge-43258"
+  },
+  "Keith Haring - Dancing Figures": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 149.99,
+    "pieceCount": -1,
+    "description": "Build a LEGO® version of Keith Haring's iconic artwork",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt709d460037ccde76/31216_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526225&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fkeith-haring-dancing-figures-31216"
   },
   "Ken Block's '65 Ford Mustang Hoonicorn V1": {
     "mids": [
@@ -6509,7 +6539,7 @@
   },
   "LEGO Star Wars Advent Calendar 2026": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -7397,7 +7427,7 @@
   },
   "McLaren MCL39 F1 Car": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -7457,7 +7487,7 @@
   },
   "McQueen's Visit to Doc's Garage": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -7712,17 +7742,17 @@
   },
   "Millennium Falcon": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 849.99,
+    "usdPrice": 84.99,
     "cadPrice": 1049.99,
     "pieceCount": -1,
     "description": "Travel the LEGO® galaxy in the ultimate Millennium Falcon!",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt3349f56c6f192e18/75192_Prod.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139239645708411708662503&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmillennium-falcon-75192",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139239705644824461590189&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmillennium-falcon-75375",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666175771&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fmillennium-falcon-75192"
   },
   "Mineral Collection": {
@@ -7853,12 +7883,12 @@
     "theme": "",
     "year": -1,
     "usdPrice": 9.99,
-    "cadPrice": 12.99,
+    "cadPrice": 0,
     "pieceCount": -1,
     "description": "Small building toy with 2 LEGO® ǀ Disney Princess characters",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltd9cbbcce5dbbe469/43303_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392310257317148110865557&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmini-jasmine-rapunzel-43303",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666589992&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fmini-jasmine-rapunzel-43303"
+    "caProductLink": ""
   },
   "Mini Orchid": {
     "mids": [
@@ -8013,7 +8043,7 @@
   },
   "Monster Jam DIGatron Pull-Back": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -8178,7 +8208,7 @@
   },
   "Music Store & Apartment": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8504,7 +8534,7 @@
     "description": "Play in style with the Nike x LEGO® Aero-FIT Shorts",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltc993e974f339417c/5010086.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139238268686437808521649&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-big-kids-aero-fit-shorts-5010086",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666633306&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-big-kids-aero-fit-shorts-5010084"
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666633318&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-big-kids-aero-fit-shorts-5010086"
   },
   "Nike x LEGO Collection Big Kids' Aero-FIT Soccer Jersey": {
     "mids": [
@@ -8564,7 +8594,7 @@
     "description": "Get cozy and comfy with this Nike x LEGO® Hoodie",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltf8b21e2650c60b73/5010255.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139239864993889415751208&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-big-kids-hoodie-lime-green-5010255",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666647524&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-big-kids-hoodie-lime-green-5010255"
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666647527&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-big-kids-hoodie-lime-green-5010255"
   },
   "Nike x LEGO Collection Big Kids' Hoodie - White": {
     "mids": [
@@ -8653,7 +8683,7 @@
     "pieceCount": -1,
     "description": "Make every step a treat with Nike x LEGO® socks",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt5b14e0dcf96db78b/AURORA_HV9635-903_PHCFH001-2000.jpeg?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139232921200536346048382&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-everyday-essentials-crew-socks-5010257",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139238007482054125144138&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-everyday-essentials-crew-socks-5010257",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666647536&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-everyday-essentials-crew-socks-5010257"
   },
   "Nike x LEGO Collection Jacket": {
@@ -8778,7 +8808,7 @@
   },
   "Ninja Spinjitzu Temple": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -8818,7 +8848,7 @@
     "pieceCount": -1,
     "description": "Step out in style with these NINJAGO® clogs",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blte29cd72db6c70ddc/213553_90H_ALT110.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392314332535498015178777&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fninjago-adults-classic-clog-5010450",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392310524380764367221012&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fninjago-adults-classic-clog-5010450",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666662971&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fninjago-adults-classic-clog-5010450"
   },
   "NINJAGO City Workshops": {
@@ -9093,7 +9123,7 @@
   },
   "Optimus Prime": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -9409,7 +9439,7 @@
   },
   "Pikachu and Poké Ball": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -9499,7 +9529,7 @@
   },
   "Play with Braille - Spanish Alphabet": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -10417,7 +10447,7 @@
   },
   "Salt and Pepper Set": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -11723,7 +11753,7 @@
   },
   "Tails' Tornado-1": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -11930,6 +11960,22 @@
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt92debaf1862a31c3/21276_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139239614516913802939818&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fthe-creeper-21276",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526793&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fthe-creeper-21276"
+  },
+  "The Dark Falcon": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 239.99,
+    "pieceCount": -1,
+    "description": "Cool LEGO® Star Wars™ set to rebuild the galaxy!",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt9045e5d9071ed23b/75389_Prod.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666470446&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fthe-dark-falcon-75389",
+    "kennyHas": true
   },
   "The Dragon of Life": {
     "mids": [
@@ -12173,7 +12219,7 @@
   },
   "The LEGO Van": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -14043,12 +14089,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 9.99,
+    "usdPrice": 14.99,
     "cadPrice": 12.99,
     "pieceCount": -1,
     "description": "Fun, buildable yellow taxi for play and display",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt5696b4f8330e27ae/40468_prod.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139239391068351004449113&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fyellow-taxi-40468",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139236255607014698187098&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fyellow-taxi-60487",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666337119&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fyellow-taxi-40468"
   },
   "Yellow Travel Suitcase": {
