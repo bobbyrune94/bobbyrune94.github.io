@@ -391,7 +391,7 @@
   },
   "Antarctic Animals Science Kit": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -813,7 +813,7 @@
   },
   "Back to the Future Time Machine": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -2496,6 +2496,21 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139231528785816739166929&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fdeep-sea-research-submarine-42201",
     "caProductLink": ""
   },
+  "Deluxe Brick Box": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 69.99,
+    "pieceCount": -1,
+    "description": "Colorful bricks to build, learn, and imagine",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt9af342aa5b220e2c/10914_Prod.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666288649&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fdeluxe-brick-box-10914"
+  },
   "Derpy Tiger and Sussie Bird": {
     "mids": [
       36166
@@ -2600,21 +2615,6 @@
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blta1405340d716cd20/21351_Prod.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392312923722010529278957&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fdisney-tim-burtons-the-nightmare-before-christmas-21351",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666474654&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fdisney-tim-burtons-the-nightmare-before-christmas-21351"
-  },
-  "Display Case 8 - Black": {
-    "mids": [
-      13923
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 19.99,
-    "cadPrice": 0,
-    "pieceCount": -1,
-    "description": "Give LEGO® fans a showcase for their minifigure collection",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt4a91b9019b5c6b16/5006152.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139234593600137020420087&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fdisplay-case-8-black-5006152",
-    "caProductLink": ""
   },
   "Dobby the Free Elf": {
     "mids": [
@@ -4331,7 +4331,7 @@
   },
   "Gingerbread AT-AT Walker": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -4557,7 +4557,7 @@
   },
   "Gum-Gum Fruit": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -5462,12 +5462,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 54.99,
+    "usdPrice": 0,
     "cadPrice": 69.99,
     "pieceCount": -1,
     "description": "LEGO® ǀ Marvel building set with Iron Man's Hall of Armor",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt52605e2f8ad36100/76315_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392316551108667036134365&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Firon-mans-laboratory-hall-of-armor-76315",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666527599&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Firon-mans-laboratory-hall-of-armor-76315"
   },
   "Italian Riviera": {
@@ -6509,7 +6509,7 @@
   },
   "Light": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -6870,7 +6870,7 @@
   },
   "Lucky Bamboo": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -7277,7 +7277,7 @@
   },
   "McLaren MCL39 F1 Car": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -7427,7 +7427,7 @@
   },
   "Megatron Robot & Vehicle": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -7652,7 +7652,7 @@
   },
   "Mini Biomes": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -8013,7 +8013,7 @@
   },
   "Munchlax": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -8043,7 +8043,7 @@
   },
   "Music Store & Apartment": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8103,7 +8103,7 @@
   },
   "NASA Artemis Space Launch System": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8253,7 +8253,7 @@
   },
   "Nightmare Scorpion Digger": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8429,7 +8429,7 @@
     "description": "Get cozy and comfy with this Nike x LEGO® Hoodie",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltf8b21e2650c60b73/5010255.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139239864993889415751208&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-big-kids-hoodie-lime-green-5010255",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666647527&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-big-kids-hoodie-lime-green-5010255"
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666647526&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-big-kids-hoodie-lime-green-5010255"
   },
   "Nike x LEGO Collection Big Kids' Hoodie - White": {
     "mids": [
@@ -8443,7 +8443,7 @@
     "pieceCount": -1,
     "description": "Get cozy and comfy with this Nike x LEGO® Hoodie",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltabc1392d3b6ae36a/5010254.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392317525683355281602587&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-big-kids-hoodie-white-5010254",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392313014777033596520239&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-big-kids-hoodie-white-5010254",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666647520&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-big-kids-hoodie-white-5010254"
   },
   "Nike x LEGO Collection Big Kids' Jacket": {
@@ -8488,7 +8488,7 @@
     "pieceCount": -1,
     "description": "Play soccer in style with the Nike x LEGO® Big Kids' Shorts",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt84546fdd8a5fb13c/5010252.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139236467448697263670844&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-big-kids-shorts-lucky-green-5010252",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139235307013286416340024&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-big-kids-shorts-lucky-green-5010252",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666647512&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-big-kids-shorts-lucky-green-5010252"
   },
   "Nike x LEGO Collection Cargo Pants": {
@@ -8503,7 +8503,7 @@
     "pieceCount": -1,
     "description": "Get cozy with Nike x LEGO® Collection Cargo Pants",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt0674dfa6aad3880f/5010042_Prod.jpg?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392313415395797473402851&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-cargo-pants-5010042",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392318268699673953591511&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-cargo-pants-5010042",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666629892&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-cargo-pants-5010042"
   },
   "Nike x LEGO Collection Everyday Essentials Crew Socks": {
@@ -8519,7 +8519,7 @@
     "description": "Make every step a treat with Nike x LEGO® socks",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt5b14e0dcf96db78b/AURORA_HV9635-903_PHCFH001-2000.jpeg?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139232921200536346048382&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-everyday-essentials-crew-socks-5010257",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666647536&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-everyday-essentials-crew-socks-5010257"
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666647535&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-everyday-essentials-crew-socks-5010257"
   },
   "Nike x LEGO Collection Jacket": {
     "mids": [
@@ -8533,8 +8533,8 @@
     "pieceCount": -1,
     "description": "Keep kids warm in a Nike x LEGO® Collection jacket",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltbaaa2d91e9ad5a05/5009949.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139234880604915943541103&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-jacket-5009949",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666616983&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-jacket-5009949"
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392310035686232475764787&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-jacket-5009949",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666616984&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-jacket-5009949"
   },
   "Nike x LEGO Collection Soccer Ball": {
     "mids": [
@@ -8643,7 +8643,7 @@
   },
   "Ninja Spinjitzu Temple": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -8868,7 +8868,7 @@
   },
   "Offworld Sandcrawler and Mudhorn": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -9175,12 +9175,12 @@
     "theme": "",
     "year": -1,
     "usdPrice": 9.99,
-    "cadPrice": 12.99,
+    "cadPrice": 0,
     "pieceCount": -1,
     "description": "Fun LEGO® gel pen with a minifigure for kids ages 6 and up",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt2800b6484bebf77a/53702_PP_Blue1.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139238746106025135721968&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fpen-pal-gel-pen-with-minifigure-blue-5010102",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666637558&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fpen-pal-gel-pen-with-minifigure-blue-5010102"
+    "caProductLink": ""
   },
   "Pen Pal Gel Pen with Minifigure - Red": {
     "mids": [
@@ -9286,21 +9286,6 @@
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltcc712e807c108c42/72152_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139239948563064486767794&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fpikachu-and-poke-ball-72152",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666590476&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fpikachu-and-poke-ball-72152"
-  },
-  "Piranha Plant": {
-    "mids": [
-      36166
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 0,
-    "cadPrice": 79.99,
-    "pieceCount": -1,
-    "description": "Build this detailed, posable LEGO® brick model of a Super Mario™ Piranha Plant figure growing out of a pipe and create a cool centerpiece.",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltcd23f2cb070b6d8c/71426.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666425906&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fpiranha-plant-71426"
   },
   "Pizza Delivery Experience with Vehicles": {
     "mids": [
@@ -9772,18 +9757,18 @@
   },
   "Rapunzel's Castle": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
     "usdPrice": 99.99,
-    "cadPrice": 139.99,
+    "cadPrice": 0,
     "pieceCount": -1,
     "description": "Disney's Tangled castle playset with Rapunzel and Pascal",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt404f0f59c91a45fe/blt97a4990d03023d2a-43297_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392315758154519684003224&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Frapunzels-castle-43297",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666589982&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Frapunzels-castle-43297"
+    "caProductLink": ""
   },
   "Rapunzel's Mini Tower": {
     "mids": [
@@ -10162,7 +10147,7 @@
   },
   "Road Bike": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -10252,7 +10237,7 @@
   },
   "Sally's Flowerpot": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -10417,7 +10402,7 @@
   },
   "Shelby Cobra 427 S/C": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -11873,7 +11858,7 @@
   },
   "The Ghast Balloon Village Attack": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -12984,7 +12969,7 @@
   },
   "Up-Scaled Darth Vader Minifigure": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -13408,7 +13393,7 @@
   },
   "Wicket the Ewok": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -13543,7 +13528,7 @@
   },
   "Wildflower Bouquet": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -13601,21 +13586,6 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139231759578096578011404&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fwilly-wonka-the-chocolate-factory-21360",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666532578&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fwilly-wonka-the-chocolate-factory-21360"
   },
-  "Windmill Village Hut": {
-    "mids": [
-      36166
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 0,
-    "cadPrice": 39.99,
-    "pieceCount": -1,
-    "description": "LEGO® ONE PIECE beachside store and pirate boat toy",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt0feb85637d359729/75636_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666527563&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fwindmill-village-hut-75636"
-  },
   "Winnie the Pooh": {
     "mids": [
       13923
@@ -13633,7 +13603,7 @@
   },
   "Wither Battle": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -13978,7 +13948,7 @@
   },
   "Zombie Dungeon": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
