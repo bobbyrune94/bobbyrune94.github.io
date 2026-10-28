@@ -3615,12 +3615,12 @@
     "theme": "",
     "year": -1,
     "usdPrice": 59.99,
-    "cadPrice": 79.99,
+    "cadPrice": 0,
     "pieceCount": -1,
     "description": "See creativity bloom",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt53711dac56e01b36/10280_Prod.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139239807376600036302937&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fflower-bouquet-10280",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666332921&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fflower-bouquet-10280"
+    "caProductLink": ""
   },
   "Flower Wall": {
     "mids": [
@@ -4467,18 +4467,18 @@
   },
   "Heartlake City Grand Hotel": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
     "usdPrice": 149.99,
-    "cadPrice": 209.99,
+    "cadPrice": 0,
     "pieceCount": -1,
     "description": "Check in for creative play",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt03c32ea5ffa7c9d4/blt630e1f33b9e4faab-42704_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392315618121312333079554&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fheartlake-city-grand-hotel-42704",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666585620&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fheartlake-city-grand-hotel-42704"
+    "caProductLink": ""
   },
   "Heartlake City Ice Cream Truck": {
     "mids": [
@@ -4494,6 +4494,21 @@
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltdeafb1cfa21a8a34/42644_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392315550948077642539395&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fheartlake-city-ice-cream-truck-42644",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666518560&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fheartlake-city-ice-cream-truck-42644"
+  },
+  "Heartlake City Shopping Mall": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 129.99,
+    "pieceCount": -1,
+    "description": "Host a Heartlake City day at the mall with your LEGO Friends",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt0a9810fe2d9d18cd/blt92dd60dffd8f13b4-42719_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666654924&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fheartlake-city-shopping-mall-42719"
   },
   "Heihei": {
     "mids": [
@@ -4602,7 +4617,7 @@
   },
   "High-Speed Train": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -4677,18 +4692,18 @@
   },
   "Hogwarts Castle: Flying Lessons": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
     "usdPrice": 79.99,
-    "cadPrice": 99.99,
+    "cadPrice": 0,
     "pieceCount": -1,
     "description": "An enchanting, collectible Harry Potter™ gift for kids",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltca42229884f56fed/76447_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139236672478398599981963&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fhogwarts-castle-flying-lessons-76447",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526351&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fhogwarts-castle-flying-lessons-76447"
+    "caProductLink": ""
   },
   "Hogwarts Castle: Hospital Wing": {
     "mids": [
@@ -5007,18 +5022,18 @@
   },
   "Hydration Bottle 0.5 L - New York": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
     "usdPrice": 12.99,
-    "cadPrice": 0,
+    "cadPrice": 16.99,
     "pieceCount": -1,
     "description": "Keep LEGO® fans hydrated with this supercool bottle",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt57accac0bcd323a5/40420600_LEGO_Hydration_Bottle_0_5_New_York.jpg40420600_LEGO_Hydration_Bottle_0_5_New_York.jpg?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392312201094746694592929&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fhydration-bottle-05-l-new-york-5007787",
-    "caProductLink": ""
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666463004&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fhydration-bottle-05-l-new-york-5007787"
   },
   "Ice Cream & Balloon Stand": {
     "mids": [
@@ -5247,7 +5262,7 @@
   },
   "Jaguar E-Type": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -5322,7 +5337,7 @@
   },
   "Japan Postcard": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -6374,7 +6389,7 @@
   },
   "Love Birds": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -6510,6 +6525,21 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392312455596544127340609&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmaersk-dual-fuel-container-vessel-40955",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666590907&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fmaersk-dual-fuel-container-vessel-40955"
   },
+  "Magical Transparent Box": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 29.99,
+    "pieceCount": -1,
+    "description": "Colorful, translucent bricks for creating magical models",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt5cd3877eb53009bf/11040_Prod.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526077&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fmagical-transparent-box-11040"
+  },
   "Magical Unicorn": {
     "mids": [
       36166
@@ -6644,6 +6674,21 @@
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt34026464a9d7288a/blta81f7a907896bb08-45202_WEB_SEC05_NOBG.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392311400364334742065139&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmars-mission-science-kit-45202",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666589445&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fmars-mission-science-kit-45202"
+  },
+  "Marvel What if...? Doctor Strange Supreme": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 129.99,
+    "pieceCount": -1,
+    "description": "Make pretend play magical with the Marvel Sanctum Sanctorum",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt994b4b09c36e44fe/bltbbcbc30ff353ac10-67005_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666654852&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fmarvel-what-if-doctor-strange-supreme-67005"
   },
   "Masterbrand Sherpa Backed Throw": {
     "mids": [
@@ -6932,7 +6977,7 @@
   },
   "Mercedes-Benz Unimog U 5023 with Crane": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -7127,7 +7172,7 @@
   },
   "Mini Hogwarts Castle": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -7323,7 +7368,7 @@
   },
   "Moon Mission Science Kit": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -7428,7 +7473,7 @@
   },
   "Music Store & Apartment": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -7608,7 +7653,7 @@
   },
   "Nezha's Ring of Fire Mech": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -7723,7 +7768,7 @@
     "pieceCount": -1,
     "description": "Play sports in style with the Nike x LEGO® Aero-FIT Shorts",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt242d3ccde967a163/5010084.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139232749798398868205756&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-big-kids-aero-fit-shorts-5010084",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139238268686437808521649&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-big-kids-aero-fit-shorts-5010086",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666633306&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-big-kids-aero-fit-shorts-5010084"
   },
   "Nike x LEGO Collection Big Kids' Aero-FIT Soccer Jersey": {
@@ -7918,8 +7963,8 @@
     "pieceCount": -1,
     "description": "Discover a new galaxy of style with the Nike x LEGO® jersey",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blte77ed9c919232668/5010041_Prod.jpg?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139237030263223709634694&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-dri-fit-jersey-5010041",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666629887&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-dri-fit-jersey-5010041"
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392315185803251406852073&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-dri-fit-jersey-5010041",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666629886&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-dri-fit-jersey-5010041"
   },
   "Nine-Headed Beast": {
     "mids": [
@@ -7983,7 +8028,7 @@
   },
   "Ninja Spinjitzu Temple": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8008,8 +8053,8 @@
     "pieceCount": -1,
     "description": "Step out in style with these NINJAGO® clogs",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blte29cd72db6c70ddc/213553_90H_ALT110.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139232197571927812215617&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fninjago-adults-classic-clog-5010450",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666662971&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fninjago-adults-classic-clog-5010450"
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139236473118452637363317&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fninjago-adults-classic-clog-5010450",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666662975&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fninjago-adults-classic-clog-5010450"
   },
   "NINJAGO City Workshops": {
     "mids": [
@@ -8253,7 +8298,7 @@
   },
   "Olivia Rodrigo's Concert Moon": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8552,6 +8597,21 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392310627394779211597005&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fpet-accessories-van-42678",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666585581&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fpet-accessories-van-42678"
   },
+  "Pet Care & Play Center": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 69.99,
+    "pieceCount": -1,
+    "description": "Pamper your prized pets with spa days and playground fun",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt758879c41eba5b11/bltf3aa423d58989424-42709_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666651742&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fpet-care-play-center-42709"
+  },
   "Petite Sunny Bouquet": {
     "mids": [
       36166
@@ -8584,7 +8644,7 @@
   },
   "Pikachu and Poké Ball": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8635,12 +8695,12 @@
     "theme": "",
     "year": -1,
     "usdPrice": 99.99,
-    "cadPrice": 119.99,
+    "cadPrice": 0,
     "pieceCount": -1,
     "description": "A role-play toy bursting with flower store fun",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt654cf742adb57908/42671_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.13923446096236910415115&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fplant-cafe-flower-shop-42671",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526883&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fplant-cafe-flower-shop-42671"
+    "caProductLink": ""
   },
   "Play with Braille - English Alphabet": {
     "mids": [
@@ -8766,7 +8826,7 @@
   },
   "Police Boat Chase": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -8781,7 +8841,7 @@
   },
   "Police Car and Muscle Car Chase": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8960,21 +9020,6 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392317786060944188790745&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fpua-43292",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666589972&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fpua-43292"
   },
-  "Puppy Playground": {
-    "mids": [
-      36166
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 0,
-    "cadPrice": 12.99,
-    "pieceCount": -1,
-    "description": "An action-packed toy for kids who love puppies",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blte7d3d868891355b5/42665_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526875&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fpuppy-playground-42665"
-  },
   "R2-D2": {
     "mids": [
       13923
@@ -8992,7 +9037,7 @@
   },
   "Rapunzel's Castle": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -9367,7 +9412,7 @@
   },
   "Sally's Flowerpot": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -9547,7 +9592,7 @@
   },
   "Shelby Cobra 427 S/C": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -10407,13 +10452,13 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 64.99,
-    "cadPrice": 16.99,
+    "usdPrice": 12.99,
+    "cadPrice": 84.99,
     "pieceCount": -1,
-    "description": "A LEGO® ǀ Disney buildable Stitch model kids' building kit",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltde91ef1db83222dd/43249.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139237492993796966101255&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fstitch-43249",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666473129&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fstitch-40674"
+    "description": "LEGO® BrickHeadz™ Stitch build-and-display model",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt2a6bae345f3aa198/40674.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139236699546699563842324&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fstitch-40674",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666470741&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fstitch-43249"
   },
   "Stitch & Scrump": {
     "mids": [
@@ -10568,7 +10613,7 @@
   },
   "Sweetheart Tweety Bird": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -11151,6 +11196,21 @@
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt30328b4a768c9bf8/76476_Prod.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139236162498042062432962&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fthe-ministry-of-magic-collectors-edition-76476",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666589530&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fthe-ministry-of-magic-collectors-edition-76476"
+  },
+  "The Mooshroom House": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 64.99,
+    "pieceCount": -1,
+    "description": "LEGO® Minecraft® The Mooshroom House with gaming accessories",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt195407a3e1332413/21270_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526781&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fthe-mooshroom-house-21270"
   },
   "The Nether Lava Battle": {
     "mids": [
@@ -12192,7 +12252,7 @@
   },
   "Wall Clock MOC (My Own Creation) - White": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -12447,18 +12507,18 @@
   },
   "Wooden Wall Hanger Set - Dark Oak": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
     "usdPrice": 77.99,
-    "cadPrice": 83.99,
+    "cadPrice": 0,
     "pieceCount": -1,
     "description": "Stylish wall hangers for LEGO® fans",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltf2e0c6199f60e20d/5007112.jpg?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392317924194807616417115&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fwooden-wall-hanger-set-dark-oak-5007112",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666403501&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fwooden-wall-hanger-set-dark-oak-5007112"
+    "caProductLink": ""
   },
   "Wooden Wall Hanger Set - Light Oak": {
     "mids": [
