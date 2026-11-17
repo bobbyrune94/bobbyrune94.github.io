@@ -608,12 +608,12 @@
     "theme": "",
     "year": -1,
     "usdPrice": 64.99,
-    "cadPrice": 79.99,
+    "cadPrice": 0,
     "pieceCount": -1,
     "description": "A fun toy for kids who love sports car models",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt8c07857b5c44c9f4/42208_Prod.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392313817066623415829750&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Faston-martin-valkyrie-42208",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526823&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Faston-martin-valkyrie-42208"
+    "caProductLink": ""
   },
   "AT-AT": {
     "mids": [
@@ -1526,12 +1526,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 59.99,
+    "usdPrice": 0,
     "cadPrice": 84.99,
     "pieceCount": -1,
     "description": "Inspire creative play with this Ferris wheel building set",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt2b96a1aef8a0cc87/blt56dbc4093ff77ecc-42700_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392315060330124880877390&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fcandy-cupcake-ferris-wheel-42700",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666585612&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fcandy-cupcake-ferris-wheel-42700"
   },
   "Captain Jack Sparrow's Pirate Ship": {
@@ -2113,12 +2113,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 54.99,
+    "usdPrice": 0,
     "cadPrice": 69.99,
     "pieceCount": -1,
     "description": "LEGO® Classic Creative Vehicles Toy building kit includes a police car, ice-cream truck, ATV, front loader, truck, limo, off-roader and station wagon.",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt2e65c0cc0597c8dc/11036.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392313036312422743845141&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fcreative-vehicles-11036",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666470355&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fcreative-vehicles-11036"
   },
   "Cristiano Ronaldo - Soccer Highlights": {
@@ -2503,12 +2503,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 199.99,
+    "usdPrice": 0,
     "cadPrice": 269.99,
     "pieceCount": -1,
     "description": "Nostalgic gamer decor for Donkey Kong™ fans",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt40ba11f38226fc58/72051_Prod.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.13923282938904197616178&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fdonkey-kong-arcade-72051",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666588608&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fdonkey-kong-arcade-72051"
   },
   "Dorry vs. Brogy - Giants of Little Garden": {
@@ -2638,28 +2638,13 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 49.99,
+    "usdPrice": 0,
     "cadPrice": 69.99,
     "pieceCount": -1,
     "description": "Off-road adventures for motocross fans",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltce72ebcb906a9733/blt4e2cdc4ed52dc85e-42238_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392317409741628300788451&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fducati-desmo450-mx-factory-motorcycle-42238",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666588590&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fducati-desmo450-mx-factory-motorcycle-42238"
-  },
-  "Ducati Panigale V4 S Motorcycle": {
-    "mids": [
-      13923
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 199.99,
-    "cadPrice": 259.99,
-    "pieceCount": -1,
-    "description": "A motorcycle gift idea for adults who love Ducati",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt8635b7505c107a18/42202_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392313150414163952727994&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fducati-panigale-v4-s-motorcycle-42202",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526811&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fducati-panigale-v4-s-motorcycle-42202"
   },
   "Dump Truck & Front End Loader": {
     "mids": [
@@ -2964,7 +2949,7 @@
   },
   "Evoker Village Attack": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -3685,7 +3670,7 @@
   },
   "Friendship Tree House Hangout": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -3856,12 +3841,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 129.99,
+    "usdPrice": 0,
     "cadPrice": 179.99,
     "pieceCount": -1,
     "description": "Spark imagination with this restaurant toy building kit",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltfa9eba19b99c5e89/42691_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139232520474099625716512&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fgarden-restaurant-42691",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666590185&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fgarden-restaurant-42691"
   },
   "Garp's Marine Battleship": {
@@ -3987,7 +3972,7 @@
   },
   "Golden Age Superman and Batman Figures": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -4152,7 +4137,7 @@
   },
   "Hagrid & Harry's Privet Drive Escape": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -4202,12 +4187,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 59.99,
     "cadPrice": 84.99,
     "pieceCount": -1,
     "description": "Let creativity flourish with a LEGO® Hanging Golden Pothos",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt621a9fb4f7d5deba/bltc8cac287dd2bee85-11512_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392316793262998784407538&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fhanging-golden-pothos-11512",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666590069&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fhanging-golden-pothos-11512"
   },
   "Happy Plants": {
@@ -4347,7 +4332,7 @@
   },
   "Herschel Chapter Travel Kit - Botanical Floral Black": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -5534,7 +5519,7 @@
   },
   "Lava Land Roller Coaster Park": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -5606,6 +5591,21 @@
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt6f4646b75e492bbb/5005352.jpg?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392316131586190404345270&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Flego-cinch-bucket-blue-5005352",
     "caProductLink": ""
+  },
+  "LEGO City Advent Calendar 2026": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 49.99,
+    "pieceCount": -1,
+    "description": "Kids' Advent Calendar with 24 festive LEGO® surprises",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt89ecb458625a72f5/blte2a9ca4bf40536af-60510_Box1_v39_en-us.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666585668&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fadvent-calendar-2026-60510"
   },
   "LEGO Friends Advent Calendar 2026": {
     "mids": [
@@ -5714,17 +5714,17 @@
   },
   "LEGO Titanic": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 679.99,
     "cadPrice": 849.99,
     "pieceCount": -1,
     "description": "LEGO® Titanic is temporarily out of stock! Don't panic, the product will be available soon.",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt6cdf0b53146b5519/10294_Prod.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139235289341889108622056&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Flego-titanic-10294",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666332961&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Flego-titanic-10294"
   },
   "LEGO USB Power Adapter": {
@@ -6059,7 +6059,7 @@
   },
   "LOVE": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -6197,7 +6197,7 @@
   },
   "Maersk Dual-Fuel Container Vessel": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -6465,21 +6465,6 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392314357450172224025974&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmayor-manor-11383",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666588536&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fmayor-manor-11383"
   },
-  "McLaren F1 Team MCL38 Race Car": {
-    "mids": [
-      36166
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 0,
-    "cadPrice": 34.99,
-    "pieceCount": -1,
-    "description": "LEGO® McLaren F1® Team MCL38 Race Car toy vehicle",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltad441c9411550c97/77251_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666527012&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fmclaren-f1-team-mcl38-race-car-77251"
-  },
   "McLaren Mastercard F1 Team Lando Norris Helmet": {
     "mids": [
       13923
@@ -6512,7 +6497,7 @@
   },
   "McLaren MCL39 F1 Car": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -6587,7 +6572,7 @@
   },
   "Mech Battle: Spider-Man vs. Doc Ock": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -6647,7 +6632,7 @@
   },
   "Mercedes-Benz Unimog U 5023 with Crane": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -6886,21 +6871,6 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139235788174673921541090&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fminifigure-a-day-2027-daily-calendar-5010366",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666651522&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fminifigure-a-day-2027-daily-calendar-5010366"
   },
-  "Minifigure Display Case 16 (8 knob) Blue": {
-    "mids": [
-      13923
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 34.99,
-    "cadPrice": 37.99,
-    "pieceCount": -1,
-    "description": "",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltcb25b9795c322d50/5006155.jpg?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392312956568543777279394&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fminifigure-display-case-16-8-knob-blue-5006155",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666326515&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fminifigure-display-case-16-8-knob-blue-5006155"
-  },
   "Minifigure Factory": {
     "mids": [
       13923
@@ -6999,12 +6969,12 @@
     "theme": "",
     "year": -1,
     "usdPrice": 27.99,
-    "cadPrice": 34.99,
+    "cadPrice": 0,
     "pieceCount": -1,
     "description": "A fun truck toy for kids and Monster Jam™ fans",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt499be3baeb0512f3/42199_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392311044535016384452740&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmonster-jam-digatron-pull-back-42199",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526805&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fmonster-jam-digatron-pull-back-42199"
+    "caProductLink": ""
   },
   "Monster Jam Grave Digger Fire and Ice": {
     "mids": [
@@ -7143,7 +7113,7 @@
   },
   "Music Store & Apartment": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -7423,7 +7393,7 @@
     "pieceCount": -1,
     "description": "Play sports in style with the Nike x LEGO® Aero-FIT Shorts",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt242d3ccde967a163/5010084.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139238268686437808521649&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-big-kids-aero-fit-shorts-5010086",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139232749798398868205756&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-big-kids-aero-fit-shorts-5010084",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666633306&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-big-kids-aero-fit-shorts-5010084"
   },
   "Nike x LEGO Collection Big Kids' Aero-FIT Soccer Jersey": {
@@ -7544,7 +7514,7 @@
     "description": "Play soccer in style with the Nike x LEGO® Big Kids' Shorts",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt84546fdd8a5fb13c/5010252.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139235307013286416340024&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-big-kids-shorts-lucky-green-5010252",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666647509&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-big-kids-shorts-lucky-green-5010252"
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666647510&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-big-kids-shorts-lucky-green-5010252"
   },
   "Nike x LEGO Collection Everyday Essentials Crew Socks": {
     "mids": [
@@ -7683,7 +7653,7 @@
   },
   "Ninja Spinjitzu Temple": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -7698,7 +7668,7 @@
   },
   "NINJAGO Adults Classic Clog": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -7708,7 +7678,7 @@
     "pieceCount": -1,
     "description": "Step out in style with these NINJAGO® clogs",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blte29cd72db6c70ddc/213553_90H_ALT110.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392316932248521520624410&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fninjago-adults-classic-clog-5010450",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392314332535498015178777&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fninjago-adults-classic-clog-5010450",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666662975&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fninjago-adults-classic-clog-5010450"
   },
   "NINJAGO City Workshops": {
@@ -7861,21 +7831,6 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392313292152487094440875&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnorbert-hagrids-baby-dragon-76477",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666590370&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnorbert-hagrids-baby-dragon-76477"
   },
-  "Notre-Dame de Paris": {
-    "mids": [
-      36166
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 229.99,
-    "cadPrice": 299.99,
-    "pieceCount": -1,
-    "description": "The ultimate Notre-Dame LEGO® model building kit",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blte79009bca2be0858/21061.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392317640170226924042944&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnotre-dame-de-paris-21061",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666470586&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnotre-dame-de-paris-21061"
-  },
   "Nya vs. Mutation Monster Spinner": {
     "mids": [
       13923
@@ -7953,7 +7908,7 @@
   },
   "Olivia Rodrigo's Concert Moon": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8058,7 +8013,7 @@
   },
   "Oracle Red Bull Racing RB20 F1 Race Car": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8104,17 +8059,17 @@
   },
   "Paris - City of Love": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 79.99,
     "cadPrice": 99.99,
     "pieceCount": -1,
     "description": "Home decor of Paris landmarks in a building set for adults",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt7f0c4925175ed3c0/21064_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392312650702177718013405&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Farchitecture-21064-21064",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666588556&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Farchitecture-21064-21064"
   },
   "Party at Toad's House": {
@@ -8299,7 +8254,7 @@
   },
   "Pikachu and Poké Ball": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8481,7 +8436,7 @@
   },
   "Police Boat Chase": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8541,18 +8496,18 @@
   },
   "Police Station": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
     "usdPrice": 69.99,
-    "cadPrice": 0,
+    "cadPrice": 89.99,
     "pieceCount": -1,
     "description": "Police Station playset with LEGO City® TV characters",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltf2fa832d9de1d829/60316.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392316225407833828041105&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fpolice-station-60316",
-    "caProductLink": ""
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666379606&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fpolice-station-60316"
   },
   "Porsche 911": {
     "mids": [
@@ -9022,7 +8977,7 @@
   },
   "Roses": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -9052,7 +9007,7 @@
   },
   "Sally's Flowerpot": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -9772,7 +9727,7 @@
   },
   "Space Shuttle": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -10268,7 +10223,7 @@
   },
   "Sweetheart Tweety Bird": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -10448,7 +10403,7 @@
   },
   "The Creeper": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -11183,7 +11138,7 @@
   },
   "Tower Bridge": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -11293,28 +11248,13 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 189.99,
+    "usdPrice": 0,
     "cadPrice": 229.99,
     "pieceCount": -1,
     "description": "LEGO® Icons Transformers fantasy decor building set",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltf513a3746b8267e9/10358_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392314975446553806423599&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Ftransformers-soundwave-10358",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666530082&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Ftransformers-soundwave-10358"
-  },
-  "Travel Boat Adventure": {
-    "mids": [
-      13923
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 74.99,
-    "cadPrice": 0,
-    "pieceCount": -1,
-    "description": "Set sail with this exciting building playset",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt0ed38f292438868d/42664_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139233050102515250392906&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Ftravel-boat-adventure-42664",
-    "caProductLink": ""
   },
   "Tudor Corner": {
     "mids": [
@@ -11363,7 +11303,7 @@
   },
   "Tuxedo Cat": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -11398,12 +11338,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 29.99,
     "cadPrice": 39.99,
     "pieceCount": -1,
     "description": "LEGO® Creator 3in1 rebuildable floral toy set",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blta6acd9882132e80e/31169_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392315023334775766999284&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Ftypewriter-with-flowers-31169",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666527862&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Ftypewriter-with-flowers-31169"
   },
   "Ultra Dragon Battle": {
@@ -11414,12 +11354,12 @@
     "theme": "",
     "year": -1,
     "usdPrice": 199.99,
-    "cadPrice": 269.99,
+    "cadPrice": 0,
     "pieceCount": -1,
     "description": "LEGO® NINJAGO® dragon building set with 4 minifigures",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltb895347975e9b56e/blt6c6d8825f3ae31df-71872_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392313466768579543763848&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fultra-dragon-battle-71872",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666585702&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fultra-dragon-battle-71872"
+    "caProductLink": ""
   },
   "Ultron vs. Iron Man": {
     "mids": [
@@ -11694,7 +11634,7 @@
   },
   "Venom Bust": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -11816,7 +11756,7 @@
   },
   "Wall Clock MOC (My Own Creation) - White": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -12326,7 +12266,7 @@
   },
   "Zombie Dungeon": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
