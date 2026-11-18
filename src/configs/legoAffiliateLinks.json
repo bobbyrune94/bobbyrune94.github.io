@@ -181,18 +181,18 @@
   },
   "8-Minifigure Display Case - Red": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
     "usdPrice": 19.99,
-    "cadPrice": 21.99,
+    "cadPrice": 0,
     "pieceCount": -1,
     "description": "Safe display for LEGO® minifigures",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt5551476c537bbc93/5006151.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139238255038374625279922&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2F8-minifigure-display-case-red-5006151",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666326522&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2F8-minifigure-display-case-red-5006151"
+    "caProductLink": ""
   },
   "A New Hope Movie Poster": {
     "mids": [
@@ -208,21 +208,6 @@
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt72c6294e4df5e58c/blt9a03b85917ffc00a-75467_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666654870&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fa-new-hope-movie-poster-75467"
-  },
-  "Adventures with Interactive LEGO Luigi": {
-    "mids": [
-      13923
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 49.99,
-    "cadPrice": 0,
-    "pieceCount": -1,
-    "description": "Nintendo® character toy playset for buildable interactive fun",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt5c129ece8f002103/71440_Prod.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139231254781020052878264&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fadventures-with-interactive-lego-luigi-71440",
-    "caProductLink": ""
   },
   "Adventures with Interactive LEGO Peach": {
     "mids": [
@@ -361,7 +346,7 @@
   },
   "Ambulance & Driver": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -406,7 +391,7 @@
   },
   "Animal Building Game": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -421,7 +406,7 @@
   },
   "Animal Vet Clinic": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -436,7 +421,7 @@
   },
   "Antarctic Animals Science Kit": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -602,7 +587,7 @@
   },
   "Aston Martin Aramco AMR25 F1 Car": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -783,7 +768,7 @@
   },
   "Baby Dinosaur: Pteranodon": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -798,7 +783,7 @@
   },
   "Baby Elephant in the Sky": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -813,7 +798,7 @@
   },
   "Back to the Future Time Machine": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -1203,7 +1188,7 @@
   },
   "BMW M3 (E30)": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -1911,21 +1896,6 @@
     "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666651872&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fcole-vs-evil-cole-spinner-71873"
   },
-  "Cole's Mission Mech & Dragon Zane": {
-    "mids": [
-      13923
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 34.99,
-    "cadPrice": 0,
-    "pieceCount": -1,
-    "description": "LEGO® NINJAGO® mech and dragon playset with 3 minifigures",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt679981dad8d2f71e/71854_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139237139723713420716817&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fcoles-mission-mech-dragon-zane-71854",
-    "caProductLink": ""
-  },
   "Colorful Lantern": {
     "mids": [
       36166
@@ -2573,7 +2543,7 @@
   },
   "Downton Abbey": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -2939,17 +2909,17 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 9.99,
+    "usdPrice": 0,
     "cadPrice": 12.99,
     "pieceCount": -1,
     "description": "Toy supercar building set",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt424091937d71f79b/60486_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392311697070030314690817&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fev-supercar-60486",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666581051&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fev-supercar-60486"
   },
   "EVE & WALL•E": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -2979,7 +2949,7 @@
   },
   "Evoker Village Attack": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -2994,7 +2964,7 @@
   },
   "Executor Super Star Destroyer": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -3234,17 +3204,17 @@
   },
   "Ferrari SF90 XX Stradale Sports Car": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 27.99,
+    "usdPrice": 0,
     "cadPrice": 34.99,
     "pieceCount": -1,
     "description": "LEGO® Ferrari SF90 XX Stradale Sports Car building set",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt0cb8360713f3186b/77254_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139233909306049714714665&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fferrari-sf90-xx-stradale-sports-car-77254",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666588747&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fferrari-sf90-xx-stradale-sports-car-77254"
   },
   "Festive Gingerbread House": {
@@ -4232,12 +4202,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 59.99,
+    "usdPrice": 0,
     "cadPrice": 84.99,
     "pieceCount": -1,
     "description": "Let creativity flourish with a LEGO® Hanging Golden Pothos",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt621a9fb4f7d5deba/bltc8cac287dd2bee85-11512_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392316793262998784407538&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fhanging-golden-pothos-11512",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666590069&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fhanging-golden-pothos-11512"
   },
   "Happy Plants": {
@@ -4467,7 +4437,7 @@
   },
   "High-Speed Train": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -4577,12 +4547,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 259.99,
     "cadPrice": 329.99,
     "pieceCount": -1,
     "description": "Fun, collectible LEGO® Harry Potter™ toy for fans",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt69cd6053c5e32973/76454_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392315740695265788208815&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fhogwarts-castle-the-main-tower-76454",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526365&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fhogwarts-castle-the-main-tower-76454"
   },
   "Hogwarts Herbology Plants": {
@@ -5564,22 +5534,22 @@
   },
   "Land Bounty": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
     "usdPrice": 129.99,
-    "cadPrice": 179.99,
+    "cadPrice": 0,
     "pieceCount": -1,
     "description": "LEGO® NINJAGO® Land Bounty 3-in-1 toy vehicle",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt8dd8ede44a3ecac1/blt2708d07997a9387e-71869_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392313471379322056565402&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fland-bounty-71869",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666585696&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fland-bounty-71869"
+    "caProductLink": ""
   },
   "Lava Land Roller Coaster Park": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -6119,7 +6089,7 @@
   },
   "Love Birds": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -6329,21 +6299,6 @@
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltc473e945a5194169/bltc58dbde5b54da504-11533_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666654581&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fmalva-flowers-11533"
-  },
-  "Mario Kart - Interactive LEGO Mario & Standard Kart": {
-    "mids": [
-      13923
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 54.99,
-    "cadPrice": 0,
-    "pieceCount": -1,
-    "description": "Fantastic LEGO® Super Mario™ gift for gamers",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt996868e5e4ef802a/72043_Prod.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139235977894847007948213&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmario-kart-interactive-lego-mario-standard-kart-72043",
-    "caProductLink": ""
   },
   "Mario Kart - Luigi & Mach 8": {
     "mids": [
@@ -7201,6 +7156,21 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139236611488658752484151&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmystery-minifigure-mini-puzzle-springtime-edition-5009997",
     "caProductLink": ""
   },
+  "Mystery Minifigure Mini Puzzle - Christmas Edition 2": {
+    "mids": [
+      13923
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 8.95,
+    "cadPrice": 0,
+    "pieceCount": -1,
+    "description": "Fun Christmas Minifigures Puzzle for LEGO® fans",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt3614bf5a97fc8892/5009522_Prod.jpg?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392313672430244858775097&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmystery-minifigure-mini-puzzle-christmas-edition-2-5009522",
+    "caProductLink": ""
+  },
   "NASA Artemis Space Launch System": {
     "mids": [
       13923
@@ -7436,10 +7406,10 @@
     "usdPrice": 90,
     "cadPrice": 100,
     "pieceCount": -1,
-    "description": "Play sports in style with the Nike x LEGO® Aero-FIT Shorts",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt242d3ccde967a163/5010084.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139232749798398868205756&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-big-kids-aero-fit-shorts-5010084",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666633306&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-big-kids-aero-fit-shorts-5010084"
+    "description": "Play in style with the Nike x LEGO® Aero-FIT Shorts",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltc993e974f339417c/5010086.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139238268686437808521649&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-big-kids-aero-fit-shorts-5010086",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666633315&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-big-kids-aero-fit-shorts-5010086"
   },
   "Nike x LEGO Collection Big Kids' Aero-FIT Soccer Jersey": {
     "mids": [
@@ -7503,7 +7473,7 @@
   },
   "Nike x LEGO Collection Big Kids' Hoodie - White": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -7514,7 +7484,7 @@
     "description": "Get cozy and comfy with this Nike x LEGO® Hoodie",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltabc1392d3b6ae36a/5010254.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392313014777033596520239&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-big-kids-hoodie-white-5010254",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666647520&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-big-kids-hoodie-white-5010254"
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666647519&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-big-kids-hoodie-white-5010254"
   },
   "Nike x LEGO Collection Big Kids' Jacket": {
     "mids": [
@@ -7528,7 +7498,7 @@
     "pieceCount": -1,
     "description": "Stay cool and comfortable in this Nike x LEGO® Jacket",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt1bbd9ca7d284757e/5010256.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139231508856526700189305&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-big-kids-jacket-5010256",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392312096323053048940822&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-big-kids-jacket-5010256",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666647532&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-big-kids-jacket-5010256"
   },
   "Nike x LEGO Collection Big Kids' Shorts - Black": {
@@ -7638,17 +7608,17 @@
   },
   "Nine-Headed Beast": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 99.99,
     "cadPrice": 129.99,
     "pieceCount": -1,
     "description": "LEGO® Monkie Kid™ set with a fun monster action figure",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltfe879eab65f284cd/80056.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139233183676813290469594&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnine-headed-beast-80056",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666470574&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnine-headed-beast-80056"
   },
   "Ninja Character Display 15th Anniversary": {
@@ -7921,21 +7891,6 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139231227895992843635147&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Focarina-of-time-the-final-battle-77093",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666589539&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Focarina-of-time-the-final-battle-77093"
   },
-  "Off-Road 4x4 Mountain Truck": {
-    "mids": [
-      36166
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 0,
-    "cadPrice": 24.99,
-    "pieceCount": -1,
-    "description": "Mountain truck adventure set",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blta955e27409977b00/60447_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526277&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Foff-road-4x4-mountain-truck-60447"
-  },
   "Offworld Sandcrawler and Mudhorn": {
     "mids": [
       13923
@@ -7968,7 +7923,7 @@
   },
   "Olivia Rodrigo's Concert Moon": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8314,7 +8269,7 @@
   },
   "Pikachu and Poké Ball": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8707,7 +8662,7 @@
   },
   "R2-D2": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8902,7 +8857,7 @@
   },
   "Remote Control": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -9067,7 +9022,7 @@
   },
   "Sally's Flowerpot": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -9112,7 +9067,7 @@
   },
   "Santa's Holiday Sleigh Adventure": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -10057,7 +10012,7 @@
   },
   "Starter Kit": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -11138,17 +11093,17 @@
   },
   "Tiny Plants": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 49.99,
+    "usdPrice": 0,
     "cadPrice": 69.99,
     "pieceCount": -1,
     "description": "Create an elegant floral display of 9 plants for your home or office desk with the LEGO® Icons Tiny Plants home decor building set for adults.",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltb2f845ffd52a25b0/10329.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392312329868909551569328&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Ftiny-plants-10329",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666465042&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Ftiny-plants-10329"
   },
   "Tipping Dump Truck": {
@@ -11348,7 +11303,7 @@
   },
   "Tuxedo Cat": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -11363,7 +11318,7 @@
   },
   "Twilight The Cullen House": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -11398,12 +11353,12 @@
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 0,
+    "usdPrice": 199.99,
     "cadPrice": 269.99,
     "pieceCount": -1,
     "description": "LEGO® NINJAGO® dragon building set with 4 minifigures",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltb895347975e9b56e/blt6c6d8825f3ae31df-71872_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392313466768579543763848&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fultra-dragon-battle-71872",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666585702&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fultra-dragon-battle-71872"
   },
   "Ultron vs. Iron Man": {
@@ -11799,21 +11754,6 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139233500670406670727838&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fvolvo-l120-electric-wheel-loader-42209",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526825&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fvolvo-l120-electric-wheel-loader-42209"
   },
-  "Wall Clock MOC (My Own Creation) - White": {
-    "mids": [
-      13923
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 59.99,
-    "cadPrice": 0,
-    "pieceCount": -1,
-    "description": "Fun LEGO® customizable clock for kids ages 6 and up",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt77f2bf13086fb901/53771_Clock_MOC_White_1.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139235144050386349114253&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fwall-clock-moc-my-own-creation-white-5010226",
-    "caProductLink": ""
-  },
   "WALL-E and EVE": {
     "mids": [
       36166
@@ -11951,7 +11891,7 @@
   },
   "Wild Animals: Pink Flamingo": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -12083,21 +12023,6 @@
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt7322d794283dcad8/5007523.jpg?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139239934221528782974549&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fwooden-minifigure-5007523",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666438087&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fwooden-minifigure-5007523"
-  },
-  "Woodland Mansion Fighting Ring": {
-    "mids": [
-      36166
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 0,
-    "cadPrice": 64.99,
-    "pieceCount": -1,
-    "description": "Woodland Mansion collectible Minecraft® movie playset",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt09d304b0929be43b/21272_Prod.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526785&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fwoodland-mansion-fighting-ring-21272"
   },
   "Woodland Mushrooms": {
     "mids": [
@@ -12296,7 +12221,7 @@
   },
   "Zombie Dungeon": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
