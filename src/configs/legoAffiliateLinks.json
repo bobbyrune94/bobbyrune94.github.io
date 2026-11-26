@@ -179,21 +179,6 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392312049565846961958982&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2F3in1-wild-animal-families-10446",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666526181&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2F3in1-wild-animal-families-10446"
   },
-  "8-Minifigure Display Case - Red": {
-    "mids": [
-      36166
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 19.99,
-    "cadPrice": 21.99,
-    "pieceCount": -1,
-    "description": "Safe display for LEGO® minifigures",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt5551476c537bbc93/5006151.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139238255038374625279922&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2F8-minifigure-display-case-red-5006151",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666326522&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2F8-minifigure-display-case-red-5006151"
-  },
   "A New Hope Movie Poster": {
     "mids": [
       36166
@@ -391,7 +376,7 @@
   },
   "Antarctic Animals Science Kit": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -1173,7 +1158,7 @@
   },
   "Bouquet of Roses": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -2437,7 +2422,7 @@
   },
   "Downton Abbey": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -2946,6 +2931,21 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139237993075667403626348&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Ffairy-roller-coaster-and-tea-party-11214",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666588516&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Ffairy-roller-coaster-and-tea-party-11214"
   },
+  "Family Dollhouse": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 54.99,
+    "pieceCount": -1,
+    "description": "Create family routines in this colorful toy house",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blte3c8e78c56a51604/blt482adc84fc4a3e27-42717_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666654920&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Ffamily-dollhouse-42717"
+  },
   "Fast and Furious Dodge Charger R/T Car": {
     "mids": [
       13923
@@ -3323,7 +3323,7 @@
   },
   "Flower Arrangement": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -3654,7 +3654,7 @@
   },
   "Galloping Horses Canvas": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -3776,7 +3776,7 @@
   },
   "Glinda & Elphaba Visit Munchkinland": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -3954,6 +3954,21 @@
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139232760289610061206141&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fgrogus-homestead-75443",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666588624&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fgrogus-homestead-75443"
   },
+  "Guaco's Tacos": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 27.99,
+    "pieceCount": -1,
+    "description": "Create yummy gaming room decor",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt7f9462730ca95d44/bltc92e87a96d652f50-77088_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666654982&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fguacos-tacos-77088"
+  },
   "Gum-Gum Fruit": {
     "mids": [
       13923
@@ -4073,6 +4088,21 @@
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltbf7d085cc38abef0/bltbd6fb97f16e07c28-60509_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392310851152978435375323&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fharbor-freight-train-with-crane-truck-60509",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666585666&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fharbor-freight-train-with-crane-truck-60509"
+  },
+  "Harry, Draco and Hagrid Figures": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 34.99,
+    "pieceCount": -1,
+    "description": "Build LEGO® BrickHeadz™ models of Harry, Draco and Hagrid™",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt52be20383b0a8aa7/blt7d74668d4be03810-40992_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666659531&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fharry-draco-and-hagrid-figures-40992"
   },
   "Haunted Mansion": {
     "mids": [
@@ -4256,7 +4286,7 @@
   },
   "High-Speed Train": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -4343,6 +4373,21 @@
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt9a5bc9861ba9f600/76460_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666588700&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fhogwarts-castle-sorting-hat-ceremony-76460"
+  },
+  "Hogwarts Express & Platform 9¾": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 129.99,
+    "pieceCount": -1,
+    "description": "All aboard the Hogwarts™ Express for magical adventure",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt77c2cd356b83a71d/blt6e5340cbfb03d74d-76487_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666659982&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fhogwarts-express-platform-9-76487"
   },
   "Hogwarts Herbology Plants": {
     "mids": [
@@ -5173,7 +5218,7 @@
   },
   "Knight Bus Adventure": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -5394,7 +5439,7 @@
     "description": "Fun LEGO® brick frame for pictures, photos or display",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt1d8829635ae86d46/5006215.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392311859302383327261477&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Flego-picture-frame-5006215",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666335693&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Flego-picture-frame-5006215"
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666335692&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Flego-picture-frame-5006215"
   },
   "LEGO Play and Display Case - Red": {
     "mids": [
@@ -5503,7 +5548,7 @@
   },
   "Light": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -6436,18 +6481,18 @@
   },
   "Millennium Falcon": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
     "usdPrice": 84.99,
-    "cadPrice": 109.99,
+    "cadPrice": 1049.99,
     "pieceCount": -1,
-    "description": "Collectible LEGO® Star Wars™ vehicle set for adults",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltea91c53f2609bfa5/75375.png?format=jpg&fit=bounds&quality=80",
+    "description": "Travel the LEGO® galaxy in the ultimate Millennium Falcon!",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt3349f56c6f192e18/75192_Prod.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139239705644824461590189&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fmillennium-falcon-75375",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666470424&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fmillennium-falcon-75375"
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666175771&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fmillennium-falcon-75192"
   },
   "Mineral Collection": {
     "mids": [
@@ -6782,7 +6827,7 @@
   },
   "Music Decor Piano with Cat": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -7060,10 +7105,10 @@
     "usdPrice": 90,
     "cadPrice": 100,
     "pieceCount": -1,
-    "description": "Play sports in style with the Nike x LEGO® Aero-FIT Shorts",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt242d3ccde967a163/5010084.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392310738679023956488147&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-big-kids-aero-fit-shorts-5010084",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666633306&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-big-kids-aero-fit-shorts-5010084"
+    "description": "Play in style with the Nike x LEGO® Aero-FIT Shorts",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltc993e974f339417c/5010086.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139232749798398868205756&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-big-kids-aero-fit-shorts-5010084",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666633315&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-big-kids-aero-fit-shorts-5010086"
   },
   "Nike x LEGO Collection Big Kids' Aero-FIT Soccer Jersey": {
     "mids": [
@@ -7157,7 +7202,7 @@
   },
   "Nike x LEGO Collection Big Kids' Shorts - Black": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -7168,7 +7213,7 @@
     "description": "Play soccer in style with the Nike x LEGO® Big Kids' Shorts",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltc6c74df2fdd53e32/5010251.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392310528219893411666781&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-big-kids-shorts-black-5010251",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666647504&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-big-kids-shorts-black-5010251"
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666647505&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-big-kids-shorts-black-5010251"
   },
   "Nike x LEGO Collection Big Kids' Shorts - Lucky Green": {
     "mids": [
@@ -7212,8 +7257,8 @@
     "pieceCount": -1,
     "description": "Keep kids warm in a Nike x LEGO® Collection jacket",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltbaaa2d91e9ad5a05/5009949.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139239205882254302095464&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-jacket-5009949",
-    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666616981&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-jacket-5009949"
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392310035686232475764787&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fnike-x-lego-collection-jacket-5009949",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666616983&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fnike-x-lego-collection-jacket-5009949"
   },
   "Nike x LEGO Collection Soccer Ball": {
     "mids": [
@@ -7347,7 +7392,7 @@
     "pieceCount": -1,
     "description": "Step out in style with these NINJAGO® clogs",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blte29cd72db6c70ddc/213553_90H_ALT110.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139232197571927812215617&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fninjago-adults-classic-clog-5010450",
+    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392310524380764367221012&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fninjago-adults-classic-clog-5010450",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666662975&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fninjago-adults-classic-clog-5010450"
   },
   "NINJAGO City Workshops": {
@@ -7562,7 +7607,7 @@
   },
   "Olivia Rodrigo's Concert Moon": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -7652,7 +7697,7 @@
   },
   "Oracle Red Bull Racing RB20 F1 Race Car": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
@@ -7710,6 +7755,21 @@
     "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666391548&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Forchid-10311",
     "kennyHas": true
+  },
+  "P-1000": {
+    "mids": [
+      36166
+    ],
+    "setNumber": "",
+    "theme": "",
+    "year": -1,
+    "usdPrice": 0,
+    "cadPrice": 129.99,
+    "pieceCount": -1,
+    "description": "Create gamer decor with mass Peely appeal",
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltcb1f000a08dc8e5a/blt3682783896a1b9ed-77084_Prod_en-gb.png?format=jpg&fit=bounds&quality=80",
+    "usProductLink": "",
+    "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666654980&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fp-1000-77084"
   },
   "Paris - City of Love": {
     "mids": [
@@ -8705,7 +8765,7 @@
   },
   "Shelby Cobra 427 S/C": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -8840,7 +8900,7 @@
   },
   "Siege of Mandalore Battle Pack": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -9230,7 +9290,7 @@
   },
   "Sorcerer's Stone - Collectors' Edition": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -9876,7 +9936,7 @@
   },
   "The Creeper": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -10296,17 +10356,17 @@
   },
   "The Razor Crest": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
     "year": -1,
-    "usdPrice": 149.99,
+    "usdPrice": 0,
     "cadPrice": 189.99,
     "pieceCount": -1,
     "description": "Fantastic Star Wars™ building toy for battle action",
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt34b27553596c6ef5/75447_Prod.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392318298979089533984024&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fthe-razor-crest-75447",
+    "usProductLink": "",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666588632&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Fthe-razor-crest-75447"
   },
   "The Simpsons: Krusty Burger": {
@@ -10488,21 +10548,6 @@
     "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltb2f845ffd52a25b0/10329.png?format=jpg&fit=bounds&quality=80",
     "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.1392312329868909551569328&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Ftiny-plants-10329",
     "caProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1542570.361666465042&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-ca%2Fproduct%2Ftiny-plants-10329"
-  },
-  "Tipping Dump Truck": {
-    "mids": [
-      13923
-    ],
-    "setNumber": "",
-    "theme": "",
-    "year": -1,
-    "usdPrice": 49.99,
-    "cadPrice": 0,
-    "pieceCount": -1,
-    "description": "Buildable truck building kit for kids",
-    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt8e48148bb440da81/42203_Prod.png?format=jpg&fit=bounds&quality=80",
-    "usProductLink": "https://click.linksynergy.com/link?id=q6G0yoAN6jI&offerid=1606623.139234826625516585506785&type=15&murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Ftipping-dump-truck-42203",
-    "caProductLink": ""
   },
   "Tomatohead": {
     "mids": [
@@ -10686,7 +10731,7 @@
   },
   "Tuxedo Cat": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -10881,7 +10926,7 @@
   },
   "Up-Scaled Santa Minifigure": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -10987,7 +11032,7 @@
   },
   "Venetian Neighborhood": {
     "mids": [
-      36166
+      13923
     ],
     "setNumber": "",
     "theme": "",
@@ -11484,7 +11529,7 @@
   },
   "Yellow Travel Suitcase": {
     "mids": [
-      13923
+      36166
     ],
     "setNumber": "",
     "theme": "",
